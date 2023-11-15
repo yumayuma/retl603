@@ -1,4 +1,4 @@
-customer,choice,gender,amount_spent,frequency,last purchase,tenure,p_fiction,p_nonfiction
+customer,choice,gender,amount_spent,frequency,last_purchase,tenure,p_fiction,p_nonfiction
 1,1,1,113,8,1,8,0,0
 2,1,1,418,6,11,66,0,8
 3,1,1,336,18,6,32,6,4
