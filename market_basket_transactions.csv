@@ -1,0 +1,10751 @@
+transaction_id,item
+1,Apples
+1,Bread
+1,Chocolate
+1,Eggs
+2,Bread
+2,Chocolate
+3,Yogurt
+4,Chocolate
+4,Tea
+5,Cereal
+5,Coffee
+5,Salsa
+5,Sparkling water
+5,Tortilla chips
+6,Bread
+6,Tea
+7,Chocolate
+7,Eggs
+8,Apples
+8,Bread
+8,Cereal
+8,Milk
+8,Pasta sauce
+9,Apples
+9,Yogurt
+10,Apples
+10,Eggs
+10,Pasta sauce
+11,Cereal
+11,Milk
+11,Sparkling water
+12,Bananas
+12,Bread
+12,Salsa
+12,Sparkling water
+12,Tortilla chips
+13,Bread
+13,Cereal
+13,Pasta
+13,Pasta sauce
+13,Salsa
+13,Tortilla chips
+14,Bread
+14,Eggs
+14,Tortilla chips
+15,Apples
+15,Parmesan
+15,Pasta
+15,Pasta sauce
+16,Bread
+16,Cereal
+16,Milk
+16,Yogurt
+17,Cereal
+17,Parmesan
+17,Pasta
+17,Pasta sauce
+18,Apples
+18,Pasta
+18,Salsa
+18,Tortilla chips
+19,Apples
+19,Parmesan
+19,Yogurt
+20,Bread
+20,Eggs
+21,Pasta
+21,Pasta sauce
+21,Yogurt
+22,Eggs
+22,Milk
+23,Apples
+23,Bread
+23,Milk
+24,Bananas
+24,Bread
+24,Eggs
+24,Parmesan
+24,Pasta
+24,Pasta sauce
+24,Salsa
+24,Sparkling water
+24,Tortilla chips
+25,Bananas
+25,Coffee
+25,Pasta
+25,Pasta sauce
+25,Yogurt
+26,Apples
+26,Bananas
+26,Pasta
+26,Sparkling water
+27,Cereal
+27,Chocolate
+27,Eggs
+27,Parmesan
+27,Sparkling water
+28,Eggs
+29,Chocolate
+29,Coffee
+29,Milk
+30,Bananas
+30,Bread
+30,Milk
+30,Yogurt
+31,Bananas
+31,Bread
+31,Cereal
+31,Milk
+31,Sparkling water
+32,Eggs
+32,Milk
+33,Apples
+33,Eggs
+33,Pasta
+33,Pasta sauce
+34,Parmesan
+34,Pasta
+34,Pasta sauce
+34,Salsa
+34,Tea
+35,Parmesan
+35,Pasta
+35,Pasta sauce
+36,Cereal
+36,Milk
+37,Apples
+37,Bananas
+37,Bread
+37,Cereal
+37,Milk
+37,Parmesan
+37,Pasta
+37,Pasta sauce
+38,Bananas
+38,Parmesan
+38,Pasta
+38,Pasta sauce
+38,Sparkling water
+39,Tortilla chips
+39,Yogurt
+40,Bananas
+41,Bananas
+41,Cereal
+41,Pasta
+42,Eggs
+42,Milk
+42,Parmesan
+42,Pasta
+42,Pasta sauce
+43,Bread
+43,Eggs
+43,Parmesan
+43,Tea
+43,Yogurt
+44,Eggs
+44,Milk
+45,Apples
+45,Eggs
+45,Pasta
+45,Pasta sauce
+46,Milk
+46,Salsa
+46,Tea
+47,Milk
+47,Sparkling water
+48,Bananas
+48,Bread
+48,Eggs
+48,Yogurt
+49,Milk
+50,Chocolate
+50,Milk
+50,Pasta
+51,Milk
+51,Pasta
+51,Salsa
+51,Tortilla chips
+52,Bananas
+52,Milk
+52,Tortilla chips
+53,Pasta
+54,Apples
+54,Eggs
+54,Milk
+54,Pasta
+54,Pasta sauce
+54,Salsa
+54,Tea
+54,Tortilla chips
+54,Yogurt
+55,Apples
+55,Bananas
+55,Salsa
+55,Tortilla chips
+56,Bananas
+56,Cereal
+56,Eggs
+56,Milk
+56,Pasta sauce
+56,Tea
+57,Bananas
+57,Chocolate
+57,Salsa
+57,Tortilla chips
+58,Eggs
+58,Milk
+58,Tortilla chips
+59,Bread
+59,Cereal
+59,Chocolate
+59,Milk
+59,Sparkling water
+59,Tortilla chips
+60,Bananas
+60,Cereal
+60,Milk
+60,Salsa
+60,Tortilla chips
+60,Yogurt
+61,Cereal
+61,Eggs
+61,Milk
+62,Salsa
+63,Cereal
+63,Eggs
+63,Milk
+63,Tea
+64,Bread
+64,Cereal
+64,Milk
+64,Sparkling water
+64,Tea
+65,Chocolate
+66,Cereal
+66,Chocolate
+66,Eggs
+66,Milk
+66,Parmesan
+66,Pasta
+67,Bananas
+67,Bread
+67,Chocolate
+67,Milk
+67,Pasta
+68,Apples
+68,Eggs
+68,Parmesan
+68,Pasta
+68,Pasta sauce
+68,Salsa
+68,Tea
+68,Tortilla chips
+69,Milk
+69,Yogurt
+70,Apples
+70,Pasta
+70,Yogurt
+71,Bananas
+71,Bread
+71,Milk
+71,Salsa
+71,Sparkling water
+71,Tea
+71,Tortilla chips
+72,Bananas
+72,Bread
+72,Milk
+73,Bananas
+73,Cereal
+73,Milk
+73,Parmesan
+73,Pasta
+73,Pasta sauce
+73,Yogurt
+74,Parmesan
+74,Pasta
+74,Pasta sauce
+75,Cereal
+75,Coffee
+75,Milk
+76,Milk
+76,Tortilla chips
+77,Bananas
+77,Cereal
+77,Milk
+77,Tea
+78,Bananas
+78,Cereal
+78,Milk
+78,Sparkling water
+79,Milk
+79,Pasta
+79,Sparkling water
+80,Apples
+80,Chocolate
+80,Milk
+80,Pasta sauce
+80,Tortilla chips
+81,Apples
+81,Milk
+81,Tortilla chips
+82,Bananas
+82,Coffee
+82,Tea
+83,Apples
+83,Bread
+83,Parmesan
+83,Pasta
+84,Apples
+84,Bread
+84,Tortilla chips
+85,Apples
+85,Eggs
+85,Sparkling water
+86,Apples
+86,Bananas
+86,Milk
+86,Pasta
+86,Pasta sauce
+87,Cereal
+87,Chocolate
+88,Apples
+88,Bread
+88,Eggs
+88,Milk
+88,Yogurt
+89,Bananas
+89,Cereal
+89,Milk
+89,Pasta sauce
+90,Cereal
+90,Chocolate
+90,Coffee
+90,Sparkling water
+90,Tea
+91,Apples
+91,Bread
+91,Milk
+91,Salsa
+91,Tortilla chips
+92,Apples
+92,Salsa
+92,Tortilla chips
+93,Bananas
+93,Milk
+94,Parmesan
+94,Pasta
+94,Pasta sauce
+95,Cereal
+95,Chocolate
+95,Milk
+95,Tea
+96,Bananas
+96,Cereal
+96,Milk
+96,Sparkling water
+96,Tortilla chips
+97,Bread
+97,Pasta
+97,Pasta sauce
+98,Bananas
+98,Bread
+98,Parmesan
+98,Pasta
+98,Pasta sauce
+99,Cereal
+99,Chocolate
+99,Eggs
+99,Milk
+99,Salsa
+100,Tea
+100,Yogurt
+101,Eggs
+101,Pasta
+101,Pasta sauce
+101,Sparkling water
+102,Eggs
+102,Milk
+102,Sparkling water
+102,Yogurt
+103,Bananas
+103,Cereal
+103,Coffee
+103,Milk
+103,Pasta
+104,Bread
+104,Milk
+104,Pasta
+104,Pasta sauce
+105,Cereal
+105,Eggs
+105,Salsa
+106,Yogurt
+107,Apples
+107,Parmesan
+107,Pasta
+107,Pasta sauce
+108,Cereal
+108,Chocolate
+108,Pasta
+108,Pasta sauce
+108,Tortilla chips
+109,Bananas
+110,Bananas
+110,Eggs
+110,Salsa
+110,Tortilla chips
+111,Tea
+112,Bananas
+112,Bread
+112,Pasta sauce
+112,Tea
+113,Pasta
+113,Sparkling water
+114,Bread
+114,Cereal
+114,Chocolate
+115,Bread
+116,Parmesan
+116,Sparkling water
+117,Milk
+118,Milk
+118,Salsa
+118,Tortilla chips
+119,Chocolate
+119,Eggs
+119,Milk
+119,Salsa
+119,Tortilla chips
+120,Chocolate
+120,Pasta sauce
+120,Salsa
+120,Tortilla chips
+121,Apples
+121,Bread
+121,Chocolate
+121,Pasta
+121,Pasta sauce
+122,Pasta
+122,Pasta sauce
+123,Apples
+123,Bananas
+123,Cereal
+123,Eggs
+123,Salsa
+123,Tortilla chips
+123,Yogurt
+124,Bananas
+124,Pasta
+124,Yogurt
+125,Bread
+126,Bread
+126,Cereal
+126,Coffee
+126,Eggs
+127,Bread
+127,Coffee
+127,Pasta sauce
+127,Tea
+127,Yogurt
+128,Apples
+128,Bananas
+128,Milk
+128,Pasta
+128,Pasta sauce
+129,Cereal
+129,Eggs
+129,Milk
+129,Sparkling water
+129,Tea
+129,Yogurt
+130,Apples
+130,Cereal
+130,Coffee
+130,Milk
+130,Salsa
+130,Tortilla chips
+131,Apples
+131,Bread
+131,Cereal
+131,Milk
+131,Pasta sauce
+132,Bananas
+132,Pasta
+133,Bread
+133,Eggs
+133,Pasta
+134,Bananas
+134,Eggs
+134,Pasta
+135,Parmesan
+135,Salsa
+135,Tortilla chips
+135,Yogurt
+136,Bread
+136,Eggs
+136,Milk
+136,Pasta
+137,Chocolate
+137,Parmesan
+137,Salsa
+137,Tortilla chips
+137,Yogurt
+138,Salsa
+138,Sparkling water
+138,Tortilla chips
+139,Apples
+139,Eggs
+139,Milk
+140,Bread
+140,Cereal
+140,Milk
+140,Sparkling water
+141,Coffee
+141,Milk
+141,Salsa
+141,Tortilla chips
+141,Yogurt
+142,Bread
+142,Coffee
+142,Pasta
+142,Pasta sauce
+143,Bananas
+143,Bread
+143,Eggs
+143,Pasta
+143,Pasta sauce
+144,Bananas
+144,Coffee
+144,Eggs
+144,Milk
+145,Apples
+145,Bananas
+145,Bread
+145,Milk
+145,Salsa
+145,Tortilla chips
+146,Bread
+146,Eggs
+146,Pasta sauce
+147,Bananas
+147,Cereal
+147,Eggs
+147,Milk
+147,Salsa
+148,Bread
+148,Parmesan
+148,Pasta
+148,Pasta sauce
+149,Cereal
+149,Milk
+149,Salsa
+149,Tea
+149,Tortilla chips
+150,Bananas
+151,Salsa
+151,Tortilla chips
+152,Bread
+152,Tortilla chips
+153,Bread
+153,Sparkling water
+153,Tortilla chips
+154,Bananas
+154,Chocolate
+154,Sparkling water
+155,Eggs
+155,Milk
+155,Pasta sauce
+156,Bananas
+156,Chocolate
+156,Milk
+156,Salsa
+156,Tortilla chips
+157,Cereal
+157,Coffee
+157,Milk
+157,Pasta sauce
+157,Salsa
+157,Tortilla chips
+158,Bananas
+159,Chocolate
+160,Yogurt
+161,Apples
+161,Sparkling water
+162,Apples
+162,Cereal
+162,Milk
+162,Salsa
+162,Tortilla chips
+163,Apples
+163,Eggs
+163,Milk
+164,Eggs
+164,Pasta
+165,Cereal
+165,Coffee
+165,Milk
+165,Pasta
+166,Bread
+166,Salsa
+166,Tortilla chips
+166,Yogurt
+167,Bread
+167,Cereal
+167,Milk
+167,Yogurt
+168,Apples
+168,Milk
+168,Parmesan
+168,Pasta
+168,Salsa
+168,Tortilla chips
+169,Milk
+169,Pasta
+169,Pasta sauce
+169,Tortilla chips
+170,Apples
+170,Bananas
+170,Milk
+171,Pasta
+171,Salsa
+171,Tortilla chips
+172,Bananas
+172,Milk
+173,Cereal
+173,Milk
+173,Parmesan
+173,Pasta
+173,Pasta sauce
+173,Salsa
+173,Tortilla chips
+174,Apples
+174,Parmesan
+174,Pasta
+174,Pasta sauce
+175,Apples
+175,Milk
+176,Bread
+176,Milk
+177,Bread
+177,Chocolate
+177,Milk
+177,Parmesan
+177,Pasta
+177,Pasta sauce
+178,Bread
+178,Cereal
+178,Chocolate
+178,Coffee
+178,Milk
+179,Milk
+179,Sparkling water
+179,Yogurt
+180,Cereal
+180,Milk
+180,Pasta
+180,Yogurt
+181,Bananas
+181,Bread
+181,Sparkling water
+182,Milk
+183,Cereal
+183,Eggs
+183,Milk
+183,Sparkling water
+183,Tea
+184,Bread
+184,Eggs
+184,Milk
+184,Pasta sauce
+184,Sparkling water
+184,Tortilla chips
+185,Cereal
+185,Eggs
+185,Sparkling water
+186,Cereal
+186,Milk
+186,Pasta
+187,Coffee
+187,Eggs
+187,Salsa
+187,Tortilla chips
+188,Bananas
+188,Pasta
+189,Tea
+190,Apples
+190,Bananas
+190,Coffee
+191,Apples
+191,Pasta
+191,Pasta sauce
+191,Salsa
+191,Tortilla chips
+192,Apples
+192,Bananas
+192,Bread
+192,Pasta sauce
+192,Sparkling water
+193,Apples
+193,Milk
+193,Pasta
+193,Pasta sauce
+193,Salsa
+193,Tortilla chips
+194,Bread
+194,Cereal
+194,Chocolate
+194,Coffee
+194,Eggs
+194,Milk
+195,Apples
+195,Milk
+195,Tortilla chips
+196,Bananas
+196,Bread
+196,Chocolate
+196,Parmesan
+196,Pasta
+196,Pasta sauce
+196,Sparkling water
+197,Apples
+197,Bread
+197,Cereal
+197,Milk
+197,Sparkling water
+198,Cereal
+198,Coffee
+198,Milk
+198,Salsa
+198,Tortilla chips
+199,Bananas
+199,Coffee
+199,Milk
+200,Bread
+200,Milk
+200,Yogurt
+201,Bread
+201,Cereal
+201,Milk
+202,Bread
+202,Cereal
+202,Milk
+202,Parmesan
+202,Pasta
+202,Pasta sauce
+202,Yogurt
+203,Bread
+203,Pasta sauce
+204,Milk
+204,Parmesan
+205,Bread
+205,Pasta
+205,Tea
+205,Yogurt
+206,Eggs
+206,Parmesan
+206,Pasta
+206,Pasta sauce
+206,Sparkling water
+206,Tea
+206,Yogurt
+207,Bananas
+207,Milk
+207,Sparkling water
+208,Bread
+208,Parmesan
+208,Pasta
+208,Pasta sauce
+209,Milk
+209,Yogurt
+210,Coffee
+210,Pasta
+210,Pasta sauce
+210,Tortilla chips
+211,Apples
+211,Bananas
+212,Apples
+213,Bananas
+213,Parmesan
+213,Pasta sauce
+214,Bananas
+214,Bread
+215,Milk
+215,Pasta
+215,Pasta sauce
+216,Apples
+216,Coffee
+217,Eggs
+217,Milk
+217,Sparkling water
+217,Yogurt
+218,Apples
+218,Bananas
+218,Eggs
+218,Sparkling water
+219,Bananas
+220,Coffee
+220,Eggs
+220,Tortilla chips
+221,Apples
+221,Milk
+221,Salsa
+221,Tortilla chips
+221,Yogurt
+222,Parmesan
+222,Pasta
+222,Pasta sauce
+222,Salsa
+222,Tortilla chips
+222,Yogurt
+223,Bananas
+223,Cereal
+223,Milk
+224,Chocolate
+224,Milk
+224,Pasta
+224,Salsa
+224,Sparkling water
+224,Tea
+224,Tortilla chips
+225,Sparkling water
+226,Bananas
+226,Milk
+227,Apples
+227,Bananas
+227,Cereal
+227,Chocolate
+227,Milk
+227,Pasta sauce
+227,Sparkling water
+228,Cereal
+228,Milk
+229,Parmesan
+229,Pasta
+229,Pasta sauce
+229,Salsa
+229,Sparkling water
+229,Tea
+230,Bananas
+230,Salsa
+230,Tortilla chips
+231,Bread
+231,Milk
+231,Parmesan
+231,Pasta
+231,Pasta sauce
+232,Apples
+232,Bread
+233,Bananas
+233,Bread
+233,Coffee
+233,Milk
+233,Parmesan
+233,Pasta
+233,Pasta sauce
+234,Bananas
+234,Bread
+234,Eggs
+235,Apples
+235,Eggs
+235,Tea
+236,Milk
+236,Yogurt
+237,Sparkling water
+238,Bananas
+238,Cereal
+238,Coffee
+238,Milk
+238,Tea
+239,Cereal
+239,Milk
+240,Bananas
+240,Bread
+240,Milk
+240,Pasta
+240,Salsa
+240,Tortilla chips
+240,Yogurt
+241,Bananas
+241,Cereal
+241,Eggs
+241,Milk
+242,Bananas
+242,Milk
+242,Sparkling water
+242,Tea
+243,Bread
+243,Pasta
+244,Pasta
+244,Salsa
+244,Tortilla chips
+245,Apples
+245,Bananas
+245,Bread
+246,Milk
+246,Pasta sauce
+247,Milk
+248,Bananas
+248,Milk
+248,Parmesan
+248,Pasta
+248,Pasta sauce
+248,Sparkling water
+248,Tortilla chips
+249,Cereal
+250,Chocolate
+250,Eggs
+250,Milk
+250,Pasta
+251,Bread
+251,Salsa
+251,Tortilla chips
+252,Milk
+253,Bananas
+253,Eggs
+253,Milk
+253,Sparkling water
+254,Cereal
+254,Tortilla chips
+255,Coffee
+255,Milk
+256,Bread
+256,Yogurt
+257,Eggs
+257,Pasta
+258,Bread
+258,Eggs
+258,Salsa
+258,Tortilla chips
+259,Eggs
+259,Pasta sauce
+260,Bananas
+260,Bread
+260,Cereal
+260,Eggs
+260,Parmesan
+260,Pasta
+260,Pasta sauce
+261,Apples
+261,Chocolate
+261,Coffee
+261,Tea
+262,Bananas
+262,Milk
+262,Yogurt
+263,Apples
+263,Bread
+263,Cereal
+263,Milk
+263,Pasta
+263,Pasta sauce
+264,Parmesan
+264,Pasta
+264,Pasta sauce
+264,Tortilla chips
+265,Apples
+265,Bananas
+265,Parmesan
+265,Pasta
+265,Pasta sauce
+266,Apples
+266,Bananas
+266,Eggs
+266,Milk
+267,Apples
+267,Bread
+267,Salsa
+267,Tortilla chips
+268,Bread
+268,Milk
+268,Yogurt
+269,Bread
+270,Bread
+270,Coffee
+270,Pasta sauce
+270,Sparkling water
+270,Tea
+271,Milk
+272,Apples
+272,Chocolate
+273,Chocolate
+273,Milk
+273,Yogurt
+274,Bananas
+274,Cereal
+274,Pasta sauce
+275,Chocolate
+276,Apples
+276,Bread
+276,Parmesan
+276,Pasta
+276,Pasta sauce
+277,Bread
+277,Cereal
+277,Milk
+277,Sparkling water
+278,Sparkling water
+278,Tortilla chips
+279,Bread
+279,Chocolate
+279,Coffee
+279,Milk
+279,Salsa
+279,Tortilla chips
+279,Yogurt
+280,Bananas
+280,Coffee
+280,Eggs
+280,Milk
+280,Parmesan
+280,Pasta
+280,Pasta sauce
+281,Bananas
+281,Eggs
+282,Milk
+282,Tea
+282,Yogurt
+283,Apples
+283,Bananas
+283,Salsa
+283,Tortilla chips
+284,Chocolate
+285,Bread
+285,Yogurt
+286,Milk
+287,Apples
+287,Bananas
+288,Bananas
+288,Eggs
+289,Bread
+289,Chocolate
+290,Bread
+290,Chocolate
+290,Eggs
+291,Salsa
+291,Sparkling water
+291,Yogurt
+292,Bread
+292,Tea
+293,Bananas
+293,Bread
+293,Cereal
+293,Milk
+294,Apples
+294,Bananas
+294,Bread
+294,Yogurt
+295,Cereal
+295,Milk
+295,Parmesan
+295,Pasta
+295,Pasta sauce
+296,Coffee
+296,Milk
+296,Sparkling water
+297,Milk
+298,Chocolate
+299,Coffee
+299,Pasta
+300,Bread
+300,Milk
+301,Milk
+301,Sparkling water
+302,Bread
+302,Cereal
+302,Milk
+302,Parmesan
+302,Pasta
+302,Pasta sauce
+302,Tortilla chips
+303,Bread
+303,Coffee
+304,Bananas
+304,Cereal
+304,Eggs
+304,Milk
+304,Pasta
+304,Yogurt
+305,Bananas
+305,Milk
+305,Pasta sauce
+306,Bread
+306,Cereal
+306,Milk
+306,Sparkling water
+306,Yogurt
+307,Apples
+307,Bread
+307,Eggs
+308,Bananas
+309,Cereal
+309,Chocolate
+309,Sparkling water
+310,Coffee
+310,Eggs
+310,Pasta
+311,Apples
+311,Salsa
+312,Bananas
+312,Coffee
+312,Milk
+312,Tortilla chips
+313,Bananas
+313,Milk
+313,Parmesan
+313,Tea
+314,Pasta
+314,Pasta sauce
+314,Salsa
+314,Sparkling water
+314,Tortilla chips
+315,Apples
+315,Milk
+316,Bananas
+316,Bread
+316,Milk
+316,Sparkling water
+317,Bread
+317,Eggs
+317,Milk
+318,Bananas
+318,Salsa
+318,Tortilla chips
+319,Eggs
+319,Milk
+319,Salsa
+319,Tortilla chips
+320,Apples
+320,Sparkling water
+321,Apples
+321,Eggs
+321,Milk
+322,Bread
+322,Salsa
+322,Tortilla chips
+323,Chocolate
+323,Coffee
+323,Yogurt
+324,Bananas
+324,Bread
+324,Eggs
+325,Cereal
+325,Milk
+325,Salsa
+325,Tortilla chips
+326,Apples
+326,Bananas
+326,Bread
+326,Milk
+326,Pasta
+326,Pasta sauce
+327,Parmesan
+327,Pasta
+327,Pasta sauce
+327,Salsa
+328,Apples
+328,Cereal
+328,Milk
+328,Salsa
+329,Cereal
+329,Milk
+329,Parmesan
+329,Pasta sauce
+329,Yogurt
+330,Bananas
+330,Salsa
+330,Sparkling water
+330,Tortilla chips
+331,Cereal
+331,Eggs
+331,Milk
+332,Chocolate
+332,Milk
+332,Parmesan
+332,Pasta
+332,Pasta sauce
+332,Sparkling water
+333,Chocolate
+333,Parmesan
+333,Pasta
+333,Pasta sauce
+334,Eggs
+334,Milk
+334,Salsa
+335,Milk
+335,Parmesan
+336,Apples
+336,Salsa
+336,Tortilla chips
+336,Yogurt
+337,Bread
+337,Sparkling water
+337,Tortilla chips
+337,Yogurt
+338,Cereal
+338,Milk
+338,Sparkling water
+339,Bread
+339,Tea
+340,Apples
+341,Milk
+342,Chocolate
+343,Cereal
+343,Chocolate
+343,Milk
+343,Parmesan
+343,Pasta
+343,Pasta sauce
+344,Bananas
+344,Coffee
+344,Milk
+344,Sparkling water
+344,Tea
+345,Milk
+345,Pasta
+345,Pasta sauce
+345,Yogurt
+346,Bread
+346,Milk
+347,Chocolate
+347,Milk
+347,Pasta
+347,Tortilla chips
+348,Apples
+348,Sparkling water
+349,Apples
+349,Milk
+349,Salsa
+349,Tortilla chips
+350,Milk
+350,Parmesan
+350,Pasta
+350,Pasta sauce
+351,Tea
+352,Coffee
+352,Milk
+352,Pasta sauce
+352,Tea
+353,Apples
+353,Chocolate
+353,Eggs
+353,Milk
+354,Bananas
+354,Cereal
+354,Eggs
+354,Milk
+355,Cereal
+355,Milk
+355,Tea
+356,Apples
+356,Bananas
+356,Cereal
+356,Eggs
+356,Milk
+356,Salsa
+356,Sparkling water
+356,Tortilla chips
+357,Cereal
+357,Eggs
+357,Milk
+357,Salsa
+357,Tortilla chips
+358,Bread
+358,Milk
+358,Pasta sauce
+359,Apples
+359,Bananas
+359,Bread
+359,Pasta
+359,Pasta sauce
+359,Tortilla chips
+360,Apples
+360,Cereal
+360,Chocolate
+360,Sparkling water
+361,Apples
+361,Yogurt
+362,Cereal
+362,Coffee
+363,Bananas
+363,Cereal
+363,Milk
+363,Pasta
+363,Pasta sauce
+364,Parmesan
+364,Pasta
+364,Pasta sauce
+364,Tea
+365,Cereal
+366,Bananas
+366,Salsa
+366,Tortilla chips
+367,Bread
+368,Bananas
+369,Milk
+369,Pasta
+369,Sparkling water
+370,Bananas
+370,Cereal
+370,Coffee
+370,Eggs
+370,Milk
+370,Pasta
+371,Bread
+371,Eggs
+371,Milk
+371,Sparkling water
+372,Apples
+372,Bananas
+372,Bread
+372,Cereal
+373,Bananas
+373,Cereal
+373,Milk
+373,Tortilla chips
+374,Bananas
+374,Bread
+374,Parmesan
+374,Pasta
+374,Pasta sauce
+374,Yogurt
+375,Bananas
+375,Eggs
+375,Sparkling water
+376,Cereal
+376,Chocolate
+376,Milk
+377,Chocolate
+377,Salsa
+377,Tea
+377,Tortilla chips
+378,Cereal
+378,Milk
+378,Parmesan
+378,Salsa
+378,Tortilla chips
+379,Eggs
+379,Milk
+379,Pasta
+379,Pasta sauce
+380,Bread
+380,Chocolate
+380,Coffee
+380,Milk
+380,Tortilla chips
+380,Yogurt
+381,Bread
+381,Milk
+381,Pasta sauce
+381,Yogurt
+382,Milk
+383,Milk
+383,Pasta
+383,Pasta sauce
+384,Bread
+384,Cereal
+384,Eggs
+384,Milk
+385,Bananas
+385,Bread
+385,Tortilla chips
+386,Milk
+386,Yogurt
+387,Bread
+387,Milk
+387,Parmesan
+387,Yogurt
+388,Apples
+388,Cereal
+388,Chocolate
+388,Coffee
+388,Milk
+388,Salsa
+389,Bread
+389,Parmesan
+389,Pasta
+389,Pasta sauce
+390,Bread
+390,Chocolate
+391,Bread
+391,Eggs
+391,Milk
+392,Apples
+392,Milk
+393,Chocolate
+393,Eggs
+393,Milk
+394,Bananas
+394,Chocolate
+394,Eggs
+394,Milk
+395,Salsa
+395,Sparkling water
+395,Tortilla chips
+396,Coffee
+396,Pasta
+396,Pasta sauce
+397,Bread
+397,Eggs
+397,Milk
+397,Pasta sauce
+397,Tea
+398,Cereal
+398,Milk
+398,Salsa
+398,Tortilla chips
+398,Yogurt
+399,Chocolate
+399,Pasta
+399,Pasta sauce
+400,Eggs
+400,Milk
+400,Pasta
+400,Pasta sauce
+400,Sparkling water
+401,Cereal
+401,Coffee
+401,Milk
+401,Salsa
+401,Tortilla chips
+402,Bread
+402,Eggs
+402,Pasta
+402,Tea
+403,Apples
+403,Bread
+403,Chocolate
+403,Tortilla chips
+403,Yogurt
+404,Apples
+404,Milk
+405,Apples
+405,Cereal
+405,Coffee
+405,Pasta
+406,Eggs
+406,Tea
+407,Bananas
+407,Bread
+407,Cereal
+407,Milk
+408,Bread
+408,Eggs
+408,Milk
+408,Salsa
+408,Tortilla chips
+409,Bananas
+410,Eggs
+410,Tea
+411,Apples
+411,Milk
+411,Salsa
+411,Tortilla chips
+411,Yogurt
+412,Chocolate
+412,Eggs
+412,Parmesan
+412,Pasta
+412,Pasta sauce
+412,Yogurt
+413,Bread
+414,Bananas
+414,Chocolate
+414,Milk
+414,Pasta
+414,Sparkling water
+414,Tortilla chips
+415,Bread
+416,Bread
+417,Eggs
+417,Milk
+417,Salsa
+417,Tortilla chips
+418,Milk
+418,Yogurt
+419,Apples
+419,Cereal
+419,Milk
+420,Apples
+420,Sparkling water
+420,Tea
+420,Yogurt
+421,Chocolate
+421,Milk
+422,Bananas
+423,Bread
+423,Eggs
+423,Milk
+423,Pasta
+423,Pasta sauce
+424,Eggs
+424,Parmesan
+424,Pasta
+425,Apples
+425,Milk
+426,Cereal
+426,Chocolate
+426,Salsa
+426,Tortilla chips
+427,Bread
+427,Cereal
+427,Milk
+428,Bread
+428,Coffee
+428,Eggs
+428,Milk
+429,Chocolate
+429,Eggs
+429,Milk
+430,Apples
+430,Bananas
+430,Cereal
+430,Milk
+430,Pasta
+430,Yogurt
+431,Apples
+431,Bread
+431,Cereal
+432,Bread
+432,Eggs
+432,Pasta
+432,Pasta sauce
+433,Apples
+433,Pasta sauce
+433,Sparkling water
+433,Yogurt
+434,Bananas
+434,Pasta
+434,Yogurt
+435,Apples
+435,Bread
+435,Cereal
+435,Milk
+435,Tea
+436,Salsa
+436,Yogurt
+437,Milk
+438,Apples
+438,Bread
+438,Coffee
+438,Milk
+438,Parmesan
+438,Pasta
+438,Pasta sauce
+439,Bananas
+439,Parmesan
+439,Pasta
+439,Pasta sauce
+439,Yogurt
+440,Cereal
+440,Coffee
+440,Milk
+441,Milk
+442,Bananas
+442,Bread
+442,Parmesan
+442,Pasta
+442,Pasta sauce
+443,Chocolate
+444,Cereal
+444,Coffee
+444,Eggs
+444,Milk
+444,Sparkling water
+445,Bread
+445,Coffee
+445,Milk
+445,Yogurt
+446,Bread
+447,Apples
+447,Bananas
+448,Bananas
+448,Cereal
+448,Milk
+449,Apples
+449,Tortilla chips
+450,Bread
+450,Milk
+451,Bananas
+451,Bread
+451,Chocolate
+451,Eggs
+452,Bread
+453,Pasta
+453,Pasta sauce
+453,Yogurt
+454,Salsa
+454,Sparkling water
+454,Tortilla chips
+455,Eggs
+455,Milk
+455,Tortilla chips
+456,Apples
+456,Cereal
+456,Eggs
+456,Salsa
+456,Tortilla chips
+457,Cereal
+457,Milk
+457,Sparkling water
+457,Tortilla chips
+457,Yogurt
+458,Cereal
+458,Milk
+458,Sparkling water
+459,Bread
+459,Coffee
+459,Tortilla chips
+460,Apples
+460,Bread
+460,Cereal
+460,Eggs
+460,Sparkling water
+461,Apples
+461,Bananas
+461,Cereal
+461,Eggs
+461,Milk
+461,Salsa
+461,Tortilla chips
+462,Bread
+462,Chocolate
+462,Eggs
+462,Pasta sauce
+463,Apples
+463,Cereal
+463,Milk
+464,Eggs
+464,Pasta
+464,Pasta sauce
+464,Yogurt
+465,Bread
+465,Coffee
+465,Eggs
+465,Milk
+465,Salsa
+465,Tortilla chips
+466,Bananas
+466,Eggs
+466,Milk
+466,Pasta
+467,Apples
+467,Pasta
+468,Bananas
+468,Bread
+468,Cereal
+468,Eggs
+468,Milk
+469,Cereal
+469,Eggs
+469,Milk
+469,Sparkling water
+469,Tea
+470,Coffee
+470,Tortilla chips
+471,Coffee
+471,Milk
+471,Parmesan
+471,Pasta
+471,Pasta sauce
+472,Sparkling water
+473,Cereal
+473,Eggs
+473,Milk
+474,Cereal
+474,Eggs
+474,Milk
+474,Parmesan
+474,Pasta
+474,Pasta sauce
+475,Apples
+475,Eggs
+476,Chocolate
+477,Milk
+478,Bread
+478,Eggs
+478,Pasta
+478,Salsa
+478,Tortilla chips
+479,Bananas
+479,Coffee
+479,Parmesan
+479,Pasta
+479,Pasta sauce
+479,Yogurt
+480,Apples
+480,Bread
+480,Eggs
+480,Parmesan
+480,Pasta
+480,Pasta sauce
+480,Sparkling water
+481,Cereal
+481,Milk
+481,Parmesan
+481,Salsa
+481,Tortilla chips
+482,Milk
+482,Pasta
+483,Cereal
+483,Chocolate
+483,Milk
+483,Sparkling water
+484,Bananas
+484,Cereal
+484,Chocolate
+485,Bread
+486,Bananas
+486,Bread
+486,Milk
+486,Parmesan
+486,Pasta
+486,Pasta sauce
+486,Salsa
+486,Tortilla chips
+487,Cereal
+487,Milk
+488,Apples
+488,Coffee
+489,Bananas
+489,Bread
+489,Milk
+489,Parmesan
+489,Pasta
+489,Pasta sauce
+489,Sparkling water
+490,Apples
+490,Eggs
+490,Milk
+490,Parmesan
+490,Pasta
+490,Pasta sauce
+491,Apples
+491,Coffee
+491,Milk
+491,Parmesan
+491,Pasta
+491,Pasta sauce
+492,Bananas
+492,Chocolate
+492,Eggs
+492,Salsa
+493,Eggs
+493,Milk
+493,Parmesan
+494,Eggs
+495,Bread
+496,Chocolate
+497,Apples
+497,Bananas
+497,Bread
+497,Cereal
+497,Milk
+497,Parmesan
+497,Pasta
+497,Pasta sauce
+498,Chocolate
+498,Eggs
+499,Bread
+499,Milk
+499,Sparkling water
+500,Apples
+500,Bread
+500,Cereal
+500,Milk
+500,Salsa
+500,Tortilla chips
+501,Cereal
+501,Parmesan
+501,Pasta
+501,Pasta sauce
+501,Tea
+502,Bananas
+502,Milk
+503,Bananas
+504,Apples
+504,Chocolate
+504,Pasta
+504,Salsa
+504,Tortilla chips
+505,Bananas
+505,Yogurt
+506,Bread
+506,Milk
+507,Eggs
+507,Milk
+507,Yogurt
+508,Bread
+508,Cereal
+508,Salsa
+508,Tortilla chips
+509,Chocolate
+509,Eggs
+509,Salsa
+510,Cereal
+510,Milk
+510,Parmesan
+510,Pasta sauce
+511,Eggs
+511,Milk
+511,Pasta
+511,Salsa
+511,Sparkling water
+511,Tea
+512,Eggs
+512,Parmesan
+512,Pasta
+512,Pasta sauce
+512,Yogurt
+513,Apples
+514,Bread
+514,Milk
+515,Bananas
+515,Cereal
+516,Cereal
+516,Milk
+516,Sparkling water
+517,Eggs
+517,Pasta sauce
+517,Salsa
+518,Cereal
+518,Milk
+518,Parmesan
+518,Pasta
+518,Pasta sauce
+518,Sparkling water
+518,Tortilla chips
+519,Apples
+519,Bananas
+519,Parmesan
+519,Pasta
+519,Pasta sauce
+520,Pasta sauce
+520,Sparkling water
+521,Coffee
+521,Sparkling water
+521,Yogurt
+522,Eggs
+522,Sparkling water
+523,Bananas
+523,Coffee
+524,Bread
+524,Cereal
+525,Apples
+525,Pasta
+525,Pasta sauce
+526,Milk
+526,Pasta
+526,Pasta sauce
+527,Bananas
+527,Bread
+527,Parmesan
+528,Bananas
+528,Milk
+528,Salsa
+528,Sparkling water
+528,Tortilla chips
+529,Chocolate
+529,Parmesan
+529,Pasta
+529,Pasta sauce
+530,Bananas
+530,Pasta
+530,Yogurt
+531,Bananas
+531,Cereal
+531,Coffee
+531,Milk
+532,Bananas
+532,Cereal
+532,Milk
+532,Pasta sauce
+533,Bananas
+533,Cereal
+533,Milk
+534,Bread
+534,Coffee
+534,Sparkling water
+534,Yogurt
+535,Apples
+535,Milk
+536,Cereal
+536,Coffee
+537,Cereal
+537,Milk
+537,Pasta sauce
+537,Yogurt
+538,Bananas
+538,Bread
+538,Milk
+538,Sparkling water
+539,Bread
+539,Chocolate
+539,Milk
+540,Apples
+540,Bread
+540,Yogurt
+541,Apples
+541,Bananas
+541,Tortilla chips
+542,Bananas
+542,Milk
+543,Apples
+543,Bread
+543,Cereal
+543,Milk
+543,Parmesan
+543,Pasta
+543,Pasta sauce
+544,Milk
+544,Parmesan
+545,Milk
+545,Salsa
+545,Tortilla chips
+546,Cereal
+546,Milk
+546,Yogurt
+547,Bread
+547,Eggs
+547,Parmesan
+547,Pasta
+547,Pasta sauce
+548,Pasta
+548,Pasta sauce
+548,Yogurt
+549,Bread
+549,Salsa
+549,Yogurt
+550,Milk
+551,Apples
+551,Milk
+551,Pasta
+552,Bananas
+552,Bread
+552,Milk
+552,Salsa
+552,Sparkling water
+552,Tortilla chips
+553,Bread
+553,Milk
+553,Pasta sauce
+553,Sparkling water
+554,Sparkling water
+554,Yogurt
+555,Bread
+555,Sparkling water
+555,Tea
+556,Bananas
+556,Eggs
+556,Pasta sauce
+557,Bananas
+557,Bread
+557,Milk
+558,Bananas
+558,Bread
+558,Cereal
+558,Milk
+558,Tortilla chips
+559,Cereal
+559,Coffee
+559,Milk
+560,Bananas
+560,Bread
+560,Milk
+560,Yogurt
+561,Salsa
+561,Sparkling water
+562,Bananas
+562,Milk
+563,Bread
+563,Parmesan
+563,Pasta
+563,Pasta sauce
+564,Milk
+564,Pasta
+565,Bread
+565,Parmesan
+565,Pasta
+565,Pasta sauce
+565,Salsa
+566,Cereal
+566,Milk
+566,Salsa
+566,Tortilla chips
+567,Milk
+567,Yogurt
+568,Milk
+568,Pasta
+568,Pasta sauce
+568,Tea
+569,Cereal
+569,Milk
+569,Sparkling water
+570,Bread
+570,Milk
+570,Parmesan
+571,Chocolate
+571,Coffee
+571,Parmesan
+571,Pasta
+571,Pasta sauce
+571,Sparkling water
+571,Yogurt
+572,Eggs
+573,Salsa
+573,Sparkling water
+573,Tea
+574,Bread
+574,Coffee
+574,Milk
+574,Salsa
+574,Tortilla chips
+575,Salsa
+575,Tortilla chips
+576,Eggs
+576,Milk
+577,Bread
+577,Coffee
+577,Milk
+577,Parmesan
+577,Pasta
+577,Pasta sauce
+577,Tortilla chips
+578,Apples
+578,Bananas
+578,Eggs
+579,Coffee
+579,Eggs
+579,Milk
+579,Pasta sauce
+579,Salsa
+579,Tortilla chips
+579,Yogurt
+580,Cereal
+580,Chocolate
+580,Milk
+581,Bananas
+581,Milk
+581,Salsa
+581,Tortilla chips
+582,Apples
+582,Cereal
+582,Eggs
+582,Milk
+582,Pasta
+582,Pasta sauce
+582,Sparkling water
+583,Eggs
+583,Sparkling water
+583,Tortilla chips
+584,Cereal
+584,Eggs
+584,Milk
+584,Salsa
+584,Tortilla chips
+585,Bananas
+585,Eggs
+586,Bananas
+586,Bread
+586,Cereal
+586,Milk
+587,Bananas
+587,Salsa
+587,Tortilla chips
+588,Tea
+589,Cereal
+589,Milk
+589,Sparkling water
+589,Tortilla chips
+590,Bread
+590,Eggs
+590,Yogurt
+591,Bread
+591,Milk
+592,Bananas
+592,Cereal
+592,Milk
+592,Tea
+593,Apples
+593,Bananas
+593,Bread
+593,Chocolate
+593,Parmesan
+593,Pasta
+593,Pasta sauce
+594,Bread
+594,Cereal
+594,Coffee
+594,Milk
+594,Salsa
+594,Tortilla chips
+594,Yogurt
+595,Chocolate
+596,Bread
+596,Cereal
+596,Milk
+596,Yogurt
+597,Apples
+597,Bread
+597,Tortilla chips
+597,Yogurt
+598,Bread
+598,Cereal
+598,Coffee
+598,Eggs
+598,Milk
+599,Apples
+600,Coffee
+600,Pasta
+601,Coffee
+601,Milk
+601,Pasta
+601,Pasta sauce
+601,Tortilla chips
+602,Bread
+603,Apples
+603,Milk
+604,Eggs
+604,Yogurt
+605,Bread
+605,Cereal
+605,Milk
+605,Sparkling water
+606,Apples
+606,Milk
+606,Tea
+607,Milk
+607,Pasta
+607,Pasta sauce
+607,Tea
+608,Apples
+608,Bananas
+608,Bread
+608,Cereal
+608,Coffee
+608,Eggs
+608,Tortilla chips
+609,Bananas
+609,Cereal
+609,Coffee
+609,Milk
+610,Coffee
+610,Parmesan
+610,Pasta
+610,Pasta sauce
+611,Bread
+611,Cereal
+611,Milk
+611,Parmesan
+611,Pasta
+611,Pasta sauce
+611,Salsa
+611,Sparkling water
+611,Tortilla chips
+612,Cereal
+612,Chocolate
+612,Milk
+612,Parmesan
+612,Pasta
+612,Pasta sauce
+612,Yogurt
+613,Bananas
+613,Bread
+613,Cereal
+613,Milk
+614,Bananas
+614,Bread
+614,Cereal
+614,Coffee
+614,Pasta
+614,Pasta sauce
+614,Tea
+615,Apples
+615,Bananas
+615,Coffee
+615,Eggs
+616,Bread
+616,Milk
+617,Cereal
+618,Bananas
+618,Bread
+619,Coffee
+619,Milk
+620,Bananas
+620,Salsa
+620,Tortilla chips
+621,Bread
+621,Salsa
+621,Sparkling water
+622,Apples
+622,Milk
+622,Parmesan
+622,Pasta
+622,Pasta sauce
+622,Salsa
+622,Tortilla chips
+623,Bananas
+623,Milk
+623,Pasta sauce
+623,Tortilla chips
+624,Bread
+624,Cereal
+624,Milk
+625,Bananas
+625,Bread
+625,Salsa
+626,Apples
+626,Bread
+626,Milk
+626,Parmesan
+626,Pasta
+626,Pasta sauce
+626,Salsa
+626,Yogurt
+627,Pasta
+627,Salsa
+627,Tortilla chips
+627,Yogurt
+628,Bread
+628,Chocolate
+628,Milk
+629,Bread
+629,Salsa
+629,Tortilla chips
+630,Bananas
+630,Bread
+630,Parmesan
+631,Bananas
+631,Eggs
+631,Tortilla chips
+632,Sparkling water
+632,Yogurt
+633,Apples
+633,Milk
+634,Eggs
+634,Sparkling water
+635,Bananas
+635,Eggs
+635,Milk
+636,Bread
+636,Chocolate
+636,Eggs
+636,Pasta
+636,Pasta sauce
+637,Eggs
+637,Milk
+637,Pasta
+637,Salsa
+638,Bananas
+638,Coffee
+638,Parmesan
+638,Pasta
+638,Pasta sauce
+638,Salsa
+638,Tortilla chips
+639,Pasta
+640,Pasta
+641,Eggs
+641,Milk
+641,Salsa
+641,Tortilla chips
+642,Apples
+642,Bananas
+642,Parmesan
+642,Pasta
+642,Pasta sauce
+642,Sparkling water
+643,Yogurt
+644,Bananas
+644,Cereal
+644,Parmesan
+644,Pasta
+644,Pasta sauce
+644,Salsa
+644,Tea
+644,Yogurt
+645,Apples
+645,Eggs
+645,Milk
+645,Pasta
+645,Pasta sauce
+645,Salsa
+645,Tortilla chips
+646,Salsa
+646,Tea
+646,Tortilla chips
+647,Bread
+647,Cereal
+647,Milk
+647,Pasta
+647,Pasta sauce
+648,Cereal
+649,Apples
+649,Salsa
+649,Sparkling water
+649,Tortilla chips
+650,Yogurt
+651,Apples
+651,Bread
+651,Eggs
+651,Sparkling water
+652,Cereal
+652,Milk
+652,Tortilla chips
+653,Bananas
+653,Eggs
+654,Bananas
+654,Bread
+654,Cereal
+654,Chocolate
+655,Apples
+655,Bread
+655,Coffee
+655,Parmesan
+655,Tortilla chips
+656,Apples
+656,Milk
+657,Bread
+657,Coffee
+657,Sparkling water
+657,Tea
+658,Milk
+658,Tortilla chips
+659,Eggs
+659,Milk
+659,Tea
+660,Apples
+660,Bananas
+660,Coffee
+660,Pasta
+660,Pasta sauce
+660,Sparkling water
+660,Tea
+661,Cereal
+661,Chocolate
+662,Bananas
+662,Eggs
+662,Milk
+662,Parmesan
+662,Pasta
+663,Chocolate
+663,Coffee
+663,Milk
+664,Cereal
+664,Chocolate
+664,Coffee
+664,Milk
+664,Pasta
+664,Pasta sauce
+665,Milk
+665,Sparkling water
+666,Apples
+666,Milk
+667,Chocolate
+668,Apples
+668,Cereal
+668,Milk
+669,Cereal
+669,Chocolate
+669,Milk
+669,Pasta
+669,Pasta sauce
+669,Salsa
+670,Bananas
+670,Chocolate
+671,Apples
+671,Coffee
+671,Salsa
+671,Tortilla chips
+672,Chocolate
+672,Eggs
+672,Salsa
+672,Tortilla chips
+672,Yogurt
+673,Cereal
+673,Coffee
+674,Bread
+674,Tortilla chips
+675,Salsa
+676,Bananas
+676,Coffee
+676,Eggs
+676,Milk
+676,Yogurt
+677,Cereal
+677,Pasta
+677,Pasta sauce
+678,Bananas
+678,Bread
+678,Eggs
+678,Salsa
+678,Sparkling water
+678,Tortilla chips
+679,Apples
+679,Milk
+680,Pasta
+681,Apples
+681,Bananas
+681,Chocolate
+682,Bananas
+682,Milk
+683,Bread
+683,Tea
+684,Milk
+685,Cereal
+685,Milk
+686,Eggs
+687,Eggs
+687,Milk
+687,Tea
+688,Bananas
+688,Eggs
+688,Salsa
+688,Tea
+688,Tortilla chips
+689,Cereal
+689,Milk
+689,Pasta
+689,Pasta sauce
+689,Salsa
+689,Tortilla chips
+690,Bread
+690,Pasta
+690,Pasta sauce
+690,Sparkling water
+691,Bananas
+691,Pasta
+691,Pasta sauce
+691,Salsa
+691,Tortilla chips
+692,Bananas
+692,Eggs
+692,Milk
+693,Cereal
+693,Eggs
+693,Milk
+693,Parmesan
+693,Pasta
+693,Pasta sauce
+693,Tea
+694,Sparkling water
+695,Bread
+695,Cereal
+695,Milk
+696,Bananas
+696,Eggs
+696,Milk
+697,Apples
+697,Bread
+697,Milk
+697,Pasta
+698,Apples
+698,Milk
+698,Pasta sauce
+699,Bread
+699,Chocolate
+699,Coffee
+699,Eggs
+700,Cereal
+700,Chocolate
+700,Milk
+700,Pasta
+700,Sparkling water
+701,Bread
+701,Cereal
+701,Eggs
+701,Milk
+701,Pasta
+701,Tortilla chips
+701,Yogurt
+702,Cereal
+702,Chocolate
+702,Pasta
+702,Pasta sauce
+702,Salsa
+702,Tortilla chips
+702,Yogurt
+703,Eggs
+703,Yogurt
+704,Apples
+704,Salsa
+704,Tortilla chips
+705,Bananas
+705,Coffee
+705,Pasta sauce
+705,Salsa
+706,Cereal
+706,Eggs
+706,Parmesan
+706,Pasta
+706,Pasta sauce
+706,Tea
+707,Bananas
+707,Milk
+707,Sparkling water
+708,Pasta
+708,Pasta sauce
+708,Yogurt
+709,Yogurt
+710,Bananas
+710,Eggs
+710,Yogurt
+711,Cereal
+711,Milk
+711,Pasta
+711,Pasta sauce
+711,Salsa
+712,Milk
+712,Salsa
+712,Sparkling water
+712,Tortilla chips
+713,Bananas
+713,Bread
+713,Cereal
+713,Milk
+713,Pasta
+713,Yogurt
+714,Bananas
+714,Chocolate
+715,Bread
+715,Chocolate
+715,Coffee
+715,Milk
+715,Tortilla chips
+716,Chocolate
+716,Milk
+716,Pasta
+716,Pasta sauce
+716,Salsa
+716,Tortilla chips
+717,Apples
+717,Bread
+718,Apples
+718,Bread
+719,Bananas
+719,Cereal
+719,Milk
+720,Milk
+720,Tea
+720,Yogurt
+721,Coffee
+721,Milk
+721,Tortilla chips
+722,Sparkling water
+722,Tea
+722,Yogurt
+723,Bananas
+723,Bread
+723,Chocolate
+723,Parmesan
+723,Pasta
+723,Pasta sauce
+723,Salsa
+723,Sparkling water
+723,Tea
+724,Apples
+724,Bananas
+724,Milk
+725,Bananas
+725,Chocolate
+725,Parmesan
+725,Pasta
+725,Pasta sauce
+726,Bread
+726,Milk
+726,Yogurt
+727,Pasta
+727,Pasta sauce
+727,Salsa
+727,Sparkling water
+728,Bread
+729,Sparkling water
+729,Tea
+729,Tortilla chips
+730,Apples
+730,Bananas
+730,Pasta
+730,Pasta sauce
+731,Cereal
+731,Milk
+731,Tortilla chips
+732,Bread
+732,Coffee
+733,Cereal
+733,Chocolate
+733,Milk
+733,Sparkling water
+734,Bananas
+734,Cereal
+734,Milk
+734,Parmesan
+735,Bananas
+735,Tortilla chips
+736,Salsa
+736,Sparkling water
+736,Tortilla chips
+737,Coffee
+737,Pasta
+737,Pasta sauce
+737,Yogurt
+738,Bread
+738,Eggs
+738,Milk
+739,Bread
+739,Coffee
+739,Milk
+740,Cereal
+740,Coffee
+740,Milk
+741,Apples
+742,Apples
+742,Bananas
+742,Chocolate
+742,Tea
+743,Eggs
+743,Milk
+744,Bread
+744,Eggs
+745,Apples
+746,Eggs
+747,Milk
+747,Pasta
+747,Pasta sauce
+748,Bananas
+748,Eggs
+748,Milk
+749,Bread
+750,Milk
+750,Pasta sauce
+751,Coffee
+751,Milk
+752,Bread
+752,Milk
+752,Parmesan
+752,Pasta
+752,Pasta sauce
+752,Sparkling water
+753,Apples
+753,Milk
+753,Salsa
+753,Tortilla chips
+754,Apples
+754,Salsa
+754,Tortilla chips
+755,Bananas
+756,Apples
+756,Cereal
+756,Milk
+756,Pasta
+756,Salsa
+756,Tortilla chips
+757,Cereal
+757,Milk
+757,Sparkling water
+758,Cereal
+759,Pasta sauce
+759,Yogurt
+760,Bananas
+760,Cereal
+760,Pasta sauce
+761,Bananas
+762,Cereal
+762,Yogurt
+763,Bread
+763,Parmesan
+763,Salsa
+763,Tortilla chips
+764,Apples
+764,Bananas
+764,Milk
+764,Yogurt
+765,Coffee
+765,Eggs
+765,Parmesan
+765,Pasta
+765,Pasta sauce
+766,Bananas
+766,Cereal
+766,Milk
+766,Pasta
+766,Pasta sauce
+766,Salsa
+766,Tortilla chips
+767,Cereal
+767,Eggs
+767,Sparkling water
+767,Tea
+767,Yogurt
+768,Bread
+768,Milk
+768,Tea
+769,Apples
+769,Bananas
+769,Milk
+769,Parmesan
+769,Sparkling water
+770,Cereal
+770,Coffee
+770,Salsa
+770,Tea
+770,Tortilla chips
+771,Bread
+771,Cereal
+771,Milk
+771,Pasta
+771,Pasta sauce
+771,Salsa
+771,Tea
+771,Tortilla chips
+772,Bread
+772,Cereal
+772,Yogurt
+773,Bread
+773,Cereal
+773,Salsa
+773,Tortilla chips
+774,Bananas
+774,Cereal
+774,Milk
+774,Salsa
+774,Sparkling water
+774,Tortilla chips
+775,Cereal
+775,Milk
+775,Parmesan
+775,Pasta
+775,Pasta sauce
+775,Sparkling water
+776,Cereal
+776,Milk
+776,Tortilla chips
+777,Apples
+777,Bananas
+777,Bread
+777,Eggs
+777,Salsa
+777,Tortilla chips
+778,Bread
+778,Eggs
+778,Milk
+779,Chocolate
+779,Eggs
+779,Parmesan
+779,Pasta
+779,Pasta sauce
+780,Milk
+780,Yogurt
+781,Apples
+781,Milk
+781,Tortilla chips
+782,Cereal
+782,Eggs
+782,Milk
+782,Sparkling water
+783,Parmesan
+783,Pasta
+783,Pasta sauce
+783,Salsa
+784,Tortilla chips
+784,Yogurt
+785,Apples
+785,Milk
+785,Salsa
+785,Tea
+786,Cereal
+786,Chocolate
+786,Milk
+786,Sparkling water
+786,Yogurt
+787,Apples
+787,Bananas
+787,Milk
+787,Salsa
+787,Tortilla chips
+787,Yogurt
+788,Bananas
+788,Pasta
+788,Tea
+789,Bread
+789,Cereal
+789,Eggs
+789,Milk
+789,Pasta sauce
+790,Milk
+790,Salsa
+790,Tortilla chips
+791,Bread
+791,Coffee
+791,Eggs
+791,Milk
+791,Pasta
+791,Pasta sauce
+791,Tea
+792,Bananas
+792,Coffee
+792,Salsa
+792,Tortilla chips
+793,Tortilla chips
+793,Yogurt
+794,Apples
+794,Bananas
+794,Parmesan
+794,Pasta
+795,Bread
+795,Sparkling water
+795,Tortilla chips
+796,Pasta sauce
+797,Milk
+797,Pasta sauce
+798,Bananas
+798,Eggs
+799,Milk
+799,Salsa
+799,Tea
+799,Tortilla chips
+800,Coffee
+800,Pasta
+801,Cereal
+801,Milk
+801,Pasta sauce
+802,Apples
+802,Cereal
+802,Chocolate
+802,Milk
+803,Eggs
+803,Milk
+803,Tortilla chips
+804,Bananas
+804,Bread
+804,Parmesan
+804,Pasta
+804,Pasta sauce
+804,Sparkling water
+805,Cereal
+805,Coffee
+805,Pasta
+806,Parmesan
+806,Pasta
+806,Pasta sauce
+806,Sparkling water
+807,Milk
+807,Salsa
+807,Tortilla chips
+808,Bread
+809,Bread
+809,Tortilla chips
+810,Bananas
+810,Milk
+810,Salsa
+810,Tortilla chips
+811,Cereal
+811,Salsa
+811,Tortilla chips
+812,Apples
+812,Pasta
+812,Pasta sauce
+812,Salsa
+812,Tea
+812,Tortilla chips
+813,Cereal
+813,Milk
+814,Sparkling water
+814,Tea
+815,Eggs
+815,Pasta
+815,Salsa
+815,Tortilla chips
+816,Cereal
+816,Milk
+816,Tortilla chips
+816,Yogurt
+817,Apples
+817,Salsa
+817,Tortilla chips
+818,Coffee
+818,Milk
+818,Salsa
+818,Sparkling water
+818,Tortilla chips
+819,Coffee
+819,Eggs
+820,Chocolate
+820,Parmesan
+820,Pasta
+820,Pasta sauce
+821,Bananas
+822,Cereal
+822,Coffee
+822,Milk
+822,Tea
+823,Tortilla chips
+824,Tortilla chips
+824,Yogurt
+825,Cereal
+825,Chocolate
+825,Milk
+825,Pasta
+825,Pasta sauce
+826,Cereal
+826,Tea
+827,Apples
+827,Yogurt
+828,Apples
+828,Cereal
+828,Chocolate
+828,Eggs
+828,Milk
+828,Pasta sauce
+828,Salsa
+828,Tea
+828,Tortilla chips
+829,Milk
+829,Parmesan
+829,Pasta
+829,Pasta sauce
+829,Yogurt
+830,Bread
+830,Tortilla chips
+831,Cereal
+831,Chocolate
+832,Milk
+833,Bananas
+833,Bread
+833,Milk
+834,Bread
+834,Milk
+835,Chocolate
+835,Eggs
+835,Parmesan
+835,Sparkling water
+836,Bananas
+836,Milk
+836,Pasta
+836,Pasta sauce
+837,Bread
+837,Salsa
+837,Tortilla chips
+838,Bananas
+838,Cereal
+838,Milk
+838,Parmesan
+839,Bananas
+839,Bread
+839,Eggs
+839,Milk
+839,Parmesan
+839,Pasta
+839,Pasta sauce
+840,Bananas
+840,Eggs
+840,Tea
+840,Yogurt
+841,Cereal
+841,Milk
+841,Parmesan
+842,Parmesan
+842,Pasta
+842,Pasta sauce
+842,Salsa
+842,Tortilla chips
+843,Bread
+843,Parmesan
+843,Pasta
+843,Pasta sauce
+844,Apples
+845,Eggs
+845,Milk
+845,Pasta
+846,Cereal
+846,Milk
+846,Salsa
+847,Parmesan
+847,Pasta
+847,Pasta sauce
+847,Sparkling water
+847,Tea
+848,Bread
+848,Milk
+848,Pasta sauce
+848,Salsa
+848,Tortilla chips
+849,Cereal
+849,Milk
+849,Pasta
+850,Bananas
+850,Bread
+850,Chocolate
+850,Milk
+851,Bananas
+851,Bread
+851,Salsa
+851,Sparkling water
+851,Tortilla chips
+851,Yogurt
+852,Salsa
+852,Sparkling water
+852,Tortilla chips
+853,Apples
+853,Pasta sauce
+854,Apples
+854,Parmesan
+854,Pasta
+854,Pasta sauce
+854,Salsa
+854,Tortilla chips
+855,Eggs
+855,Milk
+855,Pasta
+855,Pasta sauce
+856,Chocolate
+857,Apples
+857,Bread
+857,Salsa
+858,Apples
+858,Bread
+858,Cereal
+858,Chocolate
+858,Coffee
+859,Bread
+859,Milk
+859,Parmesan
+859,Pasta
+859,Pasta sauce
+860,Apples
+860,Bananas
+860,Bread
+860,Milk
+860,Parmesan
+860,Pasta
+860,Pasta sauce
+861,Milk
+862,Bananas
+862,Bread
+862,Salsa
+862,Sparkling water
+862,Tortilla chips
+863,Bananas
+863,Milk
+863,Sparkling water
+864,Milk
+865,Tea
+866,Chocolate
+866,Eggs
+866,Milk
+866,Salsa
+866,Tortilla chips
+867,Bananas
+867,Milk
+867,Pasta
+867,Pasta sauce
+868,Bread
+868,Eggs
+868,Milk
+869,Bananas
+869,Salsa
+869,Tortilla chips
+870,Bread
+870,Coffee
+870,Milk
+870,Pasta
+870,Yogurt
+871,Bread
+871,Milk
+872,Apples
+872,Bread
+872,Yogurt
+873,Chocolate
+873,Milk
+873,Salsa
+873,Tortilla chips
+874,Bananas
+874,Coffee
+874,Eggs
+875,Cereal
+875,Chocolate
+875,Eggs
+875,Pasta sauce
+875,Salsa
+875,Sparkling water
+875,Tortilla chips
+875,Yogurt
+876,Cereal
+876,Milk
+876,Salsa
+876,Tortilla chips
+876,Yogurt
+877,Bread
+877,Chocolate
+877,Coffee
+878,Bananas
+879,Bananas
+879,Cereal
+879,Milk
+879,Sparkling water
+880,Bread
+880,Parmesan
+880,Pasta
+880,Pasta sauce
+880,Tortilla chips
+881,Salsa
+881,Tea
+881,Tortilla chips
+882,Apples
+882,Milk
+883,Milk
+884,Chocolate
+884,Parmesan
+884,Pasta
+884,Pasta sauce
+885,Milk
+886,Bananas
+886,Milk
+886,Pasta
+886,Pasta sauce
+886,Tea
+887,Sparkling water
+888,Bananas
+888,Pasta
+889,Cereal
+889,Milk
+889,Parmesan
+889,Pasta
+889,Pasta sauce
+889,Yogurt
+890,Bananas
+890,Eggs
+891,Bananas
+891,Cereal
+891,Coffee
+891,Milk
+891,Sparkling water
+891,Yogurt
+892,Bread
+893,Tea
+894,Cereal
+894,Milk
+894,Salsa
+894,Sparkling water
+894,Tea
+895,Chocolate
+895,Milk
+895,Salsa
+895,Tortilla chips
+895,Yogurt
+896,Bananas
+896,Eggs
+896,Parmesan
+896,Pasta
+896,Pasta sauce
+896,Tortilla chips
+897,Parmesan
+897,Pasta
+897,Pasta sauce
+897,Tortilla chips
+898,Milk
+899,Eggs
+899,Parmesan
+899,Pasta
+899,Pasta sauce
+899,Tea
+900,Bananas
+900,Coffee
+900,Pasta
+900,Pasta sauce
+900,Yogurt
+901,Apples
+901,Bread
+902,Bread
+902,Sparkling water
+903,Apples
+903,Chocolate
+903,Eggs
+903,Salsa
+904,Apples
+904,Bananas
+904,Bread
+904,Chocolate
+904,Milk
+904,Yogurt
+905,Bread
+905,Cereal
+905,Sparkling water
+906,Bananas
+907,Bread
+907,Cereal
+907,Milk
+907,Parmesan
+907,Pasta
+907,Pasta sauce
+907,Salsa
+907,Tortilla chips
+908,Bread
+908,Salsa
+908,Tea
+909,Apples
+909,Bananas
+909,Bread
+909,Coffee
+909,Yogurt
+910,Bread
+910,Sparkling water
+911,Eggs
+912,Apples
+912,Bread
+912,Cereal
+912,Sparkling water
+912,Tea
+912,Yogurt
+913,Apples
+913,Bananas
+913,Bread
+914,Bread
+914,Eggs
+914,Pasta
+914,Pasta sauce
+914,Salsa
+914,Tortilla chips
+915,Apples
+915,Bread
+915,Coffee
+916,Milk
+916,Pasta
+916,Pasta sauce
+916,Salsa
+916,Tortilla chips
+917,Bananas
+917,Milk
+918,Eggs
+918,Pasta
+918,Tortilla chips
+919,Apples
+919,Bread
+919,Chocolate
+919,Milk
+919,Yogurt
+920,Coffee
+920,Parmesan
+920,Pasta
+920,Pasta sauce
+921,Apples
+922,Milk
+923,Cereal
+923,Coffee
+923,Milk
+924,Eggs
+924,Salsa
+924,Sparkling water
+925,Bananas
+925,Eggs
+925,Yogurt
+926,Bananas
+926,Bread
+927,Bread
+927,Milk
+927,Pasta
+927,Pasta sauce
+927,Salsa
+927,Tortilla chips
+928,Apples
+928,Cereal
+928,Parmesan
+928,Pasta
+928,Pasta sauce
+928,Sparkling water
+929,Apples
+929,Milk
+930,Tea
+931,Pasta
+931,Pasta sauce
+931,Yogurt
+932,Bananas
+932,Parmesan
+933,Cereal
+933,Salsa
+933,Tortilla chips
+934,Sparkling water
+934,Yogurt
+935,Apples
+936,Bread
+936,Milk
+936,Parmesan
+936,Pasta
+936,Pasta sauce
+936,Tea
+936,Yogurt
+937,Milk
+937,Parmesan
+937,Pasta
+937,Pasta sauce
+938,Apples
+938,Bread
+939,Milk
+940,Apples
+941,Cereal
+941,Milk
+941,Salsa
+941,Tortilla chips
+941,Yogurt
+942,Bread
+942,Eggs
+942,Salsa
+942,Sparkling water
+942,Tortilla chips
+943,Milk
+944,Cereal
+945,Milk
+946,Pasta
+946,Tea
+947,Milk
+947,Sparkling water
+947,Tea
+948,Coffee
+948,Eggs
+948,Parmesan
+948,Pasta
+948,Pasta sauce
+949,Apples
+949,Bananas
+949,Salsa
+949,Tortilla chips
+950,Apples
+950,Bread
+950,Chocolate
+950,Eggs
+950,Sparkling water
+950,Tortilla chips
+951,Bread
+951,Eggs
+951,Pasta sauce
+952,Cereal
+952,Milk
+952,Pasta sauce
+953,Apples
+953,Milk
+953,Sparkling water
+954,Eggs
+954,Milk
+955,Apples
+955,Bananas
+955,Pasta
+956,Coffee
+956,Milk
+956,Tea
+957,Bread
+957,Chocolate
+957,Eggs
+957,Tea
+958,Apples
+958,Milk
+958,Pasta
+958,Pasta sauce
+958,Yogurt
+959,Cereal
+959,Milk
+959,Tea
+960,Bananas
+960,Cereal
+960,Chocolate
+960,Milk
+961,Bread
+961,Cereal
+961,Eggs
+961,Milk
+962,Milk
+963,Bananas
+963,Milk
+963,Pasta sauce
+963,Yogurt
+964,Apples
+964,Bananas
+964,Bread
+964,Pasta
+964,Pasta sauce
+964,Yogurt
+965,Bananas
+965,Tea
+966,Milk
+966,Parmesan
+966,Pasta
+966,Pasta sauce
+967,Chocolate
+967,Coffee
+967,Milk
+967,Salsa
+967,Tortilla chips
+968,Cereal
+968,Chocolate
+968,Milk
+968,Salsa
+968,Tea
+968,Tortilla chips
+968,Yogurt
+969,Coffee
+969,Yogurt
+970,Bread
+970,Milk
+971,Coffee
+971,Pasta sauce
+971,Salsa
+971,Tea
+971,Tortilla chips
+972,Bananas
+972,Bread
+972,Chocolate
+972,Milk
+972,Sparkling water
+973,Salsa
+974,Bread
+974,Milk
+974,Tea
+974,Tortilla chips
+974,Yogurt
+975,Cereal
+975,Eggs
+975,Milk
+975,Pasta sauce
+976,Apples
+976,Bread
+976,Cereal
+976,Milk
+976,Tortilla chips
+976,Yogurt
+977,Apples
+977,Bread
+977,Yogurt
+978,Apples
+978,Parmesan
+978,Pasta
+978,Pasta sauce
+979,Milk
+979,Tea
+980,Bananas
+980,Bread
+980,Cereal
+980,Eggs
+980,Milk
+980,Salsa
+980,Tortilla chips
+981,Bread
+981,Coffee
+981,Yogurt
+982,Bananas
+982,Salsa
+982,Tortilla chips
+982,Yogurt
+983,Cereal
+983,Eggs
+983,Milk
+983,Tea
+984,Eggs
+984,Milk
+984,Parmesan
+984,Pasta
+984,Pasta sauce
+985,Bread
+985,Cereal
+985,Milk
+985,Pasta sauce
+986,Apples
+986,Milk
+987,Bread
+987,Eggs
+987,Tortilla chips
+988,Bread
+988,Sparkling water
+989,Eggs
+989,Salsa
+989,Tortilla chips
+990,Apples
+990,Bread
+990,Sparkling water
+991,Cereal
+991,Milk
+992,Bananas
+992,Pasta
+992,Pasta sauce
+992,Salsa
+992,Tortilla chips
+993,Bread
+993,Cereal
+993,Milk
+993,Pasta
+993,Pasta sauce
+994,Bananas
+994,Bread
+994,Eggs
+994,Milk
+994,Parmesan
+994,Pasta
+994,Pasta sauce
+995,Coffee
+995,Milk
+995,Tortilla chips
+996,Apples
+996,Milk
+997,Cereal
+998,Eggs
+998,Pasta sauce
+998,Yogurt
+999,Bananas
+999,Bread
+999,Coffee
+999,Milk
+999,Sparkling water
+999,Yogurt
+1000,Milk
+1000,Parmesan
+1000,Sparkling water
+1001,Apples
+1001,Bananas
+1001,Cereal
+1001,Milk
+1002,Apples
+1002,Bananas
+1002,Pasta
+1002,Pasta sauce
+1002,Tea
+1003,Bananas
+1003,Cereal
+1003,Tortilla chips
+1004,Bananas
+1004,Bread
+1004,Cereal
+1004,Coffee
+1005,Bread
+1005,Cereal
+1005,Pasta
+1005,Pasta sauce
+1005,Yogurt
+1006,Bread
+1006,Eggs
+1006,Tea
+1007,Chocolate
+1007,Pasta sauce
+1007,Tortilla chips
+1008,Eggs
+1008,Milk
+1009,Apples
+1009,Bread
+1010,Apples
+1010,Parmesan
+1010,Pasta
+1010,Pasta sauce
+1010,Salsa
+1010,Sparkling water
+1010,Tortilla chips
+1011,Bananas
+1011,Bread
+1011,Chocolate
+1011,Eggs
+1011,Milk
+1011,Salsa
+1011,Tortilla chips
+1012,Cereal
+1012,Milk
+1013,Bananas
+1013,Sparkling water
+1014,Bananas
+1014,Sparkling water
+1015,Chocolate
+1015,Pasta
+1016,Milk
+1016,Pasta sauce
+1017,Cereal
+1017,Eggs
+1017,Milk
+1017,Tea
+1018,Coffee
+1018,Salsa
+1018,Tortilla chips
+1018,Yogurt
+1019,Bread
+1019,Cereal
+1019,Eggs
+1019,Parmesan
+1019,Pasta
+1019,Pasta sauce
+1020,Apples
+1020,Bread
+1020,Eggs
+1021,Bread
+1021,Milk
+1022,Bananas
+1022,Bread
+1022,Milk
+1023,Bananas
+1023,Cereal
+1023,Eggs
+1023,Milk
+1023,Pasta
+1023,Pasta sauce
+1024,Bread
+1024,Chocolate
+1024,Eggs
+1024,Yogurt
+1025,Bananas
+1025,Bread
+1025,Milk
+1025,Salsa
+1025,Tortilla chips
+1026,Bananas
+1026,Cereal
+1026,Milk
+1026,Pasta
+1026,Pasta sauce
+1026,Sparkling water
+1026,Tea
+1027,Bread
+1027,Coffee
+1027,Eggs
+1028,Apples
+1028,Parmesan
+1028,Pasta
+1028,Pasta sauce
+1029,Apples
+1029,Bread
+1029,Eggs
+1029,Parmesan
+1030,Apples
+1030,Sparkling water
+1030,Yogurt
+1031,Eggs
+1031,Parmesan
+1031,Tea
+1032,Bananas
+1032,Chocolate
+1032,Parmesan
+1032,Pasta
+1032,Pasta sauce
+1032,Salsa
+1032,Tortilla chips
+1032,Yogurt
+1033,Cereal
+1033,Sparkling water
+1033,Yogurt
+1034,Cereal
+1034,Eggs
+1035,Cereal
+1035,Chocolate
+1035,Eggs
+1035,Milk
+1035,Yogurt
+1036,Coffee
+1036,Parmesan
+1036,Pasta
+1036,Pasta sauce
+1037,Eggs
+1037,Milk
+1037,Sparkling water
+1038,Milk
+1038,Tea
+1039,Bananas
+1039,Bread
+1039,Cereal
+1039,Milk
+1039,Salsa
+1039,Tortilla chips
+1040,Parmesan
+1040,Pasta
+1040,Pasta sauce
+1040,Sparkling water
+1041,Chocolate
+1041,Tortilla chips
+1042,Bread
+1042,Cereal
+1042,Milk
+1042,Yogurt
+1043,Bread
+1043,Milk
+1043,Tea
+1043,Tortilla chips
+1044,Bread
+1044,Cereal
+1044,Eggs
+1044,Milk
+1044,Salsa
+1044,Tortilla chips
+1045,Eggs
+1045,Pasta
+1045,Tea
+1046,Bread
+1046,Salsa
+1046,Sparkling water
+1046,Tortilla chips
+1046,Yogurt
+1047,Coffee
+1047,Eggs
+1047,Sparkling water
+1048,Bananas
+1048,Chocolate
+1048,Parmesan
+1048,Pasta
+1048,Pasta sauce
+1049,Apples
+1049,Bananas
+1049,Bread
+1049,Chocolate
+1049,Eggs
+1049,Parmesan
+1050,Apples
+1050,Bread
+1050,Pasta
+1050,Pasta sauce
+1050,Tortilla chips
+1051,Bananas
+1051,Bread
+1051,Tea
+1052,Apples
+1052,Milk
+1053,Bread
+1053,Eggs
+1053,Milk
+1053,Pasta
+1053,Pasta sauce
+1054,Cereal
+1054,Coffee
+1054,Eggs
+1054,Milk
+1054,Tortilla chips
+1055,Apples
+1055,Cereal
+1055,Milk
+1055,Sparkling water
+1055,Tea
+1056,Milk
+1056,Yogurt
+1057,Cereal
+1057,Milk
+1058,Bananas
+1058,Chocolate
+1058,Eggs
+1058,Salsa
+1058,Sparkling water
+1059,Chocolate
+1059,Milk
+1059,Salsa
+1059,Tortilla chips
+1060,Cereal
+1061,Milk
+1061,Pasta
+1061,Pasta sauce
+1062,Coffee
+1062,Eggs
+1063,Bread
+1063,Eggs
+1063,Yogurt
+1064,Bananas
+1064,Chocolate
+1064,Milk
+1065,Cereal
+1065,Coffee
+1065,Eggs
+1065,Salsa
+1065,Tortilla chips
+1066,Eggs
+1066,Milk
+1067,Eggs
+1067,Parmesan
+1067,Salsa
+1067,Sparkling water
+1068,Cereal
+1068,Milk
+1068,Salsa
+1068,Tortilla chips
+1069,Bananas
+1069,Bread
+1069,Cereal
+1069,Milk
+1069,Parmesan
+1069,Pasta
+1069,Pasta sauce
+1069,Sparkling water
+1069,Tea
+1069,Tortilla chips
+1070,Cereal
+1070,Milk
+1070,Tea
+1071,Bread
+1072,Cereal
+1072,Milk
+1072,Parmesan
+1072,Pasta
+1072,Pasta sauce
+1072,Tea
+1073,Apples
+1073,Milk
+1074,Bananas
+1074,Bread
+1074,Eggs
+1074,Milk
+1075,Bananas
+1075,Chocolate
+1075,Coffee
+1075,Eggs
+1075,Parmesan
+1075,Pasta
+1075,Pasta sauce
+1076,Bread
+1077,Bananas
+1077,Bread
+1077,Cereal
+1077,Milk
+1077,Pasta
+1077,Pasta sauce
+1078,Bread
+1078,Cereal
+1078,Eggs
+1078,Salsa
+1078,Tortilla chips
+1079,Eggs
+1080,Milk
+1080,Parmesan
+1080,Pasta
+1080,Pasta sauce
+1081,Milk
+1082,Bread
+1082,Cereal
+1082,Chocolate
+1082,Pasta
+1083,Coffee
+1083,Milk
+1083,Sparkling water
+1084,Bananas
+1085,Bananas
+1085,Bread
+1085,Eggs
+1086,Eggs
+1087,Chocolate
+1087,Milk
+1088,Bread
+1088,Chocolate
+1088,Pasta sauce
+1088,Salsa
+1088,Sparkling water
+1088,Tea
+1088,Tortilla chips
+1089,Bananas
+1089,Cereal
+1089,Milk
+1089,Tortilla chips
+1090,Cereal
+1090,Milk
+1091,Bananas
+1091,Eggs
+1092,Apples
+1092,Bread
+1092,Eggs
+1092,Milk
+1092,Pasta
+1092,Pasta sauce
+1093,Apples
+1093,Chocolate
+1093,Sparkling water
+1094,Cereal
+1094,Salsa
+1094,Sparkling water
+1094,Tortilla chips
+1095,Bread
+1095,Cereal
+1095,Milk
+1095,Sparkling water
+1096,Apples
+1096,Parmesan
+1096,Pasta
+1096,Pasta sauce
+1096,Salsa
+1096,Tortilla chips
+1097,Chocolate
+1097,Salsa
+1097,Sparkling water
+1097,Tortilla chips
+1098,Cereal
+1098,Coffee
+1098,Milk
+1098,Parmesan
+1098,Pasta
+1098,Pasta sauce
+1099,Bananas
+1099,Bread
+1099,Pasta
+1100,Bread
+1101,Bananas
+1102,Bread
+1102,Milk
+1102,Parmesan
+1103,Apples
+1103,Bananas
+1103,Eggs
+1103,Milk
+1104,Bananas
+1104,Eggs
+1104,Milk
+1105,Apples
+1105,Bread
+1105,Milk
+1106,Cereal
+1106,Milk
+1106,Sparkling water
+1107,Cereal
+1107,Milk
+1107,Pasta
+1107,Pasta sauce
+1108,Apples
+1108,Eggs
+1108,Milk
+1108,Salsa
+1108,Sparkling water
+1108,Tortilla chips
+1109,Milk
+1109,Pasta
+1109,Sparkling water
+1109,Tea
+1110,Bananas
+1110,Bread
+1110,Sparkling water
+1111,Bread
+1111,Cereal
+1111,Eggs
+1111,Milk
+1111,Tortilla chips
+1112,Coffee
+1112,Sparkling water
+1112,Yogurt
+1113,Cereal
+1113,Milk
+1113,Parmesan
+1113,Pasta
+1113,Pasta sauce
+1113,Salsa
+1114,Milk
+1114,Parmesan
+1115,Salsa
+1115,Sparkling water
+1116,Apples
+1116,Bread
+1116,Chocolate
+1117,Apples
+1117,Bread
+1117,Milk
+1118,Bread
+1118,Coffee
+1118,Parmesan
+1118,Pasta
+1118,Pasta sauce
+1118,Yogurt
+1119,Apples
+1119,Chocolate
+1119,Eggs
+1119,Sparkling water
+1119,Yogurt
+1120,Bread
+1120,Cereal
+1120,Eggs
+1120,Tortilla chips
+1121,Apples
+1121,Bananas
+1121,Bread
+1121,Eggs
+1121,Salsa
+1121,Sparkling water
+1121,Tortilla chips
+1122,Bread
+1122,Parmesan
+1122,Pasta
+1122,Pasta sauce
+1122,Sparkling water
+1123,Milk
+1123,Salsa
+1124,Coffee
+1124,Sparkling water
+1124,Yogurt
+1125,Bananas
+1126,Bread
+1126,Cereal
+1126,Eggs
+1126,Pasta
+1126,Pasta sauce
+1126,Sparkling water
+1127,Apples
+1127,Bananas
+1127,Bread
+1127,Eggs
+1127,Milk
+1127,Parmesan
+1127,Pasta
+1127,Pasta sauce
+1127,Sparkling water
+1127,Tea
+1128,Bananas
+1128,Bread
+1128,Sparkling water
+1129,Bananas
+1129,Cereal
+1129,Coffee
+1129,Milk
+1129,Parmesan
+1129,Pasta
+1129,Pasta sauce
+1130,Apples
+1130,Milk
+1131,Coffee
+1131,Milk
+1132,Apples
+1132,Bread
+1132,Salsa
+1132,Tortilla chips
+1133,Cereal
+1133,Milk
+1133,Pasta
+1134,Bananas
+1134,Eggs
+1135,Eggs
+1135,Milk
+1135,Salsa
+1135,Tortilla chips
+1136,Parmesan
+1137,Cereal
+1137,Coffee
+1137,Milk
+1137,Sparkling water
+1138,Bananas
+1139,Apples
+1139,Cereal
+1139,Milk
+1140,Apples
+1140,Chocolate
+1140,Coffee
+1140,Milk
+1140,Pasta
+1140,Pasta sauce
+1141,Bread
+1141,Cereal
+1141,Sparkling water
+1142,Eggs
+1142,Tea
+1143,Parmesan
+1143,Pasta
+1143,Pasta sauce
+1143,Salsa
+1144,Bananas
+1144,Bread
+1145,Milk
+1145,Sparkling water
+1145,Yogurt
+1146,Eggs
+1147,Bananas
+1147,Coffee
+1147,Parmesan
+1147,Pasta
+1147,Pasta sauce
+1147,Yogurt
+1148,Eggs
+1148,Milk
+1148,Parmesan
+1149,Bread
+1149,Milk
+1149,Yogurt
+1150,Bread
+1150,Cereal
+1151,Chocolate
+1151,Milk
+1151,Parmesan
+1151,Pasta
+1151,Pasta sauce
+1151,Tea
+1151,Yogurt
+1152,Bananas
+1152,Eggs
+1153,Sparkling water
+1154,Bananas
+1154,Bread
+1154,Milk
+1154,Parmesan
+1154,Pasta
+1154,Pasta sauce
+1155,Bananas
+1156,Eggs
+1156,Pasta
+1156,Pasta sauce
+1157,Milk
+1157,Tea
+1157,Tortilla chips
+1158,Bread
+1159,Cereal
+1159,Milk
+1159,Pasta
+1159,Pasta sauce
+1159,Salsa
+1159,Tortilla chips
+1160,Bread
+1160,Parmesan
+1160,Salsa
+1160,Tortilla chips
+1161,Tortilla chips
+1162,Bananas
+1162,Cereal
+1162,Eggs
+1162,Milk
+1162,Pasta
+1162,Pasta sauce
+1162,Sparkling water
+1163,Apples
+1163,Coffee
+1163,Parmesan
+1163,Pasta
+1163,Pasta sauce
+1164,Eggs
+1164,Milk
+1164,Yogurt
+1165,Bananas
+1165,Chocolate
+1165,Milk
+1165,Parmesan
+1165,Pasta
+1165,Pasta sauce
+1166,Bread
+1166,Chocolate
+1166,Milk
+1166,Tea
+1166,Tortilla chips
+1167,Cereal
+1167,Milk
+1167,Pasta sauce
+1167,Sparkling water
+1168,Apples
+1168,Milk
+1168,Yogurt
+1169,Apples
+1169,Coffee
+1169,Tea
+1170,Apples
+1170,Milk
+1170,Pasta
+1171,Apples
+1171,Chocolate
+1171,Eggs
+1172,Sparkling water
+1173,Apples
+1173,Bananas
+1173,Bread
+1173,Pasta
+1173,Pasta sauce
+1173,Salsa
+1173,Tea
+1173,Tortilla chips
+1174,Pasta
+1174,Pasta sauce
+1174,Salsa
+1174,Tortilla chips
+1174,Yogurt
+1175,Milk
+1175,Salsa
+1175,Tortilla chips
+1176,Cereal
+1176,Eggs
+1176,Tea
+1177,Bananas
+1177,Eggs
+1177,Sparkling water
+1178,Cereal
+1178,Milk
+1178,Salsa
+1178,Tea
+1178,Tortilla chips
+1179,Milk
+1179,Pasta sauce
+1179,Salsa
+1179,Tea
+1180,Bread
+1180,Eggs
+1180,Tea
+1181,Bananas
+1181,Bread
+1181,Milk
+1181,Salsa
+1181,Sparkling water
+1181,Tortilla chips
+1182,Bananas
+1182,Cereal
+1183,Bread
+1183,Coffee
+1183,Pasta
+1183,Pasta sauce
+1183,Salsa
+1183,Tortilla chips
+1184,Eggs
+1184,Milk
+1184,Parmesan
+1184,Pasta
+1184,Pasta sauce
+1184,Yogurt
+1185,Coffee
+1186,Apples
+1186,Bread
+1186,Cereal
+1186,Eggs
+1186,Sparkling water
+1187,Bread
+1187,Milk
+1187,Sparkling water
+1188,Bananas
+1188,Coffee
+1189,Coffee
+1189,Yogurt
+1190,Bread
+1190,Pasta
+1190,Pasta sauce
+1190,Tea
+1190,Tortilla chips
+1191,Bread
+1192,Bread
+1192,Eggs
+1192,Pasta
+1192,Sparkling water
+1193,Cereal
+1194,Bread
+1194,Cereal
+1194,Milk
+1194,Sparkling water
+1194,Tea
+1195,Bananas
+1195,Bread
+1195,Parmesan
+1195,Pasta
+1195,Pasta sauce
+1195,Salsa
+1195,Tortilla chips
+1196,Bananas
+1196,Milk
+1197,Milk
+1198,Cereal
+1198,Milk
+1198,Pasta
+1199,Bananas
+1199,Bread
+1199,Cereal
+1199,Milk
+1199,Tortilla chips
+1199,Yogurt
+1200,Apples
+1200,Coffee
+1200,Pasta
+1200,Pasta sauce
+1200,Salsa
+1200,Sparkling water
+1200,Tea
+1201,Bananas
+1201,Bread
+1201,Milk
+1201,Pasta
+1201,Salsa
+1201,Tortilla chips
+1202,Cereal
+1202,Milk
+1203,Apples
+1203,Cereal
+1203,Parmesan
+1203,Pasta
+1203,Pasta sauce
+1203,Salsa
+1204,Cereal
+1204,Milk
+1205,Apples
+1205,Pasta
+1206,Bread
+1206,Milk
+1206,Pasta
+1206,Pasta sauce
+1206,Tea
+1207,Apples
+1208,Cereal
+1208,Eggs
+1208,Milk
+1208,Tortilla chips
+1209,Bananas
+1209,Bread
+1209,Cereal
+1209,Coffee
+1210,Bananas
+1210,Yogurt
+1211,Bananas
+1211,Bread
+1211,Parmesan
+1211,Pasta
+1211,Pasta sauce
+1211,Yogurt
+1212,Tea
+1213,Bread
+1214,Sparkling water
+1215,Bread
+1215,Cereal
+1215,Milk
+1215,Salsa
+1215,Tortilla chips
+1216,Bread
+1216,Salsa
+1216,Yogurt
+1217,Eggs
+1218,Pasta
+1219,Bananas
+1219,Bread
+1219,Cereal
+1219,Milk
+1219,Salsa
+1219,Tortilla chips
+1220,Coffee
+1220,Eggs
+1220,Milk
+1220,Parmesan
+1220,Pasta
+1220,Pasta sauce
+1220,Tortilla chips
+1221,Apples
+1221,Bread
+1221,Cereal
+1221,Milk
+1221,Parmesan
+1221,Pasta
+1221,Pasta sauce
+1221,Salsa
+1221,Tortilla chips
+1221,Yogurt
+1222,Apples
+1222,Chocolate
+1222,Yogurt
+1223,Bread
+1223,Pasta
+1223,Tortilla chips
+1224,Tortilla chips
+1225,Eggs
+1225,Yogurt
+1226,Apples
+1226,Pasta
+1226,Pasta sauce
+1227,Apples
+1227,Bananas
+1227,Milk
+1228,Bread
+1228,Eggs
+1228,Milk
+1228,Yogurt
+1229,Bread
+1229,Milk
+1230,Bread
+1230,Milk
+1230,Pasta
+1231,Coffee
+1231,Eggs
+1231,Milk
+1231,Salsa
+1231,Sparkling water
+1232,Bananas
+1232,Tortilla chips
+1233,Bananas
+1233,Salsa
+1234,Bananas
+1234,Milk
+1235,Eggs
+1235,Sparkling water
+1235,Tea
+1236,Bananas
+1236,Cereal
+1236,Coffee
+1237,Chocolate
+1237,Milk
+1237,Pasta sauce
+1238,Coffee
+1238,Milk
+1238,Salsa
+1238,Tortilla chips
+1239,Bananas
+1239,Chocolate
+1239,Tea
+1239,Yogurt
+1240,Eggs
+1241,Yogurt
+1242,Bananas
+1242,Bread
+1242,Eggs
+1243,Cereal
+1243,Chocolate
+1243,Milk
+1244,Apples
+1244,Cereal
+1244,Chocolate
+1244,Salsa
+1244,Tortilla chips
+1245,Eggs
+1245,Sparkling water
+1245,Tea
+1246,Bananas
+1246,Cereal
+1246,Eggs
+1246,Salsa
+1246,Tortilla chips
+1247,Chocolate
+1247,Parmesan
+1247,Pasta
+1247,Pasta sauce
+1247,Yogurt
+1248,Apples
+1248,Pasta
+1248,Tortilla chips
+1249,Chocolate
+1249,Sparkling water
+1249,Tea
+1250,Bananas
+1250,Parmesan
+1250,Pasta
+1250,Pasta sauce
+1251,Apples
+1251,Milk
+1252,Chocolate
+1252,Eggs
+1252,Pasta sauce
+1252,Salsa
+1252,Tortilla chips
+1253,Tea
+1254,Coffee
+1254,Milk
+1254,Parmesan
+1254,Pasta
+1254,Pasta sauce
+1254,Salsa
+1254,Tortilla chips
+1255,Bread
+1255,Cereal
+1255,Milk
+1256,Bread
+1256,Eggs
+1257,Eggs
+1258,Bread
+1258,Milk
+1258,Parmesan
+1258,Pasta
+1258,Pasta sauce
+1258,Salsa
+1258,Tortilla chips
+1259,Salsa
+1259,Sparkling water
+1259,Tortilla chips
+1260,Cereal
+1260,Milk
+1261,Cereal
+1261,Parmesan
+1261,Pasta
+1261,Pasta sauce
+1262,Bread
+1262,Cereal
+1262,Milk
+1263,Eggs
+1264,Coffee
+1264,Sparkling water
+1265,Cereal
+1265,Eggs
+1265,Milk
+1265,Tortilla chips
+1266,Chocolate
+1266,Sparkling water
+1267,Apples
+1267,Bread
+1268,Apples
+1268,Chocolate
+1268,Milk
+1268,Salsa
+1268,Sparkling water
+1268,Tortilla chips
+1269,Bread
+1269,Pasta
+1270,Bread
+1270,Eggs
+1270,Parmesan
+1270,Pasta
+1270,Pasta sauce
+1271,Coffee
+1271,Salsa
+1271,Tortilla chips
+1272,Bananas
+1272,Chocolate
+1272,Parmesan
+1272,Pasta
+1272,Pasta sauce
+1272,Sparkling water
+1273,Bread
+1273,Milk
+1273,Yogurt
+1274,Eggs
+1274,Salsa
+1274,Tortilla chips
+1275,Bananas
+1275,Cereal
+1275,Milk
+1276,Milk
+1276,Salsa
+1276,Tortilla chips
+1277,Milk
+1277,Parmesan
+1277,Pasta
+1277,Pasta sauce
+1277,Sparkling water
+1278,Bread
+1278,Cereal
+1278,Milk
+1279,Bread
+1279,Cereal
+1279,Eggs
+1279,Milk
+1279,Pasta
+1279,Pasta sauce
+1280,Bread
+1280,Salsa
+1280,Tortilla chips
+1281,Apples
+1281,Bananas
+1282,Chocolate
+1282,Eggs
+1282,Milk
+1282,Pasta
+1282,Pasta sauce
+1283,Chocolate
+1283,Parmesan
+1283,Pasta
+1283,Pasta sauce
+1283,Salsa
+1283,Yogurt
+1284,Cereal
+1284,Chocolate
+1284,Milk
+1285,Bread
+1285,Cereal
+1285,Eggs
+1285,Milk
+1285,Salsa
+1285,Sparkling water
+1285,Tortilla chips
+1286,Bananas
+1286,Bread
+1286,Cereal
+1286,Chocolate
+1286,Milk
+1286,Salsa
+1286,Tortilla chips
+1287,Cereal
+1287,Milk
+1287,Parmesan
+1287,Pasta
+1287,Pasta sauce
+1287,Yogurt
+1288,Bananas
+1288,Milk
+1289,Bananas
+1289,Cereal
+1289,Coffee
+1289,Tea
+1290,Bread
+1290,Cereal
+1290,Parmesan
+1290,Pasta
+1290,Pasta sauce
+1291,Bananas
+1291,Bread
+1291,Tea
+1291,Tortilla chips
+1292,Apples
+1292,Bananas
+1292,Eggs
+1292,Milk
+1293,Apples
+1293,Bananas
+1293,Bread
+1293,Milk
+1294,Coffee
+1294,Milk
+1294,Salsa
+1294,Sparkling water
+1294,Tortilla chips
+1295,Bread
+1296,Bananas
+1296,Chocolate
+1296,Milk
+1296,Pasta sauce
+1296,Tea
+1296,Tortilla chips
+1297,Bananas
+1297,Chocolate
+1297,Milk
+1298,Bananas
+1298,Eggs
+1298,Milk
+1298,Parmesan
+1298,Pasta
+1298,Pasta sauce
+1298,Salsa
+1298,Tortilla chips
+1299,Apples
+1299,Coffee
+1299,Eggs
+1299,Pasta
+1300,Bananas
+1300,Eggs
+1301,Bananas
+1301,Cereal
+1301,Coffee
+1301,Eggs
+1301,Pasta sauce
+1301,Salsa
+1301,Tortilla chips
+1301,Yogurt
+1302,Cereal
+1303,Bananas
+1303,Yogurt
+1304,Apples
+1304,Pasta
+1304,Pasta sauce
+1305,Chocolate
+1305,Pasta
+1305,Pasta sauce
+1305,Tea
+1306,Bread
+1306,Milk
+1307,Bread
+1307,Milk
+1307,Pasta
+1307,Pasta sauce
+1307,Yogurt
+1308,Bananas
+1308,Bread
+1308,Eggs
+1308,Milk
+1308,Yogurt
+1309,Cereal
+1309,Chocolate
+1309,Salsa
+1310,Bread
+1310,Cereal
+1310,Coffee
+1310,Eggs
+1310,Milk
+1310,Tortilla chips
+1311,Cereal
+1311,Coffee
+1311,Milk
+1311,Parmesan
+1311,Pasta
+1311,Pasta sauce
+1311,Salsa
+1311,Tortilla chips
+1312,Tea
+1312,Yogurt
+1313,Apples
+1313,Milk
+1313,Pasta
+1313,Pasta sauce
+1313,Tortilla chips
+1314,Apples
+1314,Bread
+1314,Parmesan
+1314,Pasta
+1314,Pasta sauce
+1314,Tortilla chips
+1314,Yogurt
+1315,Bread
+1315,Salsa
+1315,Tortilla chips
+1316,Apples
+1316,Chocolate
+1316,Pasta
+1316,Pasta sauce
+1316,Sparkling water
+1317,Apples
+1317,Sparkling water
+1317,Tea
+1318,Apples
+1318,Salsa
+1318,Tortilla chips
+1319,Sparkling water
+1320,Eggs
+1320,Pasta
+1320,Pasta sauce
+1321,Bananas
+1321,Bread
+1321,Cereal
+1321,Chocolate
+1321,Eggs
+1321,Milk
+1321,Parmesan
+1321,Pasta
+1321,Pasta sauce
+1321,Salsa
+1321,Tortilla chips
+1322,Cereal
+1322,Milk
+1323,Apples
+1323,Bread
+1323,Chocolate
+1323,Parmesan
+1323,Pasta
+1323,Pasta sauce
+1323,Salsa
+1323,Tortilla chips
+1324,Bread
+1324,Pasta sauce
+1324,Tea
+1324,Tortilla chips
+1324,Yogurt
+1325,Apples
+1325,Eggs
+1325,Salsa
+1326,Apples
+1326,Bread
+1326,Pasta
+1326,Salsa
+1326,Tortilla chips
+1327,Bread
+1327,Salsa
+1327,Sparkling water
+1327,Tortilla chips
+1328,Bananas
+1328,Cereal
+1328,Milk
+1328,Sparkling water
+1329,Apples
+1329,Eggs
+1329,Yogurt
+1330,Apples
+1330,Bread
+1330,Eggs
+1330,Tea
+1331,Bananas
+1331,Bread
+1331,Sparkling water
+1331,Yogurt
+1332,Bread
+1332,Coffee
+1332,Eggs
+1332,Milk
+1333,Cereal
+1333,Milk
+1333,Parmesan
+1333,Pasta
+1333,Pasta sauce
+1333,Sparkling water
+1334,Bread
+1334,Tortilla chips
+1335,Cereal
+1335,Eggs
+1335,Salsa
+1335,Yogurt
+1336,Coffee
+1337,Bananas
+1337,Bread
+1337,Cereal
+1337,Coffee
+1337,Pasta
+1337,Pasta sauce
+1337,Yogurt
+1338,Sparkling water
+1338,Tea
+1339,Bread
+1339,Cereal
+1339,Eggs
+1340,Bananas
+1340,Parmesan
+1340,Pasta
+1340,Pasta sauce
+1340,Sparkling water
+1341,Bread
+1341,Milk
+1341,Sparkling water
+1342,Eggs
+1342,Pasta
+1342,Pasta sauce
+1342,Sparkling water
+1343,Eggs
+1343,Pasta
+1343,Pasta sauce
+1344,Bread
+1344,Milk
+1344,Pasta
+1344,Pasta sauce
+1345,Apples
+1345,Bread
+1346,Salsa
+1346,Sparkling water
+1346,Tortilla chips
+1347,Milk
+1347,Parmesan
+1347,Pasta
+1347,Pasta sauce
+1348,Apples
+1348,Pasta sauce
+1348,Yogurt
+1349,Apples
+1349,Bread
+1349,Chocolate
+1349,Milk
+1350,Apples
+1350,Parmesan
+1350,Pasta
+1350,Pasta sauce
+1351,Bread
+1351,Milk
+1352,Eggs
+1353,Apples
+1353,Cereal
+1353,Eggs
+1353,Parmesan
+1353,Pasta
+1353,Pasta sauce
+1353,Salsa
+1353,Sparkling water
+1353,Yogurt
+1354,Cereal
+1354,Chocolate
+1354,Tea
+1355,Bread
+1355,Pasta sauce
+1356,Coffee
+1356,Pasta
+1356,Salsa
+1356,Sparkling water
+1356,Tortilla chips
+1357,Cereal
+1357,Chocolate
+1357,Eggs
+1357,Milk
+1357,Pasta
+1357,Salsa
+1357,Tortilla chips
+1358,Tea
+1358,Yogurt
+1359,Yogurt
+1360,Bananas
+1360,Eggs
+1361,Bread
+1361,Tortilla chips
+1361,Yogurt
+1362,Chocolate
+1362,Coffee
+1362,Parmesan
+1362,Pasta
+1362,Pasta sauce
+1362,Tea
+1363,Eggs
+1363,Milk
+1363,Parmesan
+1363,Pasta
+1363,Pasta sauce
+1363,Salsa
+1364,Coffee
+1364,Milk
+1364,Salsa
+1364,Tortilla chips
+1364,Yogurt
+1365,Bread
+1365,Chocolate
+1365,Pasta
+1365,Pasta sauce
+1366,Bread
+1366,Eggs
+1366,Yogurt
+1367,Bread
+1367,Cereal
+1367,Eggs
+1367,Milk
+1368,Pasta
+1368,Salsa
+1368,Sparkling water
+1368,Tea
+1368,Yogurt
+1369,Eggs
+1370,Chocolate
+1370,Eggs
+1370,Pasta
+1370,Pasta sauce
+1371,Apples
+1371,Coffee
+1371,Salsa
+1371,Tortilla chips
+1371,Yogurt
+1372,Apples
+1372,Coffee
+1372,Parmesan
+1372,Pasta
+1372,Pasta sauce
+1373,Milk
+1374,Bananas
+1374,Yogurt
+1375,Bananas
+1375,Bread
+1375,Cereal
+1375,Milk
+1375,Tea
+1376,Cereal
+1376,Milk
+1376,Parmesan
+1376,Pasta
+1376,Pasta sauce
+1376,Tortilla chips
+1377,Pasta sauce
+1377,Salsa
+1377,Tea
+1377,Yogurt
+1378,Apples
+1378,Eggs
+1378,Salsa
+1378,Tea
+1379,Eggs
+1379,Sparkling water
+1379,Tortilla chips
+1380,Bread
+1380,Cereal
+1380,Chocolate
+1380,Milk
+1380,Parmesan
+1380,Pasta
+1380,Pasta sauce
+1380,Yogurt
+1381,Apples
+1381,Bananas
+1381,Cereal
+1381,Milk
+1381,Pasta
+1381,Yogurt
+1382,Apples
+1382,Milk
+1382,Yogurt
+1383,Eggs
+1383,Milk
+1383,Parmesan
+1383,Pasta
+1383,Pasta sauce
+1383,Sparkling water
+1384,Milk
+1385,Bread
+1385,Cereal
+1385,Milk
+1385,Parmesan
+1385,Pasta
+1385,Pasta sauce
+1385,Tea
+1386,Apples
+1386,Tea
+1387,Apples
+1387,Bananas
+1387,Eggs
+1387,Milk
+1387,Pasta sauce
+1387,Salsa
+1387,Tortilla chips
+1388,Apples
+1388,Bananas
+1388,Milk
+1388,Yogurt
+1389,Cereal
+1389,Milk
+1390,Bananas
+1390,Coffee
+1391,Eggs
+1391,Milk
+1391,Salsa
+1392,Apples
+1392,Tea
+1393,Bread
+1393,Cereal
+1393,Coffee
+1393,Milk
+1393,Salsa
+1394,Coffee
+1395,Bananas
+1396,Chocolate
+1396,Milk
+1396,Pasta
+1397,Bread
+1397,Milk
+1397,Pasta
+1397,Pasta sauce
+1398,Cereal
+1398,Milk
+1398,Yogurt
+1399,Bananas
+1399,Bread
+1399,Cereal
+1399,Milk
+1399,Salsa
+1399,Sparkling water
+1399,Tortilla chips
+1400,Chocolate
+1400,Eggs
+1401,Bread
+1401,Coffee
+1401,Eggs
+1402,Coffee
+1402,Sparkling water
+1403,Bread
+1403,Cereal
+1403,Milk
+1404,Cereal
+1404,Milk
+1404,Pasta
+1405,Bread
+1405,Milk
+1405,Salsa
+1405,Sparkling water
+1406,Apples
+1406,Bread
+1406,Milk
+1406,Tea
+1407,Eggs
+1407,Pasta
+1407,Pasta sauce
+1408,Coffee
+1408,Eggs
+1408,Salsa
+1408,Tortilla chips
+1409,Bananas
+1409,Coffee
+1409,Parmesan
+1410,Apples
+1410,Bread
+1410,Milk
+1411,Bread
+1411,Cereal
+1411,Milk
+1411,Pasta sauce
+1412,Milk
+1412,Salsa
+1412,Tea
+1412,Tortilla chips
+1412,Yogurt
+1413,Chocolate
+1413,Milk
+1414,Salsa
+1414,Sparkling water
+1414,Tortilla chips
+1415,Cereal
+1415,Milk
+1415,Salsa
+1415,Tortilla chips
+1416,Bread
+1416,Chocolate
+1416,Milk
+1416,Tortilla chips
+1417,Bananas
+1417,Chocolate
+1417,Coffee
+1417,Pasta
+1417,Pasta sauce
+1418,Eggs
+1418,Milk
+1418,Pasta
+1418,Pasta sauce
+1418,Salsa
+1418,Tortilla chips
+1419,Bread
+1419,Cereal
+1419,Milk
+1420,Bananas
+1420,Cereal
+1420,Milk
+1421,Bread
+1421,Coffee
+1421,Milk
+1421,Salsa
+1422,Bananas
+1422,Coffee
+1422,Eggs
+1422,Pasta
+1422,Pasta sauce
+1422,Sparkling water
+1423,Bread
+1423,Eggs
+1423,Milk
+1423,Sparkling water
+1424,Bananas
+1424,Milk
+1424,Parmesan
+1424,Yogurt
+1425,Cereal
+1425,Milk
+1425,Parmesan
+1425,Pasta
+1425,Pasta sauce
+1425,Salsa
+1425,Tortilla chips
+1426,Bananas
+1427,Cereal
+1427,Eggs
+1427,Milk
+1427,Pasta
+1428,Coffee
+1428,Milk
+1428,Parmesan
+1428,Pasta
+1428,Pasta sauce
+1428,Salsa
+1428,Tortilla chips
+1429,Apples
+1429,Chocolate
+1429,Eggs
+1429,Milk
+1430,Bananas
+1430,Bread
+1431,Apples
+1431,Chocolate
+1431,Eggs
+1431,Pasta
+1431,Pasta sauce
+1431,Sparkling water
+1432,Cereal
+1432,Parmesan
+1432,Pasta
+1432,Pasta sauce
+1433,Eggs
+1433,Milk
+1433,Pasta sauce
+1434,Pasta
+1434,Salsa
+1434,Sparkling water
+1434,Tortilla chips
+1435,Milk
+1435,Parmesan
+1435,Pasta sauce
+1435,Tortilla chips
+1436,Bananas
+1436,Milk
+1437,Bread
+1437,Parmesan
+1437,Pasta
+1437,Pasta sauce
+1437,Salsa
+1437,Tortilla chips
+1438,Milk
+1438,Salsa
+1438,Tea
+1438,Tortilla chips
+1438,Yogurt
+1439,Apples
+1439,Bread
+1439,Cereal
+1439,Eggs
+1439,Milk
+1440,Parmesan
+1440,Pasta
+1440,Pasta sauce
+1440,Sparkling water
+1440,Tea
+1440,Yogurt
+1441,Apples
+1441,Milk
+1441,Salsa
+1441,Tea
+1442,Apples
+1443,Apples
+1443,Cereal
+1443,Chocolate
+1443,Milk
+1444,Apples
+1444,Bananas
+1444,Parmesan
+1444,Pasta
+1444,Pasta sauce
+1445,Cereal
+1445,Coffee
+1445,Milk
+1446,Milk
+1447,Apples
+1447,Bananas
+1447,Salsa
+1447,Tortilla chips
+1448,Apples
+1448,Milk
+1448,Pasta
+1448,Pasta sauce
+1448,Salsa
+1448,Tortilla chips
+1449,Cereal
+1449,Chocolate
+1449,Milk
+1450,Bananas
+1450,Pasta sauce
+1451,Coffee
+1451,Eggs
+1451,Pasta sauce
+1452,Apples
+1452,Bananas
+1452,Bread
+1452,Parmesan
+1452,Pasta
+1452,Pasta sauce
+1452,Tortilla chips
+1452,Yogurt
+1453,Bananas
+1453,Tortilla chips
+1454,Pasta
+1454,Salsa
+1454,Tea
+1454,Tortilla chips
+1455,Eggs
+1455,Milk
+1456,Bananas
+1456,Eggs
+1456,Parmesan
+1456,Pasta
+1456,Pasta sauce
+1457,Bananas
+1457,Bread
+1457,Milk
+1457,Pasta
+1458,Cereal
+1458,Milk
+1458,Pasta
+1458,Salsa
+1459,Cereal
+1459,Parmesan
+1459,Pasta
+1459,Pasta sauce
+1460,Bread
+1460,Eggs
+1461,Bread
+1461,Eggs
+1461,Tea
+1461,Yogurt
+1462,Eggs
+1463,Bread
+1463,Cereal
+1463,Milk
+1463,Yogurt
+1464,Cereal
+1464,Coffee
+1464,Milk
+1465,Eggs
+1465,Salsa
+1465,Tortilla chips
+1465,Yogurt
+1466,Eggs
+1466,Salsa
+1466,Tortilla chips
+1467,Bananas
+1467,Bread
+1467,Pasta
+1467,Salsa
+1467,Tortilla chips
+1468,Cereal
+1468,Milk
+1468,Pasta
+1468,Pasta sauce
+1468,Salsa
+1468,Tortilla chips
+1469,Bread
+1469,Cereal
+1469,Milk
+1469,Pasta sauce
+1469,Sparkling water
+1470,Bread
+1470,Pasta
+1470,Pasta sauce
+1470,Tortilla chips
+1471,Bananas
+1471,Chocolate
+1471,Milk
+1471,Pasta sauce
+1471,Tortilla chips
+1472,Coffee
+1473,Eggs
+1473,Tortilla chips
+1474,Bananas
+1474,Chocolate
+1474,Tortilla chips
+1475,Apples
+1475,Milk
+1475,Pasta
+1476,Coffee
+1476,Tortilla chips
+1477,Apples
+1477,Bread
+1477,Pasta sauce
+1477,Tortilla chips
+1478,Bread
+1478,Eggs
+1478,Milk
+1478,Pasta
+1479,Bananas
+1479,Eggs
+1479,Milk
+1480,Bananas
+1480,Salsa
+1480,Tortilla chips
+1481,Salsa
+1482,Bananas
+1482,Milk
+1482,Sparkling water
+1483,Eggs
+1484,Apples
+1484,Eggs
+1484,Pasta
+1485,Bread
+1485,Parmesan
+1485,Pasta
+1485,Pasta sauce
+1485,Salsa
+1485,Sparkling water
+1486,Bread
+1486,Cereal
+1486,Milk
+1486,Yogurt
+1487,Coffee
+1487,Milk
+1488,Bananas
+1488,Bread
+1488,Pasta
+1488,Salsa
+1488,Tortilla chips
+1489,Salsa
+1489,Sparkling water
+1489,Tortilla chips
+1490,Bread
+1490,Coffee
+1490,Eggs
+1490,Pasta sauce
+1491,Bread
+1492,Bread
+1492,Cereal
+1492,Eggs
+1492,Milk
+1493,Chocolate
+1493,Milk
+1493,Salsa
+1493,Sparkling water
+1493,Tortilla chips
+1494,Cereal
+1494,Chocolate
+1494,Milk
+1494,Salsa
+1494,Tea
+1494,Tortilla chips
+1495,Bananas
+1495,Bread
+1495,Cereal
+1495,Milk
+1495,Sparkling water
+1496,Bread
+1496,Eggs
+1497,Chocolate
+1497,Milk
+1497,Pasta sauce
+1497,Salsa
+1497,Tortilla chips
+1498,Coffee
+1499,Apples
+1499,Eggs
+1499,Salsa
+1500,Bread
+1500,Pasta
+1500,Pasta sauce
+1501,Cereal
+1501,Milk
+1501,Tortilla chips
+1502,Apples
+1502,Coffee
+1502,Pasta sauce
+1502,Salsa
+1502,Tortilla chips
+1503,Chocolate
+1503,Eggs
+1503,Milk
+1504,Bananas
+1504,Pasta
+1504,Salsa
+1504,Tortilla chips
+1505,Apples
+1505,Bread
+1505,Salsa
+1505,Tortilla chips
+1505,Yogurt
+1506,Bananas
+1506,Cereal
+1506,Eggs
+1507,Eggs
+1507,Milk
+1508,Bread
+1508,Milk
+1508,Pasta
+1508,Salsa
+1508,Sparkling water
+1508,Tortilla chips
+1508,Yogurt
+1509,Eggs
+1509,Salsa
+1509,Tortilla chips
+1510,Bread
+1510,Chocolate
+1511,Apples
+1512,Bread
+1512,Eggs
+1512,Milk
+1512,Parmesan
+1512,Pasta
+1512,Pasta sauce
+1513,Bananas
+1513,Milk
+1513,Tortilla chips
+1514,Eggs
+1514,Sparkling water
+1515,Bread
+1515,Milk
+1515,Sparkling water
+1516,Chocolate
+1516,Milk
+1516,Pasta
+1517,Eggs
+1517,Tea
+1518,Chocolate
+1518,Eggs
+1518,Milk
+1518,Pasta
+1518,Pasta sauce
+1518,Tea
+1518,Tortilla chips
+1519,Chocolate
+1519,Salsa
+1519,Tortilla chips
+1520,Apples
+1520,Bread
+1520,Eggs
+1520,Yogurt
+1521,Eggs
+1521,Milk
+1521,Parmesan
+1521,Pasta
+1521,Pasta sauce
+1521,Salsa
+1521,Tortilla chips
+1522,Apples
+1522,Salsa
+1522,Tortilla chips
+1523,Apples
+1524,Pasta
+1524,Pasta sauce
+1524,Tortilla chips
+1525,Apples
+1525,Bananas
+1525,Chocolate
+1525,Pasta
+1526,Apples
+1526,Bananas
+1526,Bread
+1527,Coffee
+1527,Milk
+1527,Parmesan
+1527,Pasta
+1527,Pasta sauce
+1527,Salsa
+1527,Sparkling water
+1527,Tortilla chips
+1527,Yogurt
+1528,Cereal
+1528,Coffee
+1528,Eggs
+1529,Chocolate
+1529,Eggs
+1529,Milk
+1530,Bananas
+1530,Cereal
+1530,Chocolate
+1530,Eggs
+1530,Milk
+1530,Tortilla chips
+1531,Bread
+1531,Parmesan
+1531,Pasta sauce
+1532,Bananas
+1532,Bread
+1532,Salsa
+1532,Tortilla chips
+1533,Eggs
+1533,Yogurt
+1534,Milk
+1534,Pasta sauce
+1535,Cereal
+1535,Chocolate
+1536,Apples
+1536,Milk
+1536,Sparkling water
+1537,Salsa
+1537,Sparkling water
+1537,Tortilla chips
+1538,Pasta
+1538,Pasta sauce
+1538,Yogurt
+1539,Apples
+1539,Bread
+1539,Coffee
+1539,Salsa
+1539,Sparkling water
+1539,Tortilla chips
+1539,Yogurt
+1540,Chocolate
+1540,Eggs
+1541,Cereal
+1541,Eggs
+1541,Milk
+1542,Bread
+1542,Milk
+1542,Parmesan
+1543,Cereal
+1543,Coffee
+1543,Milk
+1543,Sparkling water
+1543,Tea
+1544,Pasta
+1545,Cereal
+1545,Milk
+1545,Tea
+1546,Cereal
+1546,Eggs
+1546,Milk
+1546,Pasta sauce
+1546,Salsa
+1546,Sparkling water
+1546,Tortilla chips
+1547,Bread
+1547,Coffee
+1547,Pasta
+1548,Bread
+1548,Chocolate
+1548,Salsa
+1548,Tortilla chips
+1549,Coffee
+1549,Salsa
+1549,Tortilla chips
+1550,Milk
+1550,Parmesan
+1550,Pasta
+1550,Pasta sauce
+1550,Salsa
+1550,Tortilla chips
+1551,Chocolate
+1551,Milk
+1552,Pasta
+1553,Apples
+1553,Bananas
+1553,Tortilla chips
+1554,Sparkling water
+1555,Bread
+1555,Cereal
+1555,Milk
+1555,Tortilla chips
+1556,Bread
+1556,Chocolate
+1556,Milk
+1556,Pasta
+1556,Salsa
+1556,Tortilla chips
+1557,Bananas
+1557,Yogurt
+1558,Bananas
+1559,Apples
+1559,Bread
+1559,Milk
+1559,Pasta
+1559,Tea
+1559,Yogurt
+1560,Bananas
+1560,Bread
+1560,Sparkling water
+1561,Bread
+1561,Chocolate
+1561,Yogurt
+1562,Pasta
+1562,Sparkling water
+1563,Eggs
+1563,Tortilla chips
+1564,Cereal
+1564,Coffee
+1564,Milk
+1564,Pasta
+1564,Salsa
+1564,Tortilla chips
+1565,Bananas
+1565,Bread
+1565,Parmesan
+1565,Pasta
+1565,Pasta sauce
+1565,Salsa
+1565,Sparkling water
+1565,Tortilla chips
+1566,Bread
+1566,Parmesan
+1566,Pasta
+1566,Pasta sauce
+1566,Salsa
+1566,Sparkling water
+1566,Tortilla chips
+1567,Bananas
+1567,Bread
+1567,Eggs
+1567,Yogurt
+1568,Milk
+1568,Pasta
+1568,Pasta sauce
+1568,Salsa
+1569,Bananas
+1569,Bread
+1569,Cereal
+1569,Tea
+1570,Apples
+1570,Bananas
+1570,Bread
+1570,Cereal
+1570,Milk
+1570,Salsa
+1570,Sparkling water
+1570,Yogurt
+1571,Bread
+1571,Tea
+1572,Apples
+1572,Coffee
+1572,Parmesan
+1572,Pasta
+1572,Pasta sauce
+1572,Salsa
+1572,Tortilla chips
+1572,Yogurt
+1573,Milk
+1574,Apples
+1574,Milk
+1574,Tea
+1575,Apples
+1575,Cereal
+1575,Milk
+1576,Coffee
+1576,Eggs
+1576,Pasta
+1576,Yogurt
+1577,Milk
+1578,Bananas
+1578,Eggs
+1579,Cereal
+1579,Chocolate
+1579,Milk
+1580,Apples
+1580,Eggs
+1580,Pasta
+1580,Tea
+1581,Bread
+1581,Eggs
+1581,Milk
+1581,Pasta
+1581,Tortilla chips
+1581,Yogurt
+1582,Bananas
+1582,Eggs
+1582,Parmesan
+1582,Pasta
+1582,Pasta sauce
+1583,Pasta
+1583,Pasta sauce
+1584,Bananas
+1584,Bread
+1584,Eggs
+1584,Pasta sauce
+1585,Apples
+1585,Cereal
+1585,Eggs
+1585,Milk
+1585,Yogurt
+1586,Eggs
+1587,Bananas
+1587,Milk
+1587,Parmesan
+1587,Pasta
+1587,Pasta sauce
+1588,Eggs
+1588,Pasta
+1588,Tea
+1588,Yogurt
+1589,Apples
+1589,Bananas
+1589,Salsa
+1589,Sparkling water
+1589,Tortilla chips
+1590,Apples
+1590,Cereal
+1590,Eggs
+1590,Milk
+1590,Pasta
+1590,Pasta sauce
+1591,Apples
+1591,Bread
+1591,Eggs
+1591,Milk
+1592,Bread
+1592,Coffee
+1592,Milk
+1592,Sparkling water
+1592,Yogurt
+1593,Cereal
+1593,Coffee
+1593,Milk
+1593,Parmesan
+1593,Pasta
+1593,Pasta sauce
+1593,Salsa
+1593,Tortilla chips
+1594,Apples
+1594,Chocolate
+1594,Pasta
+1594,Pasta sauce
+1594,Salsa
+1594,Sparkling water
+1594,Tortilla chips
+1595,Bread
+1595,Parmesan
+1595,Pasta
+1595,Pasta sauce
+1596,Chocolate
+1596,Parmesan
+1596,Pasta
+1596,Pasta sauce
+1596,Sparkling water
+1597,Bananas
+1597,Chocolate
+1597,Eggs
+1598,Milk
+1598,Salsa
+1598,Sparkling water
+1598,Tortilla chips
+1598,Yogurt
+1599,Cereal
+1599,Tea
+1600,Bananas
+1601,Coffee
+1602,Bread
+1602,Salsa
+1602,Tortilla chips
+1603,Milk
+1603,Parmesan
+1603,Pasta
+1603,Pasta sauce
+1604,Parmesan
+1604,Pasta
+1604,Pasta sauce
+1604,Sparkling water
+1605,Tortilla chips
+1606,Coffee
+1606,Tortilla chips
+1606,Yogurt
+1607,Bananas
+1607,Coffee
+1607,Eggs
+1607,Pasta
+1608,Bananas
+1608,Chocolate
+1608,Coffee
+1608,Eggs
+1608,Salsa
+1609,Pasta sauce
+1609,Salsa
+1609,Tortilla chips
+1610,Apples
+1611,Bread
+1611,Tea
+1612,Tea
+1613,Apples
+1613,Milk
+1614,Bread
+1614,Pasta sauce
+1614,Salsa
+1614,Tea
+1614,Tortilla chips
+1615,Bananas
+1615,Chocolate
+1615,Milk
+1616,Chocolate
+1616,Coffee
+1616,Yogurt
+1617,Eggs
+1617,Pasta
+1617,Sparkling water
+1617,Tortilla chips
+1617,Yogurt
+1618,Bread
+1619,Coffee
+1620,Apples
+1620,Bananas
+1620,Coffee
+1620,Milk
+1621,Bananas
+1621,Bread
+1621,Coffee
+1621,Eggs
+1621,Milk
+1621,Pasta
+1621,Pasta sauce
+1622,Bread
+1622,Chocolate
+1623,Salsa
+1623,Sparkling water
+1623,Tortilla chips
+1624,Bread
+1624,Cereal
+1624,Milk
+1624,Pasta
+1624,Pasta sauce
+1625,Eggs
+1625,Tortilla chips
+1626,Parmesan
+1626,Pasta
+1626,Pasta sauce
+1626,Sparkling water
+1626,Tortilla chips
+1627,Eggs
+1627,Milk
+1627,Salsa
+1627,Tortilla chips
+1628,Apples
+1628,Parmesan
+1629,Apples
+1629,Bananas
+1629,Bread
+1629,Cereal
+1629,Chocolate
+1629,Coffee
+1629,Parmesan
+1629,Pasta
+1629,Pasta sauce
+1629,Tea
+1629,Tortilla chips
+1630,Sparkling water
+1630,Tea
+1630,Yogurt
+1631,Apples
+1631,Bananas
+1631,Bread
+1631,Sparkling water
+1632,Apples
+1632,Bananas
+1632,Coffee
+1632,Pasta sauce
+1633,Salsa
+1634,Bread
+1634,Coffee
+1634,Milk
+1634,Tortilla chips
+1635,Bread
+1635,Cereal
+1635,Milk
+1636,Apples
+1637,Bread
+1637,Milk
+1637,Tea
+1638,Coffee
+1638,Eggs
+1638,Parmesan
+1638,Tea
+1638,Yogurt
+1639,Bananas
+1639,Eggs
+1639,Milk
+1639,Salsa
+1639,Tortilla chips
+1640,Apples
+1640,Eggs
+1640,Salsa
+1640,Tortilla chips
+1641,Chocolate
+1641,Coffee
+1641,Milk
+1641,Pasta sauce
+1641,Yogurt
+1642,Apples
+1642,Cereal
+1642,Coffee
+1642,Milk
+1643,Bananas
+1643,Bread
+1643,Cereal
+1643,Milk
+1643,Salsa
+1643,Tortilla chips
+1644,Cereal
+1644,Eggs
+1644,Salsa
+1644,Tortilla chips
+1645,Apples
+1645,Parmesan
+1645,Pasta
+1645,Pasta sauce
+1646,Bananas
+1646,Bread
+1647,Apples
+1647,Pasta
+1647,Pasta sauce
+1647,Yogurt
+1648,Bread
+1648,Cereal
+1649,Bread
+1649,Coffee
+1649,Milk
+1649,Parmesan
+1649,Pasta
+1649,Pasta sauce
+1649,Sparkling water
+1649,Tea
+1649,Yogurt
+1650,Bread
+1650,Chocolate
+1650,Eggs
+1650,Sparkling water
+1651,Eggs
+1651,Milk
+1651,Pasta sauce
+1651,Salsa
+1651,Tortilla chips
+1652,Milk
+1652,Pasta
+1652,Pasta sauce
+1652,Sparkling water
+1653,Bread
+1653,Chocolate
+1654,Chocolate
+1654,Coffee
+1654,Eggs
+1654,Milk
+1654,Parmesan
+1654,Pasta
+1654,Pasta sauce
+1654,Tea
+1655,Bread
+1655,Chocolate
+1655,Sparkling water
+1656,Bananas
+1656,Tea
+1657,Bananas
+1657,Coffee
+1657,Milk
+1657,Pasta
+1658,Apples
+1658,Bread
+1658,Tortilla chips
+1658,Yogurt
+1659,Bananas
+1660,Cereal
+1660,Pasta
+1660,Pasta sauce
+1660,Yogurt
+1661,Apples
+1661,Cereal
+1661,Pasta
+1661,Pasta sauce
+1662,Bread
+1662,Tea
+1663,Apples
+1663,Bananas
+1663,Pasta
+1663,Pasta sauce
+1663,Salsa
+1663,Tortilla chips
+1664,Cereal
+1664,Milk
+1664,Salsa
+1664,Tortilla chips
+1665,Bananas
+1665,Bread
+1665,Eggs
+1665,Milk
+1665,Sparkling water
+1665,Tea
+1666,Bread
+1666,Cereal
+1666,Milk
+1666,Yogurt
+1667,Cereal
+1667,Milk
+1667,Pasta
+1667,Pasta sauce
+1667,Tea
+1668,Cereal
+1668,Milk
+1668,Yogurt
+1669,Chocolate
+1669,Milk
+1670,Apples
+1670,Tea
+1671,Apples
+1671,Milk
+1671,Parmesan
+1671,Pasta
+1671,Pasta sauce
+1671,Sparkling water
+1671,Yogurt
+1672,Parmesan
+1672,Pasta
+1672,Pasta sauce
+1672,Salsa
+1673,Bananas
+1673,Bread
+1673,Cereal
+1673,Milk
+1673,Pasta
+1674,Bananas
+1674,Cereal
+1674,Milk
+1674,Parmesan
+1674,Pasta
+1674,Pasta sauce
+1674,Tea
+1675,Bananas
+1675,Cereal
+1676,Cereal
+1676,Pasta sauce
+1676,Salsa
+1676,Sparkling water
+1677,Bread
+1677,Eggs
+1677,Milk
+1678,Eggs
+1679,Apples
+1679,Cereal
+1679,Milk
+1680,Apples
+1681,Eggs
+1681,Pasta
+1681,Pasta sauce
+1681,Salsa
+1682,Bananas
+1682,Coffee
+1682,Salsa
+1682,Tortilla chips
+1683,Cereal
+1683,Milk
+1683,Parmesan
+1683,Pasta
+1683,Pasta sauce
+1683,Salsa
+1683,Tortilla chips
+1684,Bread
+1684,Milk
+1685,Chocolate
+1685,Milk
+1685,Pasta
+1685,Pasta sauce
+1685,Salsa
+1685,Tortilla chips
+1686,Bread
+1686,Cereal
+1686,Coffee
+1686,Milk
+1687,Pasta
+1687,Pasta sauce
+1687,Sparkling water
+1687,Tea
+1688,Apples
+1688,Bananas
+1688,Coffee
+1688,Eggs
+1688,Milk
+1688,Pasta
+1688,Salsa
+1688,Tortilla chips
+1689,Tea
+1690,Apples
+1690,Milk
+1690,Parmesan
+1690,Pasta
+1691,Coffee
+1691,Milk
+1691,Parmesan
+1691,Pasta
+1691,Pasta sauce
+1692,Milk
+1692,Parmesan
+1692,Pasta
+1692,Pasta sauce
+1692,Salsa
+1692,Tortilla chips
+1693,Milk
+1693,Salsa
+1693,Tortilla chips
+1694,Bread
+1694,Pasta
+1694,Pasta sauce
+1694,Yogurt
+1695,Milk
+1695,Yogurt
+1696,Pasta sauce
+1696,Tea
+1697,Bananas
+1697,Cereal
+1697,Yogurt
+1698,Tortilla chips
+1699,Parmesan
+1699,Pasta
+1699,Pasta sauce
+1700,Eggs
+1700,Milk
+1701,Cereal
+1701,Chocolate
+1701,Eggs
+1701,Tea
+1702,Milk
+1703,Tea
+1704,Apples
+1704,Bananas
+1704,Eggs
+1704,Salsa
+1704,Tortilla chips
+1705,Bread
+1705,Cereal
+1705,Parmesan
+1706,Bananas
+1706,Cereal
+1706,Eggs
+1707,Salsa
+1708,Milk
+1709,Parmesan
+1710,Bread
+1710,Cereal
+1710,Milk
+1711,Cereal
+1711,Milk
+1711,Pasta
+1711,Sparkling water
+1711,Yogurt
+1712,Bread
+1712,Salsa
+1712,Sparkling water
+1712,Tortilla chips
+1713,Bananas
+1713,Cereal
+1713,Milk
+1713,Pasta
+1713,Pasta sauce
+1714,Bread
+1714,Cereal
+1714,Milk
+1715,Apples
+1715,Bananas
+1715,Eggs
+1715,Sparkling water
+1716,Bananas
+1716,Bread
+1716,Chocolate
+1716,Salsa
+1717,Sparkling water
+1718,Bread
+1719,Cereal
+1719,Coffee
+1719,Milk
+1719,Sparkling water
+1719,Tea
+1720,Apples
+1720,Cereal
+1720,Milk
+1720,Pasta
+1721,Apples
+1721,Bread
+1721,Sparkling water
+1722,Pasta sauce
+1722,Tea
+1723,Bananas
+1723,Cereal
+1723,Milk
+1723,Pasta sauce
+1724,Coffee
+1724,Eggs
+1724,Milk
+1724,Pasta sauce
+1725,Cereal
+1725,Coffee
+1725,Eggs
+1725,Milk
+1725,Yogurt
+1726,Cereal
+1726,Milk
+1727,Bananas
+1727,Bread
+1728,Bread
+1728,Milk
+1728,Sparkling water
+1729,Apples
+1729,Coffee
+1729,Milk
+1729,Salsa
+1729,Tortilla chips
+1730,Bread
+1730,Cereal
+1730,Milk
+1730,Pasta
+1731,Parmesan
+1732,Coffee
+1732,Salsa
+1732,Tortilla chips
+1733,Parmesan
+1733,Pasta
+1733,Pasta sauce
+1733,Salsa
+1733,Sparkling water
+1734,Eggs
+1735,Bread
+1735,Cereal
+1735,Chocolate
+1735,Eggs
+1735,Parmesan
+1735,Pasta
+1735,Pasta sauce
+1736,Bread
+1736,Coffee
+1736,Eggs
+1736,Salsa
+1736,Tortilla chips
+1737,Apples
+1737,Cereal
+1737,Coffee
+1737,Milk
+1737,Parmesan
+1737,Pasta
+1737,Pasta sauce
+1738,Bananas
+1738,Bread
+1738,Eggs
+1738,Milk
+1738,Pasta
+1739,Chocolate
+1739,Pasta
+1739,Pasta sauce
+1740,Eggs
+1740,Parmesan
+1740,Pasta
+1740,Pasta sauce
+1740,Salsa
+1740,Tortilla chips
+1741,Cereal
+1741,Milk
+1741,Sparkling water
+1742,Bread
+1742,Chocolate
+1742,Milk
+1742,Parmesan
+1742,Pasta
+1742,Pasta sauce
+1743,Sparkling water
+1743,Tea
+1744,Pasta sauce
+1744,Tea
+1745,Cereal
+1745,Milk
+1745,Yogurt
+1746,Milk
+1747,Bananas
+1747,Bread
+1747,Eggs
+1748,Milk
+1749,Milk
+1749,Parmesan
+1749,Pasta
+1749,Pasta sauce
+1749,Salsa
+1749,Sparkling water
+1749,Tortilla chips
+1750,Bananas
+1750,Cereal
+1750,Milk
+1750,Pasta sauce
+1750,Tortilla chips
+1751,Bananas
+1751,Bread
+1752,Bread
+1752,Eggs
+1752,Yogurt
+1753,Cereal
+1753,Parmesan
+1753,Pasta
+1753,Pasta sauce
+1754,Bananas
+1755,Apples
+1755,Bread
+1755,Milk
+1755,Pasta
+1755,Pasta sauce
+1755,Salsa
+1755,Tortilla chips
+1756,Milk
+1756,Tea
+1756,Tortilla chips
+1757,Coffee
+1757,Eggs
+1757,Pasta
+1757,Pasta sauce
+1758,Parmesan
+1758,Pasta
+1758,Pasta sauce
+1758,Yogurt
+1759,Bread
+1759,Eggs
+1759,Salsa
+1759,Sparkling water
+1759,Tortilla chips
+1760,Apples
+1760,Eggs
+1761,Apples
+1761,Eggs
+1761,Pasta
+1761,Yogurt
+1762,Apples
+1762,Chocolate
+1762,Coffee
+1762,Sparkling water
+1763,Tortilla chips
+1764,Cereal
+1764,Milk
+1764,Pasta
+1764,Pasta sauce
+1764,Salsa
+1765,Milk
+1765,Parmesan
+1766,Milk
+1767,Bananas
+1768,Bread
+1768,Cereal
+1768,Eggs
+1768,Yogurt
+1769,Apples
+1769,Eggs
+1769,Milk
+1769,Yogurt
+1770,Bananas
+1770,Bread
+1770,Milk
+1770,Yogurt
+1771,Apples
+1772,Eggs
+1772,Pasta sauce
+1772,Salsa
+1772,Sparkling water
+1772,Tortilla chips
+1773,Bread
+1773,Cereal
+1773,Coffee
+1773,Milk
+1774,Bananas
+1774,Parmesan
+1774,Sparkling water
+1774,Tea
+1775,Bread
+1775,Cereal
+1775,Milk
+1776,Apples
+1776,Eggs
+1776,Milk
+1776,Pasta sauce
+1776,Salsa
+1777,Bananas
+1777,Cereal
+1777,Milk
+1777,Parmesan
+1777,Pasta
+1777,Pasta sauce
+1778,Coffee
+1778,Milk
+1778,Tea
+1779,Apples
+1779,Bread
+1779,Chocolate
+1779,Eggs
+1779,Milk
+1779,Tea
+1779,Yogurt
+1780,Bread
+1780,Coffee
+1780,Pasta sauce
+1781,Apples
+1781,Eggs
+1781,Milk
+1781,Salsa
+1781,Tortilla chips
+1782,Apples
+1782,Sparkling water
+1782,Tortilla chips
+1783,Bananas
+1783,Bread
+1783,Chocolate
+1783,Yogurt
+1784,Bananas
+1784,Cereal
+1784,Milk
+1784,Salsa
+1784,Tortilla chips
+1785,Eggs
+1785,Milk
+1785,Tortilla chips
+1785,Yogurt
+1786,Apples
+1786,Milk
+1786,Salsa
+1786,Tortilla chips
+1787,Milk
+1787,Tea
+1788,Eggs
+1788,Salsa
+1788,Tortilla chips
+1789,Bananas
+1789,Milk
+1790,Bread
+1790,Chocolate
+1791,Cereal
+1791,Chocolate
+1791,Milk
+1791,Salsa
+1791,Sparkling water
+1791,Tortilla chips
+1791,Yogurt
+1792,Apples
+1792,Milk
+1792,Pasta
+1792,Pasta sauce
+1793,Apples
+1793,Milk
+1794,Yogurt
+1795,Apples
+1795,Milk
+1795,Tea
+1795,Yogurt
+1796,Bananas
+1796,Cereal
+1796,Chocolate
+1796,Coffee
+1796,Milk
+1796,Pasta
+1796,Pasta sauce
+1797,Apples
+1797,Cereal
+1797,Sparkling water
+1797,Tortilla chips
+1798,Bread
+1798,Milk
+1798,Parmesan
+1799,Chocolate
+1799,Eggs
+1799,Parmesan
+1799,Pasta
+1799,Pasta sauce
+1799,Tortilla chips
+1800,Tortilla chips
+1800,Yogurt
+1801,Bananas
+1802,Chocolate
+1803,Eggs
+1803,Pasta
+1803,Pasta sauce
+1803,Sparkling water
+1803,Yogurt
+1804,Milk
+1804,Salsa
+1804,Tortilla chips
+1805,Cereal
+1805,Milk
+1805,Tortilla chips
+1806,Bananas
+1806,Chocolate
+1806,Milk
+1806,Parmesan
+1806,Pasta
+1806,Pasta sauce
+1806,Sparkling water
+1806,Yogurt
+1807,Bread
+1807,Pasta sauce
+1807,Sparkling water
+1808,Apples
+1808,Bread
+1808,Milk
+1809,Bread
+1809,Cereal
+1809,Milk
+1810,Apples
+1810,Milk
+1810,Salsa
+1810,Sparkling water
+1810,Tortilla chips
+1811,Bread
+1811,Cereal
+1811,Milk
+1811,Tea
+1811,Yogurt
+1812,Milk
+1813,Milk
+1813,Pasta
+1813,Pasta sauce
+1813,Tea
+1814,Milk
+1814,Salsa
+1815,Cereal
+1815,Chocolate
+1815,Eggs
+1815,Milk
+1815,Pasta sauce
+1815,Salsa
+1815,Sparkling water
+1815,Tortilla chips
+1816,Bananas
+1816,Salsa
+1816,Sparkling water
+1816,Tortilla chips
+1817,Bananas
+1817,Eggs
+1817,Milk
+1818,Bananas
+1818,Bread
+1818,Pasta
+1818,Pasta sauce
+1819,Apples
+1819,Eggs
+1820,Milk
+1820,Salsa
+1820,Tortilla chips
+1821,Apples
+1821,Bananas
+1821,Bread
+1821,Eggs
+1821,Milk
+1821,Pasta
+1821,Sparkling water
+1822,Milk
+1822,Yogurt
+1823,Pasta
+1823,Pasta sauce
+1824,Eggs
+1824,Parmesan
+1824,Pasta
+1824,Pasta sauce
+1824,Sparkling water
+1825,Bread
+1825,Parmesan
+1825,Pasta
+1825,Pasta sauce
+1825,Tortilla chips
+1826,Coffee
+1827,Bananas
+1827,Cereal
+1827,Coffee
+1827,Milk
+1828,Bread
+1828,Eggs
+1829,Apples
+1829,Bananas
+1829,Bread
+1829,Coffee
+1830,Bananas
+1830,Cereal
+1830,Pasta
+1830,Pasta sauce
+1830,Yogurt
+1831,Sparkling water
+1832,Milk
+1833,Chocolate
+1833,Milk
+1833,Tortilla chips
+1834,Bread
+1834,Milk
+1834,Tea
+1835,Bananas
+1835,Salsa
+1835,Tortilla chips
+1836,Cereal
+1836,Milk
+1836,Parmesan
+1836,Pasta
+1836,Pasta sauce
+1837,Milk
+1838,Bread
+1839,Parmesan
+1839,Salsa
+1839,Tortilla chips
+1840,Bananas
+1840,Eggs
+1840,Milk
+1840,Salsa
+1840,Sparkling water
+1840,Tortilla chips
+1841,Apples
+1842,Tortilla chips
+1842,Yogurt
+1843,Bananas
+1843,Eggs
+1843,Milk
+1844,Parmesan
+1844,Pasta
+1844,Pasta sauce
+1845,Milk
+1845,Tortilla chips
+1846,Eggs
+1846,Pasta
+1847,Bread
+1847,Salsa
+1847,Tortilla chips
+1848,Apples
+1848,Chocolate
+1848,Milk
+1848,Pasta
+1848,Salsa
+1848,Sparkling water
+1848,Tortilla chips
+1849,Milk
+1849,Salsa
+1850,Bread
+1850,Parmesan
+1850,Yogurt
+1851,Cereal
+1851,Chocolate
+1851,Milk
+1851,Parmesan
+1852,Eggs
+1852,Milk
+1853,Apples
+1853,Milk
+1853,Pasta
+1853,Pasta sauce
+1854,Eggs
+1855,Milk
+1855,Salsa
+1856,Apples
+1856,Bread
+1856,Milk
+1856,Parmesan
+1856,Sparkling water
+1856,Yogurt
+1857,Bananas
+1857,Coffee
+1857,Parmesan
+1857,Pasta
+1857,Pasta sauce
+1857,Salsa
+1857,Tortilla chips
+1858,Bread
+1858,Cereal
+1858,Coffee
+1858,Milk
+1858,Parmesan
+1858,Pasta
+1858,Pasta sauce
+1859,Bread
+1859,Pasta sauce
+1859,Salsa
+1859,Tortilla chips
+1859,Yogurt
+1860,Bananas
+1860,Salsa
+1860,Tortilla chips
+1861,Apples
+1861,Bananas
+1861,Eggs
+1861,Salsa
+1861,Tortilla chips
+1862,Yogurt
+1863,Bread
+1863,Cereal
+1863,Sparkling water
+1864,Eggs
+1864,Salsa
+1864,Tortilla chips
+1865,Pasta
+1865,Yogurt
+1866,Eggs
+1866,Milk
+1867,Bananas
+1867,Bread
+1867,Cereal
+1867,Salsa
+1867,Tea
+1867,Tortilla chips
+1868,Chocolate
+1868,Coffee
+1868,Parmesan
+1868,Pasta
+1868,Pasta sauce
+1868,Yogurt
+1869,Bananas
+1869,Chocolate
+1869,Parmesan
+1869,Pasta
+1869,Pasta sauce
+1870,Apples
+1870,Milk
+1870,Parmesan
+1870,Salsa
+1871,Milk
+1871,Parmesan
+1871,Pasta
+1871,Pasta sauce
+1871,Sparkling water
+1872,Bananas
+1872,Bread
+1872,Eggs
+1873,Bread
+1873,Milk
+1874,Bananas
+1875,Bananas
+1875,Bread
+1875,Cereal
+1875,Milk
+1875,Yogurt
+1876,Apples
+1877,Cereal
+1877,Eggs
+1877,Milk
+1877,Parmesan
+1877,Pasta
+1877,Pasta sauce
+1877,Salsa
+1877,Tortilla chips
+1878,Apples
+1878,Bananas
+1878,Pasta sauce
+1878,Salsa
+1878,Tortilla chips
+1879,Bread
+1880,Bread
+1880,Parmesan
+1880,Pasta
+1880,Pasta sauce
+1881,Apples
+1881,Cereal
+1881,Eggs
+1881,Pasta
+1881,Pasta sauce
+1881,Salsa
+1881,Tea
+1881,Yogurt
+1882,Bananas
+1882,Bread
+1882,Cereal
+1882,Milk
+1882,Pasta sauce
+1883,Cereal
+1883,Milk
+1883,Pasta sauce
+1883,Salsa
+1883,Sparkling water
+1883,Tortilla chips
+1884,Cereal
+1885,Bread
+1885,Milk
+1885,Pasta
+1885,Pasta sauce
+1885,Salsa
+1885,Tortilla chips
+1886,Bananas
+1886,Milk
+1887,Eggs
+1888,Apples
+1888,Cereal
+1888,Milk
+1888,Salsa
+1889,Bananas
+1889,Cereal
+1889,Coffee
+1889,Milk
+1890,Milk
+1891,Bananas
+1891,Milk
+1891,Tortilla chips
+1892,Milk
+1892,Parmesan
+1892,Pasta
+1892,Pasta sauce
+1892,Salsa
+1892,Sparkling water
+1892,Tortilla chips
+1892,Yogurt
+1893,Bananas
+1893,Sparkling water
+1894,Apples
+1894,Cereal
+1894,Milk
+1894,Tortilla chips
+1895,Apples
+1895,Bread
+1895,Milk
+1895,Parmesan
+1895,Pasta
+1895,Pasta sauce
+1895,Yogurt
+1896,Apples
+1896,Bananas
+1896,Bread
+1896,Cereal
+1896,Milk
+1897,Eggs
+1897,Milk
+1898,Eggs
+1898,Pasta
+1898,Pasta sauce
+1898,Salsa
+1898,Tortilla chips
+1899,Bananas
+1899,Cereal
+1899,Milk
+1900,Cereal
+1900,Eggs
+1900,Pasta
+1900,Sparkling water
+1900,Tea
+1901,Bread
+1901,Cereal
+1901,Chocolate
+1901,Sparkling water
+1902,Bananas
+1902,Cereal
+1902,Coffee
+1902,Milk
+1902,Pasta
+1902,Pasta sauce
+1903,Cereal
+1903,Chocolate
+1903,Milk
+1904,Cereal
+1904,Eggs
+1904,Milk
+1905,Milk
+1905,Sparkling water
+1905,Tortilla chips
+1906,Milk
+1906,Pasta
+1907,Eggs
+1907,Pasta
+1907,Pasta sauce
+1907,Salsa
+1907,Sparkling water
+1908,Eggs
+1909,Parmesan
+1909,Pasta
+1909,Pasta sauce
+1909,Sparkling water
+1910,Coffee
+1910,Parmesan
+1910,Pasta
+1910,Pasta sauce
+1910,Yogurt
+1911,Bananas
+1911,Salsa
+1911,Tortilla chips
+1912,Bread
+1912,Milk
+1912,Tortilla chips
+1912,Yogurt
+1913,Apples
+1913,Coffee
+1914,Yogurt
+1915,Cereal
+1915,Milk
+1915,Sparkling water
+1916,Cereal
+1916,Coffee
+1916,Milk
+1916,Parmesan
+1916,Pasta
+1916,Pasta sauce
+1916,Salsa
+1916,Tea
+1916,Tortilla chips
+1917,Bread
+1917,Eggs
+1918,Cereal
+1918,Milk
+1918,Pasta
+1918,Pasta sauce
+1919,Apples
+1919,Bread
+1919,Milk
+1919,Salsa
+1919,Yogurt
+1920,Bananas
+1920,Bread
+1920,Eggs
+1920,Parmesan
+1921,Milk
+1921,Parmesan
+1921,Pasta
+1921,Pasta sauce
+1922,Bread
+1922,Milk
+1923,Bread
+1923,Chocolate
+1923,Yogurt
+1924,Bread
+1924,Eggs
+1924,Tortilla chips
+1925,Bread
+1925,Cereal
+1925,Milk
+1925,Parmesan
+1925,Yogurt
+1926,Sparkling water
+1926,Tea
+1926,Tortilla chips
+1927,Milk
+1927,Sparkling water
+1928,Apples
+1928,Cereal
+1928,Milk
+1928,Pasta sauce
+1928,Tea
+1929,Chocolate
+1929,Milk
+1929,Pasta
+1929,Pasta sauce
+1929,Salsa
+1929,Tortilla chips
+1930,Bread
+1930,Pasta sauce
+1930,Salsa
+1930,Tortilla chips
+1931,Apples
+1931,Parmesan
+1931,Pasta
+1931,Pasta sauce
+1932,Bananas
+1932,Cereal
+1932,Eggs
+1932,Milk
+1932,Pasta
+1933,Bananas
+1933,Bread
+1933,Parmesan
+1933,Pasta
+1933,Pasta sauce
+1933,Sparkling water
+1934,Apples
+1934,Cereal
+1934,Milk
+1934,Sparkling water
+1935,Bananas
+1935,Cereal
+1935,Eggs
+1935,Milk
+1935,Pasta
+1935,Pasta sauce
+1936,Bananas
+1936,Coffee
+1936,Tea
+1937,Bread
+1937,Pasta sauce
+1938,Cereal
+1938,Eggs
+1938,Milk
+1939,Bread
+1939,Eggs
+1939,Pasta sauce
+1939,Sparkling water
+1940,Apples
+1940,Milk
+1940,Salsa
+1940,Tortilla chips
+1940,Yogurt
+1941,Apples
+1941,Eggs
+1941,Milk
+1941,Sparkling water
+1941,Yogurt
+1942,Parmesan
+1942,Pasta
+1942,Pasta sauce
+1942,Tea
+1942,Tortilla chips
+1943,Apples
+1943,Cereal
+1943,Milk
+1943,Sparkling water
+1944,Bananas
+1944,Eggs
+1945,Apples
+1945,Eggs
+1945,Milk
+1946,Bread
+1946,Milk
+1947,Bread
+1947,Cereal
+1947,Eggs
+1947,Milk
+1947,Salsa
+1947,Tortilla chips
+1948,Apples
+1948,Bread
+1948,Milk
+1948,Sparkling water
+1949,Bread
+1949,Milk
+1949,Pasta sauce
+1950,Bananas
+1950,Bread
+1950,Milk
+1950,Parmesan
+1950,Pasta
+1950,Pasta sauce
+1950,Salsa
+1950,Tortilla chips
+1951,Bread
+1951,Chocolate
+1951,Milk
+1952,Apples
+1952,Bananas
+1952,Chocolate
+1952,Coffee
+1952,Pasta
+1952,Salsa
+1952,Tea
+1952,Tortilla chips
+1953,Milk
+1953,Salsa
+1953,Tortilla chips
+1954,Cereal
+1954,Eggs
+1954,Milk
+1954,Yogurt
+1955,Bread
+1955,Chocolate
+1955,Parmesan
+1955,Pasta
+1955,Pasta sauce
+1955,Sparkling water
+1956,Bread
+1956,Coffee
+1957,Bananas
+1957,Cereal
+1957,Eggs
+1957,Milk
+1958,Salsa
+1958,Tortilla chips
+1959,Sparkling water
+1960,Chocolate
+1961,Parmesan
+1961,Pasta
+1961,Pasta sauce
+1961,Sparkling water
+1962,Bananas
+1962,Cereal
+1962,Sparkling water
+1963,Milk
+1963,Salsa
+1963,Tortilla chips
+1964,Apples
+1964,Eggs
+1964,Pasta
+1964,Sparkling water
+1965,Apples
+1965,Cereal
+1965,Milk
+1965,Salsa
+1965,Tortilla chips
+1966,Chocolate
+1966,Pasta
+1966,Pasta sauce
+1966,Salsa
+1966,Tortilla chips
+1967,Chocolate
+1967,Milk
+1968,Bananas
+1968,Bread
+1968,Salsa
+1969,Bananas
+1969,Milk
+1969,Pasta
+1969,Pasta sauce
+1970,Bananas
+1970,Salsa
+1970,Tortilla chips
+1971,Eggs
+1971,Parmesan
+1971,Pasta
+1971,Pasta sauce
+1972,Tortilla chips
+1973,Bananas
+1973,Coffee
+1973,Parmesan
+1974,Bananas
+1974,Chocolate
+1974,Sparkling water
+1975,Bananas
+1975,Bread
+1975,Eggs
+1976,Milk
+1976,Pasta sauce
+1976,Salsa
+1976,Sparkling water
+1976,Tortilla chips
+1976,Yogurt
+1977,Milk
+1978,Apples
+1978,Bananas
+1978,Pasta
+1978,Pasta sauce
+1979,Bread
+1979,Parmesan
+1979,Pasta
+1979,Pasta sauce
+1980,Chocolate
+1980,Eggs
+1980,Milk
+1980,Parmesan
+1980,Pasta
+1980,Pasta sauce
+1980,Salsa
+1981,Bananas
+1981,Milk
+1981,Parmesan
+1981,Tea
+1982,Cereal
+1982,Milk
+1982,Salsa
+1982,Tortilla chips
+1983,Tortilla chips
+1984,Sparkling water
+1985,Bananas
+1985,Bread
+1985,Eggs
+1985,Milk
+1986,Milk
+1986,Pasta
+1986,Pasta sauce
+1987,Bread
+1987,Milk
+1988,Milk
+1988,Pasta sauce
+1988,Yogurt
+1989,Bread
+1989,Parmesan
+1989,Pasta
+1989,Pasta sauce
+1990,Bread
+1990,Pasta
+1990,Pasta sauce
+1990,Sparkling water
+1991,Bananas
+1991,Cereal
+1991,Milk
+1992,Parmesan
+1992,Pasta
+1992,Pasta sauce
+1992,Salsa
+1993,Pasta
+1994,Milk
+1994,Pasta
+1995,Milk
+1995,Parmesan
+1995,Pasta
+1995,Pasta sauce
+1995,Salsa
+1995,Sparkling water
+1995,Tortilla chips
+1996,Coffee
+1996,Pasta
+1996,Pasta sauce
+1996,Tortilla chips
+1997,Bread
+1997,Milk
+1998,Apples
+1998,Milk
+1998,Pasta
+1998,Pasta sauce
+1998,Tortilla chips
+1999,Bread
+1999,Cereal
+1999,Sparkling water
+1999,Yogurt
+2000,Apples
+2000,Bread
+2000,Salsa
+2000,Tortilla chips
+2001,Bananas
+2001,Coffee
+2001,Milk
+2001,Yogurt
+2002,Bread
+2002,Coffee
+2002,Milk
+2002,Salsa
+2002,Tortilla chips
+2003,Pasta
+2003,Tortilla chips
+2004,Apples
+2004,Bread
+2004,Coffee
+2005,Milk
+2006,Tortilla chips
+2006,Yogurt
+2007,Eggs
+2007,Milk
+2008,Bread
+2008,Cereal
+2008,Milk
+2009,Bread
+2009,Cereal
+2009,Eggs
+2009,Milk
+2009,Tortilla chips
+2010,Bananas
+2010,Milk
+2010,Parmesan
+2010,Pasta
+2010,Pasta sauce
+2011,Bananas
+2011,Cereal
+2011,Milk
+2012,Apples
+2012,Cereal
+2012,Salsa
+2013,Cereal
+2013,Eggs
+2013,Milk
+2014,Apples
+2014,Pasta
+2014,Pasta sauce
+2015,Apples
+2015,Coffee
+2015,Milk
+2015,Pasta sauce
+2016,Apples
+2016,Bananas
+2016,Pasta sauce
+2016,Salsa
+2016,Tortilla chips
+2017,Milk
+2017,Sparkling water
+2018,Apples
+2018,Cereal
+2018,Eggs
+2018,Milk
+2018,Salsa
+2018,Tortilla chips
+2019,Bananas
+2019,Milk
+2019,Salsa
+2019,Tortilla chips
+2020,Bread
+2020,Chocolate
+2020,Tortilla chips
+2021,Bread
+2021,Coffee
+2021,Sparkling water
+2021,Tortilla chips
+2021,Yogurt
+2022,Milk
+2022,Tortilla chips
+2022,Yogurt
+2023,Bread
+2023,Coffee
+2023,Milk
+2024,Apples
+2024,Pasta
+2024,Sparkling water
+2025,Bread
+2025,Eggs
+2025,Tea
+2026,Bread
+2026,Pasta
+2026,Pasta sauce
+2026,Tortilla chips
+2027,Bread
+2027,Milk
+2027,Tortilla chips
+2028,Apples
+2028,Bread
+2028,Eggs
+2028,Milk
+2028,Sparkling water
+2029,Bread
+2029,Coffee
+2030,Coffee
+2030,Eggs
+2030,Milk
+2030,Parmesan
+2030,Pasta
+2030,Pasta sauce
+2031,Bananas
+2031,Bread
+2031,Chocolate
+2031,Milk
+2032,Bananas
+2032,Chocolate
+2032,Eggs
+2032,Milk
+2033,Apples
+2033,Bananas
+2033,Milk
+2034,Milk
+2034,Pasta
+2034,Pasta sauce
+2034,Salsa
+2034,Tortilla chips
+2035,Coffee
+2035,Salsa
+2035,Tortilla chips
+2036,Eggs
+2036,Pasta
+2036,Salsa
+2037,Cereal
+2037,Coffee
+2037,Milk
+2037,Sparkling water
+2038,Milk
+2038,Yogurt
+2039,Bananas
+2039,Eggs
+2039,Tea
+2040,Apples
+2040,Bananas
+2040,Eggs
+2041,Bread
+2041,Cereal
+2041,Milk
+2041,Tortilla chips
+2042,Apples
+2042,Milk
+2042,Tortilla chips
+2043,Bread
+2043,Eggs
+2044,Apples
+2044,Cereal
+2045,Coffee
+2046,Bread
+2046,Milk
+2046,Parmesan
+2046,Pasta
+2046,Pasta sauce
+2046,Yogurt
+2047,Apples
+2047,Cereal
+2047,Milk
+2047,Parmesan
+2047,Pasta
+2047,Pasta sauce
+2047,Salsa
+2048,Coffee
+2048,Eggs
+2048,Milk
+2048,Pasta
+2048,Pasta sauce
+2048,Sparkling water
+2049,Chocolate
+2049,Parmesan
+2049,Pasta
+2049,Pasta sauce
+2050,Coffee
+2050,Salsa
+2050,Tortilla chips
+2051,Bananas
+2052,Chocolate
+2052,Eggs
+2052,Milk
+2052,Salsa
+2052,Tortilla chips
+2053,Milk
+2053,Salsa
+2053,Tortilla chips
+2054,Bread
+2054,Milk
+2055,Bread
+2055,Cereal
+2055,Chocolate
+2055,Coffee
+2055,Milk
+2056,Apples
+2056,Cereal
+2057,Bread
+2057,Cereal
+2058,Apples
+2058,Tortilla chips
+2059,Milk
+2059,Sparkling water
+2060,Bread
+2060,Cereal
+2060,Milk
+2060,Pasta
+2060,Pasta sauce
+2060,Tortilla chips
+2061,Bread
+2061,Milk
+2061,Pasta
+2061,Pasta sauce
+2061,Sparkling water
+2062,Chocolate
+2062,Eggs
+2062,Milk
+2062,Yogurt
+2063,Apples
+2063,Cereal
+2063,Eggs
+2063,Milk
+2063,Parmesan
+2063,Pasta
+2063,Pasta sauce
+2064,Apples
+2064,Pasta
+2064,Pasta sauce
+2065,Bread
+2065,Pasta
+2065,Pasta sauce
+2066,Apples
+2066,Parmesan
+2066,Pasta
+2066,Pasta sauce
+2067,Apples
+2067,Bread
+2068,Apples
+2069,Apples
+2069,Bananas
+2069,Cereal
+2069,Milk
+2070,Bread
+2070,Cereal
+2070,Eggs
+2070,Milk
+2070,Tortilla chips
+2071,Cereal
+2071,Coffee
+2072,Apples
+2072,Bread
+2072,Milk
+2073,Eggs
+2074,Bananas
+2074,Milk
+2074,Parmesan
+2074,Salsa
+2074,Tortilla chips
+2075,Cereal
+2075,Milk
+2075,Sparkling water
+2076,Bananas
+2076,Bread
+2076,Cereal
+2077,Bread
+2077,Eggs
+2078,Chocolate
+2078,Milk
+2079,Apples
+2079,Pasta
+2079,Pasta sauce
+2079,Yogurt
+2080,Yogurt
+2081,Bananas
+2081,Cereal
+2081,Parmesan
+2081,Pasta
+2081,Pasta sauce
+2081,Salsa
+2081,Tortilla chips
+2081,Yogurt
+2082,Bread
+2082,Cereal
+2082,Milk
+2083,Bananas
+2083,Eggs
+2083,Milk
+2083,Sparkling water
+2083,Tea
+2083,Yogurt
+2084,Bananas
+2084,Chocolate
+2084,Milk
+2084,Parmesan
+2084,Pasta
+2084,Pasta sauce
+2084,Tea
+2084,Tortilla chips
+2085,Milk
+2085,Pasta
+2086,Milk
+2086,Yogurt
+2087,Eggs
+2087,Parmesan
+2088,Apples
+2088,Bananas
+2088,Cereal
+2088,Milk
+2088,Sparkling water
+2089,Bananas
+2089,Coffee
+2089,Milk
+2089,Parmesan
+2089,Pasta
+2089,Pasta sauce
+2090,Bananas
+2090,Cereal
+2090,Milk
+2090,Parmesan
+2090,Pasta
+2090,Pasta sauce
+2091,Bananas
+2091,Eggs
+2092,Bananas
+2092,Milk
+2092,Yogurt
+2093,Cereal
+2093,Coffee
+2093,Milk
+2093,Pasta sauce
+2093,Salsa
+2093,Tortilla chips
+2094,Bread
+2094,Cereal
+2094,Eggs
+2094,Milk
+2094,Pasta
+2094,Pasta sauce
+2095,Apples
+2095,Eggs
+2095,Sparkling water
+2096,Apples
+2096,Bananas
+2097,Bananas
+2097,Bread
+2097,Cereal
+2097,Eggs
+2097,Salsa
+2097,Tortilla chips
+2098,Apples
+2098,Eggs
+2099,Bread
+2099,Cereal
+2099,Eggs
+2099,Milk
+2099,Pasta sauce
+2100,Apples
+2100,Pasta
+2100,Pasta sauce
+2100,Salsa
+2100,Tea
+2100,Tortilla chips
+2100,Yogurt
+2101,Apples
+2101,Milk
+2102,Apples
+2102,Milk
+2102,Yogurt
+2103,Cereal
+2103,Chocolate
+2103,Milk
+2103,Parmesan
+2103,Pasta
+2103,Pasta sauce
+2103,Tortilla chips
+2104,Bananas
+2104,Tortilla chips
+2104,Yogurt
+2105,Bread
+2105,Milk
+2105,Yogurt
+2106,Cereal
+2106,Coffee
+2106,Sparkling water
+2107,Bread
+2107,Milk
+2107,Yogurt
+2108,Pasta
+2108,Yogurt
+2109,Chocolate
+2109,Milk
+2110,Chocolate
+2110,Eggs
+2111,Bread
+2112,Apples
+2112,Eggs
+2113,Apples
+2113,Bananas
+2113,Cereal
+2113,Milk
+2114,Cereal
+2114,Eggs
+2114,Milk
+2114,Salsa
+2114,Tea
+2114,Tortilla chips
+2114,Yogurt
+2115,Milk
+2115,Parmesan
+2115,Pasta
+2115,Pasta sauce
+2116,Bananas
+2116,Cereal
+2116,Milk
+2116,Salsa
+2116,Tortilla chips
+2117,Bread
+2117,Milk
+2118,Apples
+2118,Bananas
+2118,Bread
+2118,Cereal
+2118,Chocolate
+2118,Milk
+2118,Parmesan
+2118,Pasta
+2118,Pasta sauce
+2118,Salsa
+2118,Tortilla chips
+2119,Bread
+2119,Cereal
+2119,Milk
+2119,Parmesan
+2120,Cereal
+2120,Milk
+2120,Parmesan
+2120,Pasta
+2120,Pasta sauce
+2120,Yogurt
+2121,Parmesan
+2121,Pasta
+2121,Pasta sauce
+2121,Tea
+2122,Sparkling water
+2122,Tortilla chips
+2123,Bananas
+2123,Cereal
+2123,Eggs
+2123,Tortilla chips
+2124,Parmesan
+2124,Pasta
+2124,Pasta sauce
+2124,Sparkling water
+2125,Milk
+2126,Bread
+2126,Milk
+2126,Parmesan
+2126,Pasta
+2126,Pasta sauce
+2127,Apples
+2127,Chocolate
+2127,Pasta
+2127,Pasta sauce
+2127,Yogurt
+2128,Chocolate
+2128,Eggs
+2128,Milk
+2128,Parmesan
+2128,Pasta
+2128,Pasta sauce
+2129,Cereal
+2129,Parmesan
+2129,Pasta
+2129,Pasta sauce
+2129,Tea
+2130,Milk
+2130,Parmesan
+2131,Pasta
+2131,Pasta sauce
+2131,Salsa
+2131,Tea
+2132,Bananas
+2132,Eggs
+2132,Sparkling water
+2132,Tea
+2133,Milk
+2134,Apples
+2134,Milk
+2134,Pasta sauce
+2135,Eggs
+2136,Bananas
+2136,Coffee
+2136,Eggs
+2137,Bread
+2137,Tea
+2138,Milk
+2138,Sparkling water
+2139,Pasta
+2139,Tortilla chips
+2140,Bread
+2140,Tortilla chips
+2141,Bread
+2141,Eggs
+2142,Bread
+2142,Cereal
+2142,Eggs
+2142,Milk
+2142,Pasta sauce
+2143,Bread
+2143,Milk
+2143,Sparkling water
+2143,Tea
+2143,Tortilla chips
+2144,Bananas
+2144,Bread
+2145,Chocolate
+2145,Milk
+2145,Salsa
+2145,Tortilla chips
+2146,Milk
+2147,Bananas
+2147,Coffee
+2148,Bread
+2148,Eggs
+2148,Milk
+2149,Coffee
+2149,Sparkling water
+2150,Eggs
+2150,Sparkling water
+2151,Bananas
+2151,Milk
+2152,Apples
+2152,Bananas
+2152,Cereal
+2152,Milk
+2152,Tea
+2153,Apples
+2153,Bread
+2154,Bread
+2154,Eggs
+2154,Milk
+2154,Parmesan
+2154,Pasta
+2154,Pasta sauce
+2154,Sparkling water
+2155,Bread
+2155,Cereal
+2155,Chocolate
+2155,Eggs
+2155,Milk
+2155,Pasta
+2155,Pasta sauce
+2156,Bread
+2156,Coffee
+2156,Milk
+2157,Bananas
+2157,Bread
+2157,Cereal
+2157,Milk
+2157,Pasta
+2157,Pasta sauce
+2157,Tea
+2158,Apples
+2158,Cereal
+2158,Milk
+2158,Pasta
+2159,Milk
+2159,Tortilla chips
+2159,Yogurt
+2160,Bananas
+2160,Eggs
+2160,Milk
+2160,Salsa
+2160,Tortilla chips
+2160,Yogurt
+2161,Apples
+2162,Bananas
+2162,Milk
+2162,Salsa
+2162,Tortilla chips
+2163,Bread
+2163,Milk
+2163,Pasta
+2163,Tortilla chips
+2164,Cereal
+2164,Milk
+2164,Tortilla chips
+2165,Bananas
+2165,Milk
+2166,Chocolate
+2166,Milk
+2166,Yogurt
+2167,Eggs
+2167,Pasta
+2167,Pasta sauce
+2167,Salsa
+2167,Tortilla chips
+2168,Coffee
+2168,Sparkling water
+2168,Tortilla chips
+2169,Sparkling water
+2169,Tortilla chips
+2169,Yogurt
+2170,Pasta
+2170,Pasta sauce
+2170,Sparkling water
+2170,Tea
+2170,Tortilla chips
+2171,Eggs
+2172,Milk
+2172,Parmesan
+2172,Yogurt
+2173,Cereal
+2173,Eggs
+2173,Milk
+2173,Salsa
+2173,Sparkling water
+2173,Tortilla chips
+2174,Apples
+2174,Bread
+2174,Eggs
+2175,Chocolate
+2175,Eggs
+2175,Sparkling water
+2176,Apples
+2176,Bread
+2176,Cereal
+2176,Milk
+2176,Salsa
+2176,Tortilla chips
+2177,Apples
+2177,Bread
+2178,Cereal
+2178,Parmesan
+2178,Sparkling water
+2179,Bananas
+2179,Bread
+2179,Pasta
+2179,Pasta sauce
+2179,Yogurt
+2180,Milk
+2180,Pasta
+2180,Pasta sauce
+2180,Salsa
+2180,Tea
+2180,Tortilla chips
+2181,Cereal
+2181,Milk
+2181,Parmesan
+2181,Pasta
+2181,Pasta sauce
+2181,Salsa
+2181,Sparkling water
+2182,Milk
+2182,Pasta
+2182,Pasta sauce
+2182,Tea
+2182,Yogurt
+2183,Apples
+2183,Bananas
+2183,Eggs
+2183,Parmesan
+2183,Pasta
+2183,Pasta sauce
+2184,Milk
+2184,Tea
+2185,Coffee
+2185,Sparkling water
+2185,Yogurt
+2186,Bread
+2186,Cereal
+2186,Yogurt
+2187,Apples
+2188,Bananas
+2188,Cereal
+2188,Eggs
+2188,Milk
+2189,Bananas
+2189,Eggs
+2189,Salsa
+2189,Tea
+2189,Yogurt
+2190,Bananas
+2190,Parmesan
+2190,Salsa
+2190,Tortilla chips
+2190,Yogurt
+2191,Apples
+2191,Milk
+2191,Salsa
+2191,Tortilla chips
+2192,Apples
+2192,Bananas
+2192,Bread
+2193,Bananas
+2193,Eggs
+2193,Milk
+2194,Bananas
+2194,Bread
+2194,Chocolate
+2194,Milk
+2195,Chocolate
+2195,Milk
+2195,Parmesan
+2195,Pasta
+2195,Pasta sauce
+2195,Sparkling water
+2196,Bread
+2196,Milk
+2197,Bananas
+2197,Bread
+2197,Tortilla chips
+2198,Bread
+2198,Milk
+2198,Tea
+2199,Apples
+2199,Bread
+2199,Cereal
+2199,Pasta sauce
+2199,Yogurt
+2200,Bread
+2200,Chocolate
+2200,Milk
+2201,Bananas
+2201,Chocolate
+2201,Yogurt
+2202,Bananas
+2202,Cereal
+2202,Chocolate
+2202,Milk
+2202,Pasta sauce
+2203,Cereal
+2203,Eggs
+2203,Milk
+2203,Pasta
+2203,Pasta sauce
+2204,Bread
+2204,Sparkling water
+2205,Bread
+2205,Coffee
+2206,Bread
+2206,Eggs
+2206,Pasta sauce
+2207,Apples
+2207,Cereal
+2207,Milk
+2207,Salsa
+2207,Tortilla chips
+2208,Bananas
+2208,Cereal
+2208,Chocolate
+2208,Milk
+2209,Bananas
+2209,Bread
+2209,Sparkling water
+2210,Bread
+2210,Chocolate
+2210,Coffee
+2210,Milk
+2211,Apples
+2211,Coffee
+2211,Eggs
+2211,Milk
+2212,Bread
+2212,Coffee
+2212,Eggs
+2212,Sparkling water
+2212,Tortilla chips
+2212,Yogurt
+2213,Bread
+2213,Chocolate
+2214,Eggs
+2214,Milk
+2214,Pasta
+2214,Tea
+2214,Tortilla chips
+2214,Yogurt
+2215,Bread
+2215,Chocolate
+2215,Parmesan
+2215,Pasta
+2215,Pasta sauce
+2215,Salsa
+2216,Chocolate
+2216,Coffee
+2216,Tea
+2217,Apples
+2218,Bananas
+2218,Bread
+2218,Milk
+2219,Cereal
+2219,Chocolate
+2219,Eggs
+2219,Sparkling water
+2220,Bread
+2220,Coffee
+2221,Eggs
+2221,Tea
+2222,Milk
+2222,Pasta
+2222,Salsa
+2222,Tortilla chips
+2223,Chocolate
+2223,Milk
+2223,Parmesan
+2223,Pasta
+2223,Pasta sauce
+2224,Milk
+2224,Pasta
+2225,Parmesan
+2225,Pasta
+2225,Pasta sauce
+2225,Yogurt
+2226,Coffee
+2226,Parmesan
+2226,Pasta
+2226,Pasta sauce
+2226,Yogurt
+2227,Bread
+2227,Milk
+2227,Pasta sauce
+2227,Tea
+2228,Bananas
+2228,Milk
+2229,Bananas
+2229,Cereal
+2229,Chocolate
+2229,Coffee
+2229,Pasta
+2229,Tea
+2229,Yogurt
+2230,Bananas
+2230,Bread
+2230,Sparkling water
+2230,Yogurt
+2231,Cereal
+2231,Milk
+2231,Salsa
+2231,Tortilla chips
+2232,Bread
+2232,Cereal
+2232,Milk
+2232,Tea
+2233,Eggs
+2233,Parmesan
+2233,Pasta
+2233,Pasta sauce
+2234,Cereal
+2234,Chocolate
+2234,Milk
+2234,Pasta
+2234,Pasta sauce
+2235,Bread
+2235,Chocolate
+2236,Chocolate
+2236,Eggs
+2236,Milk
+2236,Salsa
+2237,Bananas
+2237,Coffee
+2238,Bread
+2238,Pasta
+2239,Bananas
+2239,Chocolate
+2239,Milk
+2239,Parmesan
+2239,Salsa
+2239,Tortilla chips
+2240,Pasta sauce
+2240,Tortilla chips
+2241,Cereal
+2241,Milk
+2241,Salsa
+2241,Sparkling water
+2241,Tortilla chips
+2241,Yogurt
+2242,Apples
+2242,Bread
+2242,Milk
+2242,Tortilla chips
+2243,Cereal
+2243,Milk
+2243,Sparkling water
+2244,Chocolate
+2244,Pasta
+2244,Sparkling water
+2244,Yogurt
+2245,Chocolate
+2245,Eggs
+2245,Pasta
+2245,Pasta sauce
+2246,Bananas
+2246,Bread
+2246,Coffee
+2246,Milk
+2247,Bread
+2247,Yogurt
+2248,Eggs
+2248,Parmesan
+2248,Pasta
+2248,Pasta sauce
+2249,Bananas
+2249,Cereal
+2249,Eggs
+2249,Milk
+2249,Pasta
+2249,Tortilla chips
+2250,Milk
+2250,Parmesan
+2250,Pasta
+2250,Pasta sauce
+2250,Salsa
+2250,Tortilla chips
+2251,Bananas
+2251,Milk
+2251,Pasta sauce
+2252,Bananas
+2252,Bread
+2252,Cereal
+2252,Milk
+2253,Bananas
+2253,Eggs
+2253,Milk
+2253,Pasta
+2253,Pasta sauce
+2253,Sparkling water
+2254,Tortilla chips
+2255,Bread
+2255,Sparkling water
+2256,Bread
+2256,Parmesan
+2256,Pasta
+2256,Pasta sauce
+2256,Sparkling water
+2257,Bread
+2258,Sparkling water
+2258,Tortilla chips
+2259,Cereal
+2259,Milk
+2259,Pasta
+2259,Pasta sauce
+2260,Bread
+2260,Eggs
+2260,Milk
+2261,Apples
+2261,Salsa
+2261,Tortilla chips
+2262,Apples
+2262,Coffee
+2262,Pasta
+2262,Salsa
+2262,Sparkling water
+2262,Tortilla chips
+2263,Milk
+2263,Sparkling water
+2264,Pasta
+2265,Bananas
+2265,Chocolate
+2265,Eggs
+2265,Salsa
+2265,Tortilla chips
+2266,Apples
+2266,Bread
+2266,Cereal
+2266,Eggs
+2266,Milk
+2266,Salsa
+2266,Tortilla chips
+2267,Apples
+2267,Bananas
+2267,Bread
+2267,Tortilla chips
+2268,Apples
+2268,Eggs
+2268,Milk
+2268,Pasta sauce
+2268,Tortilla chips
+2269,Cereal
+2269,Eggs
+2269,Milk
+2269,Sparkling water
+2270,Bread
+2270,Milk
+2271,Apples
+2271,Bread
+2271,Parmesan
+2271,Pasta
+2271,Pasta sauce
+2271,Salsa
+2271,Tortilla chips
+2272,Milk
+2272,Pasta
+2272,Pasta sauce
+2272,Salsa
+2273,Apples
+2273,Milk
+2273,Pasta
+2273,Pasta sauce
+2273,Tea
+2274,Bananas
+2274,Bread
+2274,Cereal
+2274,Coffee
+2274,Milk
+2275,Apples
+2275,Cereal
+2275,Salsa
+2276,Eggs
+2276,Salsa
+2276,Tortilla chips
+2277,Bananas
+2277,Cereal
+2277,Eggs
+2277,Tea
+2278,Bananas
+2278,Bread
+2278,Eggs
+2278,Parmesan
+2278,Yogurt
+2279,Bread
+2279,Eggs
+2279,Pasta
+2279,Pasta sauce
+2280,Apples
+2280,Cereal
+2280,Milk
+2281,Bananas
+2281,Pasta
+2281,Pasta sauce
+2282,Apples
+2282,Bread
+2282,Milk
+2282,Pasta sauce
+2282,Sparkling water
+2283,Apples
+2283,Chocolate
+2283,Coffee
+2283,Milk
+2283,Parmesan
+2283,Pasta
+2283,Pasta sauce
+2284,Bananas
+2284,Milk
+2285,Apples
+2285,Bananas
+2285,Bread
+2286,Coffee
+2286,Yogurt
+2287,Milk
+2287,Tortilla chips
+2288,Chocolate
+2288,Salsa
+2288,Tea
+2288,Tortilla chips
+2289,Apples
+2289,Bananas
+2289,Bread
+2289,Parmesan
+2290,Cereal
+2290,Chocolate
+2290,Milk
+2291,Salsa
+2291,Sparkling water
+2291,Tortilla chips
+2292,Bananas
+2292,Eggs
+2292,Sparkling water
+2293,Bananas
+2294,Bread
+2294,Cereal
+2294,Pasta
+2294,Pasta sauce
+2295,Cereal
+2295,Chocolate
+2295,Pasta
+2295,Pasta sauce
+2295,Yogurt
+2296,Eggs
+2296,Milk
+2297,Eggs
+2297,Tortilla chips
+2298,Apples
+2298,Eggs
+2299,Milk
+2299,Tea
+2300,Milk
+2300,Pasta
+2300,Pasta sauce
+2300,Sparkling water
+2300,Tortilla chips
+2301,Coffee
+2302,Coffee
+2302,Parmesan
+2302,Pasta
+2302,Pasta sauce
+2302,Sparkling water
+2302,Yogurt
+2303,Tortilla chips
+2304,Bread
+2304,Coffee
+2304,Milk
+2304,Salsa
+2304,Sparkling water
+2304,Tortilla chips
+2305,Bananas
+2306,Bread
+2306,Milk
+2306,Pasta sauce
+2307,Pasta
+2308,Eggs
+2308,Salsa
+2308,Tortilla chips
+2309,Apples
+2309,Bananas
+2309,Bread
+2309,Milk
+2309,Yogurt
+2310,Milk
+2310,Tea
+2311,Bananas
+2311,Cereal
+2311,Milk
+2312,Bread
+2312,Sparkling water
+2313,Cereal
+2313,Milk
+2313,Parmesan
+2313,Pasta
+2313,Pasta sauce
+2313,Yogurt
+2314,Bread
+2314,Coffee
+2314,Eggs
+2315,Bread
+2315,Cereal
+2315,Chocolate
+2315,Eggs
+2315,Milk
+2315,Tea
+2316,Bananas
+2316,Bread
+2316,Milk
+2316,Sparkling water
+2316,Yogurt
+2317,Cereal
+2317,Tortilla chips
+2318,Bananas
+2318,Bread
+2318,Cereal
+2318,Milk
+2319,Bananas
+2320,Eggs
+2320,Salsa
+2320,Tortilla chips
+2321,Bananas
+2321,Chocolate
+2321,Eggs
+2321,Milk
+2321,Salsa
+2321,Tortilla chips
+2322,Bread
+2323,Salsa
+2323,Sparkling water
+2323,Tortilla chips
+2324,Pasta
+2325,Cereal
+2325,Milk
+2325,Tortilla chips
+2326,Bread
+2326,Coffee
+2326,Eggs
+2326,Milk
+2326,Pasta
+2326,Pasta sauce
+2326,Sparkling water
+2326,Tea
+2327,Cereal
+2327,Milk
+2327,Yogurt
+2328,Bread
+2328,Cereal
+2328,Eggs
+2328,Sparkling water
+2329,Eggs
+2329,Yogurt
+2330,Apples
+2330,Bananas
+2330,Coffee
+2330,Milk
+2330,Yogurt
+2331,Parmesan
+2331,Salsa
+2331,Tortilla chips
+2332,Eggs
+2333,Apples
+2333,Milk
+2333,Pasta
+2333,Pasta sauce
+2333,Salsa
+2333,Sparkling water
+2333,Tea
+2333,Tortilla chips
+2334,Parmesan
+2334,Pasta
+2334,Pasta sauce
+2334,Salsa
+2335,Sparkling water
+2336,Apples
+2336,Bananas
+2336,Milk
+2336,Tea
+2337,Apples
+2337,Bread
+2337,Milk
+2337,Tortilla chips
+2338,Bananas
+2338,Bread
+2338,Eggs
+2339,Apples
+2339,Bananas
+2339,Cereal
+2339,Milk
+2339,Parmesan
+2339,Pasta
+2339,Pasta sauce
+2339,Salsa
+2339,Tortilla chips
+2340,Bread
+2341,Coffee
+2342,Bread
+2342,Cereal
+2342,Milk
+2342,Parmesan
+2343,Milk
+2343,Salsa
+2344,Pasta sauce
+2344,Tea
+2345,Apples
+2345,Bananas
+2345,Bread
+2345,Cereal
+2345,Eggs
+2346,Tortilla chips
+2346,Yogurt
+2347,Sparkling water
+2347,Tortilla chips
+2348,Apples
+2348,Bananas
+2348,Pasta sauce
+2348,Salsa
+2348,Tortilla chips
+2349,Bread
+2350,Bread
+2350,Cereal
+2350,Eggs
+2350,Milk
+2351,Bananas
+2351,Bread
+2351,Cereal
+2351,Milk
+2351,Parmesan
+2351,Pasta
+2351,Pasta sauce
+2351,Yogurt
+2352,Chocolate
+2352,Milk
+2353,Apples
+2353,Coffee
+2354,Bread
+2354,Cereal
+2354,Milk
+2354,Salsa
+2355,Bananas
+2355,Eggs
+2355,Salsa
+2355,Tortilla chips
+2356,Cereal
+2356,Chocolate
+2356,Eggs
+2356,Milk
+2356,Parmesan
+2357,Bananas
+2357,Bread
+2357,Chocolate
+2357,Eggs
+2357,Milk
+2357,Yogurt
+2358,Bread
+2358,Eggs
+2358,Milk
+2358,Pasta
+2359,Apples
+2360,Bananas
+2360,Bread
+2360,Milk
+2361,Bread
+2361,Eggs
+2361,Tea
+2362,Bread
+2362,Coffee
+2362,Tortilla chips
+2362,Yogurt
+2363,Bananas
+2363,Chocolate
+2363,Pasta
+2363,Pasta sauce
+2364,Bananas
+2364,Eggs
+2365,Apples
+2365,Bread
+2365,Pasta
+2366,Bananas
+2366,Milk
+2366,Salsa
+2366,Tortilla chips
+2367,Bread
+2367,Cereal
+2367,Eggs
+2367,Milk
+2367,Salsa
+2367,Tortilla chips
+2367,Yogurt
+2368,Bread
+2368,Milk
+2369,Apples
+2369,Coffee
+2370,Cereal
+2370,Eggs
+2370,Milk
+2370,Yogurt
+2371,Apples
+2371,Bread
+2371,Sparkling water
+2372,Bread
+2372,Milk
+2372,Tea
+2373,Bread
+2373,Milk
+2373,Salsa
+2373,Tortilla chips
+2374,Coffee
+2374,Pasta sauce
+2374,Tortilla chips
+2374,Yogurt
+2375,Apples
+2375,Milk
+2376,Apples
+2376,Bread
+2376,Tea
+2377,Bread
+2377,Cereal
+2377,Coffee
+2377,Milk
+2377,Sparkling water
+2377,Tea
+2377,Tortilla chips
+2378,Apples
+2378,Parmesan
+2378,Pasta
+2378,Pasta sauce
+2378,Salsa
+2378,Sparkling water
+2378,Tortilla chips
+2379,Bread
+2379,Chocolate
+2379,Pasta
+2379,Salsa
+2379,Tortilla chips
+2380,Bananas
+2381,Bananas
+2381,Salsa
+2381,Tortilla chips
+2382,Sparkling water
+2383,Cereal
+2384,Bananas
+2384,Chocolate
+2384,Coffee
+2384,Eggs
+2385,Milk
+2386,Bread
+2386,Cereal
+2386,Milk
+2386,Sparkling water
+2387,Bread
+2387,Cereal
+2387,Eggs
+2387,Milk
+2387,Pasta
+2387,Pasta sauce
+2388,Bread
+2388,Chocolate
+2389,Bananas
+2389,Milk
+2389,Tea
+2390,Bread
+2390,Cereal
+2390,Milk
+2391,Apples
+2391,Chocolate
+2391,Parmesan
+2391,Pasta
+2391,Pasta sauce
+2391,Tortilla chips
+2392,Bananas
+2392,Chocolate
+2392,Parmesan
+2392,Pasta
+2392,Pasta sauce
+2392,Salsa
+2392,Yogurt
+2393,Cereal
+2393,Milk
+2393,Tea
+2394,Milk
+2394,Salsa
+2394,Tea
+2394,Tortilla chips
+2395,Bananas
+2395,Chocolate
+2395,Coffee
+2396,Milk
+2396,Salsa
+2396,Tortilla chips
+2397,Apples
+2397,Bananas
+2397,Parmesan
+2397,Pasta
+2397,Pasta sauce
+2397,Sparkling water
+2398,Bananas
+2399,Bananas
+2399,Eggs
+2399,Milk
+2400,Milk
+2400,Pasta
+2401,Eggs
+2401,Parmesan
+2401,Pasta
+2401,Pasta sauce
+2402,Bananas
+2402,Cereal
+2402,Pasta
+2402,Pasta sauce
+2402,Salsa
+2402,Sparkling water
+2402,Tortilla chips
+2403,Apples
+2403,Bananas
+2403,Yogurt
+2404,Bread
+2404,Pasta
+2405,Apples
+2405,Bananas
+2405,Cereal
+2406,Apples
+2406,Chocolate
+2406,Sparkling water
+2407,Cereal
+2407,Pasta sauce
+2407,Salsa
+2407,Yogurt
+2408,Apples
+2408,Milk
+2409,Tea
+2410,Bananas
+2410,Bread
+2410,Coffee
+2410,Milk
+2410,Pasta sauce
+2411,Eggs
+2411,Pasta
+2411,Salsa
+2411,Tortilla chips
+2412,Bread
+2412,Coffee
+2412,Tortilla chips
+2413,Milk
+2414,Bananas
+2414,Bread
+2415,Apples
+2415,Eggs
+2416,Chocolate
+2416,Eggs
+2417,Bread
+2417,Chocolate
+2418,Apples
+2418,Chocolate
+2418,Parmesan
+2418,Pasta
+2418,Pasta sauce
+2419,Milk
+2420,Apples
+2420,Bread
+2421,Eggs
+2421,Milk
+2422,Chocolate
+2422,Salsa
+2423,Sparkling water
+2423,Yogurt
+2424,Bread
+2424,Milk
+2424,Salsa
+2424,Tortilla chips
+2425,Apples
+2425,Bananas
+2425,Bread
+2426,Apples
+2426,Chocolate
+2427,Bananas
+2427,Bread
+2427,Milk
+2427,Salsa
+2427,Sparkling water
+2427,Tortilla chips
+2428,Cereal
+2428,Coffee
+2428,Pasta
+2428,Pasta sauce
+2429,Apples
+2429,Bread
+2429,Sparkling water
+2430,Cereal
+2430,Milk
+2431,Apples
+2431,Eggs
+2431,Sparkling water
+2431,Yogurt
+2432,Milk
+2433,Chocolate
+2433,Parmesan
+2433,Pasta
+2433,Pasta sauce
+2434,Eggs
+2434,Tea
+2435,Cereal
+2436,Bananas
+2436,Bread
+2436,Parmesan
+2436,Pasta
+2436,Pasta sauce
+2437,Salsa
+2437,Tortilla chips
+2437,Yogurt
+2438,Bananas
+2438,Coffee
+2438,Parmesan
+2438,Pasta
+2438,Pasta sauce
+2438,Salsa
+2438,Tea
+2438,Tortilla chips
+2439,Bread
+2440,Tea
+2441,Bananas
+2441,Cereal
+2441,Milk
+2441,Sparkling water
+2442,Apples
+2442,Coffee
+2442,Eggs
+2442,Milk
+2442,Tortilla chips
+2443,Apples
+2443,Bananas
+2443,Eggs
+2443,Tea
+2444,Bread
+2444,Cereal
+2444,Milk
+2444,Yogurt
+2445,Salsa
+2445,Tortilla chips
+2445,Yogurt
+2446,Bread
+2446,Milk
+2446,Pasta
+2446,Pasta sauce
+2447,Chocolate
+2447,Salsa
+2447,Tortilla chips
+2448,Apples
+2448,Bread
+2448,Cereal
+2448,Coffee
+2448,Milk
+2448,Tea
+2449,Bread
+2449,Eggs
+2449,Milk
+2450,Cereal
+2450,Milk
+2450,Tea
+2451,Chocolate
+2452,Bananas
+2452,Bread
+2452,Eggs
+2452,Parmesan
+2453,Eggs
+2454,Apples
+2454,Parmesan
+2454,Pasta
+2454,Pasta sauce
+2454,Sparkling water
+2455,Apples
+2455,Bananas
+2455,Bread
+2455,Cereal
+2455,Pasta
+2455,Pasta sauce
+2455,Yogurt
+2456,Bananas
+2456,Cereal
+2457,Bananas
+2457,Bread
+2457,Pasta
+2457,Pasta sauce
+2457,Tea
+2458,Eggs
+2458,Yogurt
+2459,Chocolate
+2459,Parmesan
+2459,Pasta
+2459,Pasta sauce
+2459,Sparkling water
+2460,Bananas
+2460,Bread
+2460,Pasta sauce
+2461,Bananas
+2461,Bread
+2461,Milk
+2461,Tortilla chips
+2462,Cereal
+2462,Sparkling water
+2463,Bread
+2463,Milk
+2464,Cereal
+2464,Milk
+2465,Cereal
+2465,Coffee
+2465,Milk
+2466,Bread
+2466,Salsa
+2466,Tortilla chips
+2467,Apples
+2468,Chocolate
+2468,Sparkling water
+2468,Yogurt
+2469,Bananas
+2469,Sparkling water
+2470,Bananas
+2470,Salsa
+2470,Tortilla chips
+2471,Chocolate
+2471,Salsa
+2471,Tea
+2471,Tortilla chips
+2472,Bread
+2472,Yogurt
+2473,Bread
+2473,Milk
+2473,Pasta
+2473,Pasta sauce
+2474,Chocolate
+2475,Coffee
+2475,Milk
+2476,Milk
+2477,Bananas
+2477,Bread
+2477,Cereal
+2477,Chocolate
+2477,Milk
+2477,Tea
+2478,Bread
+2478,Pasta
+2479,Pasta
+2479,Yogurt
+2480,Cereal
+2480,Eggs
+2481,Apples
+2481,Bread
+2481,Chocolate
+2481,Parmesan
+2481,Pasta
+2481,Pasta sauce
+2481,Yogurt
+2482,Sparkling water
+2482,Tortilla chips
+2482,Yogurt
+2483,Bananas
+2483,Eggs
+2484,Apples
+2484,Eggs
+2484,Milk
+2485,Tortilla chips
+2486,Coffee
+2486,Salsa
+2486,Tortilla chips
+2486,Yogurt
+2487,Bananas
+2487,Cereal
+2487,Chocolate
+2487,Eggs
+2487,Milk
+2487,Pasta
+2488,Eggs
+2488,Milk
+2489,Apples
+2489,Bananas
+2489,Bread
+2489,Milk
+2489,Pasta
+2489,Tea
+2490,Cereal
+2490,Milk
+2491,Eggs
+2491,Sparkling water
+2491,Tortilla chips
+2492,Bananas
+2492,Cereal
+2492,Yogurt
+2493,Chocolate
+2493,Pasta
+2493,Pasta sauce
+2494,Bread
+2494,Cereal
+2495,Apples
+2495,Milk
+2495,Tea
+2496,Bread
+2496,Cereal
+2496,Milk
+2496,Yogurt
+2497,Bananas
+2497,Pasta
+2497,Pasta sauce
+2497,Tea
+2498,Cereal
+2498,Milk
+2498,Tortilla chips
+2499,Bananas
+2499,Milk
+2499,Pasta
+2499,Sparkling water
+2499,Tea
+2500,Apples
+2500,Bananas
+2500,Cereal
+2500,Milk
+2500,Pasta
+2500,Pasta sauce
+2500,Salsa
+2500,Tortilla chips
+2501,Bread
+2501,Coffee
+2501,Eggs
+2501,Milk
+2502,Coffee
+2502,Milk
+2502,Pasta
+2502,Salsa
+2503,Bread
+2503,Coffee
+2503,Milk
+2504,Bread
+2504,Milk
+2504,Pasta
+2504,Pasta sauce
+2505,Milk
+2506,Bananas
+2506,Milk
+2506,Salsa
+2506,Tortilla chips
+2506,Yogurt
+2507,Bread
+2507,Cereal
+2507,Coffee
+2507,Eggs
+2507,Milk
+2507,Tortilla chips
+2508,Bananas
+2508,Cereal
+2508,Coffee
+2508,Milk
+2509,Bananas
+2510,Apples
+2510,Bananas
+2511,Eggs
+2511,Salsa
+2511,Tortilla chips
+2512,Milk
+2513,Bananas
+2513,Milk
+2514,Bananas
+2514,Bread
+2514,Cereal
+2514,Eggs
+2514,Milk
+2514,Pasta sauce
+2514,Salsa
+2514,Tortilla chips
+2514,Yogurt
+2515,Bananas
+2515,Chocolate
+2515,Parmesan
+2515,Pasta
+2515,Pasta sauce
+2515,Salsa
+2515,Sparkling water
+2515,Tortilla chips
+2516,Eggs
+2516,Pasta sauce
+2517,Tea
+2518,Bananas
+2518,Coffee
+2518,Parmesan
+2518,Pasta
+2518,Pasta sauce
+2518,Salsa
+2518,Sparkling water
+2518,Tortilla chips
+2519,Bananas
+2519,Bread
+2519,Sparkling water
+2520,Apples
+2520,Bread
+2520,Cereal
+2520,Milk
+2520,Pasta
+2520,Sparkling water
+2520,Tortilla chips
+2520,Yogurt
+2521,Coffee
+2521,Eggs
+2521,Milk
+2522,Bread
+2522,Eggs
+2522,Pasta
+2522,Pasta sauce
+2522,Yogurt
+2523,Cereal
+2523,Salsa
+2523,Tortilla chips
+2524,Eggs
+2524,Pasta sauce
+2524,Salsa
+2524,Tortilla chips
+2524,Yogurt
+2525,Apples
+2525,Bread
+2525,Yogurt
+2526,Parmesan
+2526,Pasta
+2526,Pasta sauce
+2526,Tortilla chips
+2527,Milk
+2527,Pasta
+2527,Pasta sauce
+2527,Salsa
+2527,Tortilla chips
+2528,Bananas
+2528,Cereal
+2528,Coffee
+2528,Eggs
+2528,Milk
+2528,Parmesan
+2528,Tea
+2529,Bread
+2529,Yogurt
+2530,Milk
+2530,Pasta
+2530,Pasta sauce
+2531,Parmesan
+2531,Pasta
+2531,Pasta sauce
+2531,Sparkling water
+2531,Yogurt
+2532,Apples
+2532,Pasta
+2532,Pasta sauce
+2532,Tea
+2532,Yogurt
+2533,Cereal
+2533,Chocolate
+2533,Milk
+2533,Tortilla chips
+2534,Sparkling water
+2534,Yogurt
+2535,Apples
+2536,Bread
+2536,Eggs
+2536,Milk
+2536,Parmesan
+2536,Yogurt
+2537,Apples
+2537,Bananas
+2537,Coffee
+2537,Milk
+2537,Pasta
+2537,Yogurt
+2538,Bread
+2538,Eggs
+2539,Apples
+2539,Bananas
+2539,Milk
+2539,Tortilla chips
+2539,Yogurt
+2540,Bananas
+2540,Coffee
+2540,Milk
+2540,Salsa
+2540,Tortilla chips
+2540,Yogurt
+2541,Cereal
+2541,Salsa
+2541,Sparkling water
+2541,Tortilla chips
+2542,Eggs
+2542,Milk
+2542,Pasta
+2542,Pasta sauce
+2543,Bread
+2543,Cereal
+2543,Eggs
+2543,Milk
+2544,Chocolate
+2544,Milk
+2545,Bread
+2545,Eggs
+2545,Sparkling water
+2546,Chocolate
+2546,Eggs
+2546,Sparkling water
+2546,Tortilla chips
+2547,Bananas
+2547,Milk
+2547,Yogurt
+2548,Apples
+2548,Cereal
+2548,Milk
+2549,Pasta
+2549,Salsa
+2549,Tea
+2549,Tortilla chips
+2549,Yogurt
+2550,Bananas
+2551,Cereal
+2551,Chocolate
+2551,Milk
+2551,Parmesan
+2551,Pasta
+2551,Pasta sauce
+2552,Milk
+2552,Pasta
+2552,Pasta sauce
+2552,Tortilla chips
+2553,Bananas
+2553,Cereal
+2553,Milk
+2554,Apples
+2554,Eggs
+2554,Milk
+2554,Salsa
+2554,Tortilla chips
+2555,Pasta sauce
+2555,Salsa
+2555,Tortilla chips
+2556,Bananas
+2556,Bread
+2556,Tea
+2557,Bananas
+2557,Coffee
+2557,Milk
+2557,Parmesan
+2557,Pasta
+2557,Pasta sauce
+2557,Salsa
+2557,Sparkling water
+2558,Bananas
+2558,Cereal
+2558,Parmesan
+2558,Pasta
+2558,Pasta sauce
+2558,Salsa
+2558,Tortilla chips
+2559,Milk
+2559,Sparkling water
+2559,Tortilla chips
+2560,Eggs
+2560,Milk
+2560,Pasta
+2560,Sparkling water
+2561,Chocolate
+2562,Apples
+2562,Bread
+2562,Milk
+2562,Tea
+2562,Yogurt
+2563,Coffee
+2563,Eggs
+2563,Parmesan
+2563,Pasta
+2563,Pasta sauce
+2564,Bread
+2564,Pasta
+2565,Bread
+2565,Eggs
+2566,Bananas
+2566,Milk
+2567,Cereal
+2567,Milk
+2567,Parmesan
+2567,Pasta
+2567,Pasta sauce
+2567,Sparkling water
+2567,Yogurt
+2568,Bread
+2568,Eggs
+2568,Parmesan
+2568,Pasta
+2568,Pasta sauce
+2568,Yogurt
+2569,Apples
+2569,Bananas
+2569,Milk
+2570,Bananas
+2570,Chocolate
+2570,Eggs
+2570,Milk
+2571,Cereal
+2571,Milk
+2571,Pasta
+2571,Pasta sauce
+2571,Yogurt
+2572,Tea
+2572,Yogurt
+2573,Cereal
+2573,Eggs
+2573,Milk
+2573,Parmesan
+2573,Pasta
+2573,Pasta sauce
+2573,Sparkling water
+2574,Bread
+2574,Chocolate
+2574,Parmesan
+2574,Pasta
+2574,Pasta sauce
+2575,Bread
+2576,Milk
+2576,Salsa
+2576,Tea
+2576,Tortilla chips
+2577,Bananas
+2577,Bread
+2577,Chocolate
+2578,Chocolate
+2578,Pasta
+2578,Pasta sauce
+2578,Tortilla chips
+2578,Yogurt
+2579,Milk
+2579,Salsa
+2579,Tortilla chips
+2580,Apples
+2580,Chocolate
+2580,Eggs
+2580,Salsa
+2580,Sparkling water
+2580,Yogurt
+2581,Bananas
+2581,Eggs
+2581,Milk
+2582,Apples
+2582,Bread
+2582,Milk
+2582,Pasta
+2582,Salsa
+2582,Sparkling water
+2582,Tea
+2582,Tortilla chips
+2583,Apples
+2584,Milk
+2584,Salsa
+2584,Tea
+2585,Bananas
+2585,Bread
+2585,Cereal
+2585,Milk
+2585,Salsa
+2585,Tortilla chips
+2586,Coffee
+2586,Salsa
+2586,Tortilla chips
+2587,Apples
+2588,Bread
+2588,Cereal
+2588,Coffee
+2588,Milk
+2589,Eggs
+2589,Milk
+2590,Parmesan
+2590,Pasta
+2590,Pasta sauce
+2590,Salsa
+2590,Tortilla chips
+2591,Bananas
+2591,Eggs
+2591,Sparkling water
+2592,Eggs
+2592,Milk
+2592,Tea
+2593,Salsa
+2593,Sparkling water
+2594,Cereal
+2594,Eggs
+2595,Eggs
+2595,Pasta
+2596,Chocolate
+2597,Bread
+2597,Eggs
+2597,Parmesan
+2597,Pasta
+2597,Pasta sauce
+2598,Bananas
+2598,Eggs
+2598,Milk
+2599,Chocolate
+2599,Yogurt
+2600,Bread
+2600,Cereal
+2600,Chocolate
+2600,Eggs
+2601,Bread
+2601,Eggs
+2601,Milk
+2601,Yogurt
+2602,Yogurt
+2603,Milk
+2603,Salsa
+2604,Chocolate
+2604,Pasta
+2604,Pasta sauce
+2604,Salsa
+2605,Bananas
+2605,Chocolate
+2605,Eggs
+2606,Bread
+2606,Chocolate
+2607,Apples
+2607,Cereal
+2607,Eggs
+2607,Milk
+2607,Sparkling water
+2608,Bananas
+2608,Bread
+2608,Eggs
+2608,Tortilla chips
+2609,Apples
+2609,Pasta sauce
+2610,Bread
+2610,Cereal
+2610,Milk
+2610,Pasta
+2610,Yogurt
+2611,Eggs
+2611,Milk
+2612,Bananas
+2612,Bread
+2612,Coffee
+2612,Sparkling water
+2613,Bananas
+2613,Cereal
+2613,Milk
+2613,Salsa
+2613,Sparkling water
+2613,Tortilla chips
+2613,Yogurt
+2614,Parmesan
+2614,Salsa
+2614,Tortilla chips
+2615,Apples
+2615,Pasta
+2616,Bread
+2616,Milk
+2616,Salsa
+2617,Bananas
+2617,Cereal
+2617,Milk
+2617,Parmesan
+2617,Pasta
+2617,Pasta sauce
+2618,Apples
+2618,Bread
+2618,Milk
+2618,Parmesan
+2619,Apples
+2619,Bananas
+2619,Chocolate
+2619,Milk
+2619,Tea
+2620,Milk
+2621,Bread
+2621,Milk
+2621,Pasta
+2621,Pasta sauce
+2622,Apples
+2622,Cereal
+2622,Coffee
+2622,Milk
+2622,Pasta
+2622,Pasta sauce
+2622,Salsa
+2622,Sparkling water
+2622,Tortilla chips
+2622,Yogurt
+2623,Cereal
+2623,Pasta sauce
+2624,Chocolate
+2624,Milk
+2624,Yogurt
+2625,Bread
+2626,Chocolate
+2626,Coffee
+2626,Eggs
+2626,Milk
+2626,Parmesan
+2626,Pasta
+2626,Pasta sauce
+2626,Tea
+2626,Yogurt
+2627,Bananas
+2628,Apples
+2628,Bananas
+2628,Coffee
+2628,Milk
+2629,Cereal
+2629,Coffee
+2629,Milk
+2629,Parmesan
+2629,Pasta
+2629,Pasta sauce
+2629,Salsa
+2630,Chocolate
+2630,Eggs
+2631,Chocolate
+2631,Coffee
+2631,Salsa
+2632,Chocolate
+2632,Tea
+2633,Apples
+2633,Eggs
+2633,Milk
+2633,Yogurt
+2634,Milk
+2634,Pasta
+2634,Pasta sauce
+2634,Salsa
+2634,Tortilla chips
+2635,Milk
+2635,Salsa
+2635,Sparkling water
+2635,Tortilla chips
+2636,Pasta sauce
+2637,Cereal
+2637,Coffee
+2637,Eggs
+2637,Milk
+2637,Salsa
+2638,Apples
+2638,Milk
+2638,Yogurt
+2639,Bananas
+2639,Cereal
+2639,Milk
+2639,Pasta sauce
+2640,Cereal
+2640,Chocolate
+2640,Salsa
+2640,Tortilla chips
+2641,Cereal
+2641,Eggs
+2641,Milk
+2641,Pasta
+2641,Pasta sauce
+2642,Bananas
+2642,Eggs
+2642,Parmesan
+2642,Pasta
+2642,Pasta sauce
+2642,Salsa
+2642,Tortilla chips
+2642,Yogurt
+2643,Bread
+2643,Pasta
+2643,Sparkling water
+2644,Cereal
+2644,Salsa
+2644,Tea
+2644,Yogurt
+2645,Apples
+2645,Bananas
+2646,Bread
+2646,Yogurt
+2647,Apples
+2647,Milk
+2647,Parmesan
+2648,Bananas
+2648,Salsa
+2648,Tortilla chips
+2649,Bread
+2649,Coffee
+2649,Milk
+2650,Parmesan
+2650,Pasta
+2650,Pasta sauce
+2651,Bananas
+2651,Bread
+2651,Cereal
+2652,Salsa
+2652,Tortilla chips
+2652,Yogurt
+2653,Bananas
+2653,Pasta sauce
+2653,Yogurt
+2654,Bread
+2654,Cereal
+2654,Salsa
+2654,Tortilla chips
+2655,Eggs
+2655,Parmesan
+2655,Pasta
+2655,Pasta sauce
+2656,Chocolate
+2656,Parmesan
+2656,Pasta
+2656,Pasta sauce
+2657,Cereal
+2657,Eggs
+2657,Milk
+2658,Cereal
+2658,Eggs
+2659,Milk
+2660,Bananas
+2660,Eggs
+2660,Milk
+2660,Salsa
+2661,Bread
+2661,Cereal
+2661,Milk
+2661,Salsa
+2661,Tortilla chips
+2662,Bananas
+2662,Milk
+2663,Bread
+2663,Eggs
+2664,Apples
+2664,Cereal
+2664,Milk
+2664,Sparkling water
+2664,Yogurt
+2665,Parmesan
+2665,Pasta
+2665,Pasta sauce
+2665,Tortilla chips
+2665,Yogurt
+2666,Apples
+2666,Bananas
+2666,Yogurt
+2667,Cereal
+2667,Parmesan
+2667,Pasta
+2667,Pasta sauce
+2667,Sparkling water
+2668,Cereal
+2668,Chocolate
+2668,Milk
+2668,Tortilla chips
+2669,Cereal
+2669,Milk
+2669,Pasta
+2670,Bread
+2670,Coffee
+2670,Milk
+2671,Eggs
+2671,Parmesan
+2671,Pasta
+2671,Pasta sauce
+2671,Yogurt
+2672,Bananas
+2672,Cereal
+2672,Milk
+2672,Pasta
+2673,Eggs
+2673,Salsa
+2673,Tortilla chips
+2674,Bread
+2674,Eggs
+2674,Milk
+2674,Pasta
+2674,Pasta sauce
+2675,Cereal
+2675,Tea
+2676,Bread
+2676,Milk
+2677,Apples
+2677,Sparkling water
+2677,Yogurt
+2678,Bananas
+2678,Bread
+2678,Milk
+2678,Salsa
+2678,Tortilla chips
+2678,Yogurt
+2679,Bananas
+2679,Chocolate
+2680,Milk
+2680,Yogurt
+2681,Cereal
+2681,Eggs
+2681,Milk
+2682,Cereal
+2682,Milk
+2682,Yogurt
+2683,Bananas
+2683,Eggs
+2683,Yogurt
+2684,Bread
+2684,Yogurt
+2685,Apples
+2685,Parmesan
+2685,Pasta
+2685,Pasta sauce
+2685,Salsa
+2685,Sparkling water
+2685,Tortilla chips
+2686,Apples
+2686,Pasta
+2687,Eggs
+2688,Bananas
+2688,Pasta sauce
+2689,Bananas
+2689,Bread
+2689,Yogurt
+2690,Pasta
+2691,Milk
+2692,Apples
+2692,Milk
+2692,Pasta
+2692,Pasta sauce
+2693,Bread
+2693,Chocolate
+2693,Milk
+2694,Chocolate
+2694,Pasta
+2695,Apples
+2695,Eggs
+2695,Milk
+2696,Bananas
+2696,Bread
+2696,Sparkling water
+2696,Tortilla chips
+2697,Milk
+2698,Milk
+2698,Pasta
+2699,Bananas
+2699,Bread
+2699,Cereal
+2699,Tortilla chips
+2700,Bananas
+2700,Milk
+2700,Salsa
+2700,Tortilla chips
+2701,Bananas
+2701,Bread
+2701,Yogurt
+2702,Coffee
+2702,Milk
+2702,Salsa
+2703,Apples
+2703,Bananas
+2703,Milk
+2704,Bread
+2704,Sparkling water
+2705,Milk
+2705,Sparkling water
+2706,Bread
+2706,Eggs
+2706,Pasta sauce
+2706,Sparkling water
+2706,Yogurt
+2707,Bread
+2707,Cereal
+2707,Eggs
+2707,Milk
+2707,Salsa
+2707,Sparkling water
+2707,Tortilla chips
+2708,Apples
+2708,Bread
+2708,Milk
+2708,Pasta
+2708,Pasta sauce
+2709,Bread
+2709,Eggs
+2709,Milk
+2709,Sparkling water
+2709,Tortilla chips
+2710,Milk
+2710,Sparkling water
+2711,Apples
+2711,Chocolate
+2711,Coffee
+2711,Milk
+2711,Salsa
+2711,Sparkling water
+2711,Tortilla chips
+2712,Pasta
+2712,Salsa
+2712,Sparkling water
+2712,Tortilla chips
+2713,Bananas
+2714,Bread
+2714,Salsa
+2714,Tortilla chips
+2715,Bananas
+2715,Coffee
+2716,Bananas
+2716,Cereal
+2716,Chocolate
+2716,Yogurt
+2717,Bananas
+2717,Coffee
+2717,Milk
+2717,Salsa
+2717,Tortilla chips
+2718,Bread
+2718,Coffee
+2718,Milk
+2719,Bananas
+2719,Bread
+2719,Pasta
+2720,Bread
+2720,Milk
+2720,Salsa
+2720,Tortilla chips
+2721,Parmesan
+2721,Pasta sauce
+2721,Yogurt
+2722,Chocolate
+2722,Milk
+2722,Salsa
+2722,Tea
+2722,Tortilla chips
+2723,Bananas
+2723,Milk
+2724,Cereal
+2724,Milk
+2725,Bread
+2725,Eggs
+2725,Milk
+2725,Parmesan
+2725,Pasta
+2725,Pasta sauce
+2725,Tortilla chips
+2726,Apples
+2726,Pasta
+2726,Salsa
+2726,Tortilla chips
+2727,Apples
+2727,Milk
+2727,Salsa
+2728,Apples
+2728,Milk
+2728,Parmesan
+2728,Pasta
+2728,Pasta sauce
+2729,Eggs
+2730,Bananas
+2730,Bread
+2730,Milk
+2730,Parmesan
+2730,Pasta
+2730,Pasta sauce
+2731,Cereal
+2731,Milk
+2731,Parmesan
+2731,Pasta
+2731,Pasta sauce
+2731,Yogurt
+2732,Apples
+2732,Bananas
+2732,Chocolate
+2732,Eggs
+2732,Milk
+2733,Coffee
+2733,Pasta
+2733,Pasta sauce
+2733,Salsa
+2733,Tortilla chips
+2734,Bananas
+2734,Salsa
+2734,Tortilla chips
+2735,Bananas
+2735,Salsa
+2735,Tea
+2736,Bread
+2736,Cereal
+2736,Milk
+2736,Pasta sauce
+2736,Yogurt
+2737,Bananas
+2737,Bread
+2737,Milk
+2737,Salsa
+2737,Tortilla chips
+2737,Yogurt
+2738,Bananas
+2738,Bread
+2738,Pasta
+2739,Apples
+2739,Pasta
+2739,Pasta sauce
+2739,Salsa
+2740,Bananas
+2741,Bread
+2741,Cereal
+2741,Coffee
+2741,Eggs
+2742,Eggs
+2742,Pasta sauce
+2742,Tea
+2743,Cereal
+2743,Chocolate
+2743,Eggs
+2743,Parmesan
+2743,Pasta
+2743,Pasta sauce
+2743,Yogurt
+2744,Milk
+2744,Parmesan
+2744,Yogurt
+2745,Parmesan
+2745,Pasta
+2745,Pasta sauce
+2745,Sparkling water
+2745,Tea
+2746,Coffee
+2746,Eggs
+2746,Salsa
+2746,Tortilla chips
+2747,Coffee
+2747,Milk
+2748,Bananas
+2748,Eggs
+2748,Milk
+2749,Milk
+2749,Pasta
+2750,Milk
+2750,Pasta
+2750,Sparkling water
+2751,Bananas
+2751,Cereal
+2751,Milk
+2751,Salsa
+2751,Tortilla chips
+2751,Yogurt
+2752,Bananas
+2752,Chocolate
+2752,Parmesan
+2752,Salsa
+2752,Tortilla chips
+2753,Bananas
+2753,Bread
+2753,Cereal
+2753,Yogurt
+2754,Bananas
+2754,Bread
+2754,Coffee
+2754,Milk
+2754,Parmesan
+2754,Pasta
+2754,Pasta sauce
+2754,Yogurt
+2755,Cereal
+2755,Eggs
+2755,Pasta sauce
+2756,Milk
+2757,Bananas
+2757,Cereal
+2757,Coffee
+2757,Milk
+2758,Milk
+2758,Parmesan
+2758,Pasta
+2758,Pasta sauce
+2759,Bananas
+2759,Parmesan
+2759,Salsa
+2759,Sparkling water
+2759,Tortilla chips
+2760,Salsa
+2760,Tortilla chips
+2761,Bananas
+2761,Milk
+2761,Tea
+2762,Bread
+2762,Cereal
+2762,Milk
+2762,Parmesan
+2763,Bananas
+2763,Eggs
+2763,Tea
+2764,Apples
+2764,Bananas
+2764,Cereal
+2764,Eggs
+2764,Milk
+2764,Pasta
+2764,Pasta sauce
+2764,Tea
+2765,Bananas
+2765,Chocolate
+2765,Yogurt
+2766,Cereal
+2766,Chocolate
+2766,Coffee
+2766,Milk
+2767,Bananas
+2767,Tortilla chips
+2768,Bread
+2768,Coffee
+2768,Milk
+2768,Pasta
+2768,Pasta sauce
+2768,Yogurt
+2769,Coffee
+2769,Milk
+2769,Sparkling water
+2770,Bananas
+2770,Parmesan
+2770,Pasta
+2770,Pasta sauce
+2770,Salsa
+2770,Tortilla chips
+2771,Cereal
+2771,Tea
+2772,Milk
+2773,Cereal
+2773,Coffee
+2773,Milk
+2773,Salsa
+2773,Tortilla chips
+2774,Cereal
+2774,Pasta
+2774,Tortilla chips
+2775,Apples
+2775,Bananas
+2775,Chocolate
+2775,Eggs
+2776,Bread
+2776,Cereal
+2776,Milk
+2776,Salsa
+2776,Tea
+2776,Tortilla chips
+2777,Bananas
+2777,Pasta sauce
+2777,Tortilla chips
+2778,Bananas
+2779,Parmesan
+2779,Pasta
+2779,Pasta sauce
+2780,Eggs
+2780,Pasta
+2780,Pasta sauce
+2780,Sparkling water
+2781,Tea
+2782,Apples
+2782,Bananas
+2782,Bread
+2782,Parmesan
+2782,Pasta
+2782,Pasta sauce
+2782,Sparkling water
+2782,Yogurt
+2783,Bananas
+2783,Eggs
+2784,Salsa
+2785,Cereal
+2785,Milk
+2785,Parmesan
+2785,Pasta
+2785,Pasta sauce
+2786,Chocolate
+2786,Eggs
+2786,Yogurt
+2787,Apples
+2787,Bread
+2787,Pasta
+2787,Salsa
+2787,Tea
+2787,Tortilla chips
+2788,Milk
+2789,Eggs
+2789,Milk
+2789,Tea
+2790,Cereal
+2790,Milk
+2791,Bananas
+2791,Cereal
+2791,Eggs
+2791,Milk
+2791,Parmesan
+2791,Pasta
+2791,Pasta sauce
+2791,Salsa
+2791,Tortilla chips
+2792,Eggs
+2792,Milk
+2792,Pasta
+2792,Sparkling water
+2793,Apples
+2793,Pasta
+2793,Yogurt
+2794,Cereal
+2794,Coffee
+2794,Milk
+2794,Pasta
+2795,Bread
+2795,Chocolate
+2795,Coffee
+2795,Tortilla chips
+2796,Bread
+2796,Cereal
+2796,Milk
+2797,Salsa
+2797,Tortilla chips
+2797,Yogurt
+2798,Tortilla chips
+2799,Milk
+2799,Pasta
+2799,Tea
+2800,Bananas
+2800,Cereal
+2800,Eggs
+2800,Milk
+2800,Yogurt
+2801,Bananas
+2801,Bread
+2801,Chocolate
+2801,Milk
+2802,Cereal
+2802,Coffee
+2802,Milk
+2802,Parmesan
+2802,Pasta
+2802,Pasta sauce
+2802,Sparkling water
+2803,Cereal
+2803,Eggs
+2803,Milk
+2804,Apples
+2805,Milk
+2806,Bananas
+2807,Bananas
+2807,Eggs
+2807,Milk
+2807,Parmesan
+2807,Pasta
+2807,Pasta sauce
+2808,Apples
+2808,Milk
+2809,Bananas
+2809,Eggs
+2809,Salsa
+2809,Tortilla chips
+2810,Bread
+2810,Eggs
+2810,Milk
+2811,Bread
+2811,Chocolate
+2811,Coffee
+2812,Bananas
+2812,Eggs
+2812,Milk
+2812,Salsa
+2813,Apples
+2813,Bread
+2813,Coffee
+2813,Salsa
+2813,Tortilla chips
+2814,Bananas
+2814,Bread
+2814,Cereal
+2814,Milk
+2815,Pasta
+2816,Bananas
+2816,Bread
+2816,Cereal
+2816,Salsa
+2816,Tea
+2816,Tortilla chips
+2817,Cereal
+2817,Parmesan
+2817,Pasta
+2817,Pasta sauce
+2818,Bread
+2818,Milk
+2818,Parmesan
+2818,Pasta
+2818,Pasta sauce
+2818,Tortilla chips
+2818,Yogurt
+2819,Bananas
+2819,Cereal
+2819,Milk
+2820,Bread
+2820,Sparkling water
+2821,Chocolate
+2821,Parmesan
+2821,Pasta
+2821,Pasta sauce
+2822,Bread
+2822,Milk
+2823,Eggs
+2824,Bread
+2824,Coffee
+2824,Milk
+2824,Yogurt
+2825,Bananas
+2825,Eggs
+2825,Pasta
+2825,Pasta sauce
+2826,Eggs
+2826,Parmesan
+2826,Pasta
+2826,Pasta sauce
+2827,Milk
+2827,Parmesan
+2827,Salsa
+2828,Bread
+2828,Milk
+2828,Yogurt
+2829,Bananas
+2829,Salsa
+2829,Tortilla chips
+2830,Chocolate
+2831,Cereal
+2831,Eggs
+2831,Milk
+2831,Salsa
+2831,Tortilla chips
+2832,Bananas
+2832,Salsa
+2832,Tortilla chips
+2833,Cereal
+2833,Coffee
+2833,Milk
+2833,Salsa
+2833,Tortilla chips
+2834,Bread
+2834,Cereal
+2834,Milk
+2835,Bananas
+2835,Milk
+2835,Pasta
+2835,Pasta sauce
+2835,Salsa
+2835,Tortilla chips
+2836,Apples
+2836,Parmesan
+2837,Bananas
+2837,Cereal
+2837,Coffee
+2837,Sparkling water
+2838,Cereal
+2838,Milk
+2838,Sparkling water
+2838,Tea
+2839,Bananas
+2839,Milk
+2839,Pasta
+2839,Pasta sauce
+2839,Yogurt
+2840,Bananas
+2840,Chocolate
+2840,Coffee
+2840,Milk
+2840,Salsa
+2840,Tortilla chips
+2840,Yogurt
+2841,Bananas
+2841,Cereal
+2841,Salsa
+2841,Tortilla chips
+2842,Apples
+2842,Tea
+2843,Milk
+2843,Salsa
+2843,Tortilla chips
+2843,Yogurt
+2844,Chocolate
+2844,Eggs
+2844,Pasta sauce
+2845,Bread
+2845,Cereal
+2845,Chocolate
+2845,Milk
+2845,Pasta
+2845,Pasta sauce
+2845,Sparkling water
+2846,Bread
+2846,Milk
+2847,Cereal
+2847,Eggs
+2847,Milk
+2848,Cereal
+2848,Parmesan
+2848,Pasta
+2848,Pasta sauce
+2848,Salsa
+2848,Tortilla chips
+2849,Apples
+2849,Bread
+2849,Parmesan
+2849,Pasta
+2849,Salsa
+2849,Sparkling water
+2849,Tortilla chips
+2850,Bread
+2850,Pasta
+2851,Parmesan
+2851,Pasta
+2851,Pasta sauce
+2851,Sparkling water
+2852,Yogurt
+2853,Tortilla chips
+2854,Cereal
+2855,Eggs
+2855,Pasta sauce
+2855,Yogurt
+2856,Bananas
+2856,Cereal
+2856,Milk
+2857,Apples
+2857,Bananas
+2857,Yogurt
+2858,Bananas
+2858,Milk
+2858,Sparkling water
+2859,Bread
+2859,Tea
+2860,Cereal
+2860,Milk
+2861,Bread
+2861,Yogurt
+2862,Apples
+2862,Cereal
+2862,Salsa
+2862,Sparkling water
+2862,Tortilla chips
+2863,Bananas
+2863,Milk
+2863,Salsa
+2863,Tortilla chips
+2864,Yogurt
+2865,Chocolate
+2865,Coffee
+2865,Sparkling water
+2866,Milk
+2866,Pasta
+2866,Pasta sauce
+2867,Apples
+2867,Bananas
+2867,Cereal
+2867,Milk
+2868,Bananas
+2868,Chocolate
+2868,Eggs
+2868,Parmesan
+2868,Pasta
+2868,Pasta sauce
+2868,Tortilla chips
+2869,Sparkling water
+2870,Bananas
+2870,Chocolate
+2870,Coffee
+2871,Bananas
+2871,Cereal
+2871,Parmesan
+2871,Pasta
+2871,Pasta sauce
+2872,Bread
+2872,Cereal
+2872,Milk
+2872,Sparkling water
+2873,Cereal
+2873,Coffee
+2873,Milk
+2873,Parmesan
+2873,Salsa
+2873,Sparkling water
+2873,Tortilla chips
+2874,Bread
+2874,Cereal
+2874,Chocolate
+2875,Bananas
+2875,Chocolate
+2875,Coffee
+2875,Eggs
+2876,Bananas
+2876,Coffee
+2876,Parmesan
+2876,Pasta
+2876,Pasta sauce
+2876,Salsa
+2876,Tea
+2876,Tortilla chips
+2877,Apples
+2877,Pasta
+2877,Tea
+2878,Bananas
+2878,Milk
+2878,Parmesan
+2878,Pasta
+2878,Pasta sauce
+2878,Sparkling water
+2879,Bread
+2879,Cereal
+2879,Pasta
+2879,Pasta sauce
+2879,Tortilla chips
+2880,Apples
+2880,Coffee
+2880,Eggs
+2880,Pasta
+2880,Sparkling water
+2881,Apples
+2881,Coffee
+2881,Milk
+2881,Sparkling water
+2881,Tortilla chips
+2882,Bananas
+2882,Cereal
+2882,Milk
+2882,Salsa
+2882,Tortilla chips
+2883,Eggs
+2883,Milk
+2884,Apples
+2884,Bananas
+2884,Bread
+2884,Chocolate
+2885,Bananas
+2885,Chocolate
+2885,Coffee
+2885,Eggs
+2886,Apples
+2886,Coffee
+2886,Tea
+2887,Bread
+2887,Parmesan
+2887,Pasta
+2887,Pasta sauce
+2887,Salsa
+2887,Tortilla chips
+2888,Bread
+2888,Coffee
+2888,Eggs
+2888,Parmesan
+2888,Pasta
+2888,Pasta sauce
+2889,Bread
+2889,Parmesan
+2890,Bread
+2890,Coffee
+2890,Parmesan
+2890,Yogurt
+2891,Apples
+2891,Bananas
+2891,Bread
+2891,Cereal
+2891,Milk
+2891,Pasta
+2891,Sparkling water
+2891,Tea
+2892,Yogurt
+2893,Apples
+2893,Bread
+2893,Cereal
+2893,Milk
+2894,Bananas
+2894,Cereal
+2894,Milk
+2895,Bananas
+2895,Bread
+2895,Cereal
+2895,Milk
+2896,Bananas
+2896,Milk
+2896,Pasta sauce
+2896,Sparkling water
+2897,Cereal
+2897,Eggs
+2898,Cereal
+2898,Sparkling water
+2899,Cereal
+2899,Milk
+2899,Salsa
+2899,Tortilla chips
+2900,Bananas
+2900,Sparkling water
+2901,Cereal
+2901,Coffee
+2901,Milk
+2901,Salsa
+2901,Tortilla chips
+2902,Cereal
+2902,Milk
+2902,Pasta sauce
+2902,Yogurt
+2903,Apples
+2903,Cereal
+2903,Milk
+2904,Apples
+2904,Bananas
+2904,Eggs
+2905,Bread
+2905,Coffee
+2905,Yogurt
+2906,Bread
+2906,Cereal
+2906,Parmesan
+2906,Pasta
+2906,Pasta sauce
+2907,Bread
+2907,Parmesan
+2907,Pasta
+2907,Pasta sauce
+2908,Apples
+2908,Bananas
+2908,Bread
+2908,Chocolate
+2908,Milk
+2908,Pasta
+2908,Pasta sauce
+2908,Salsa
+2908,Tortilla chips
+2909,Bread
+2909,Salsa
+2909,Tortilla chips
+2910,Bread
+2910,Eggs
+2911,Apples
+2911,Bananas
+2911,Bread
+2911,Pasta
+2911,Pasta sauce
+2911,Salsa
+2911,Yogurt
+2912,Apples
+2912,Bread
+2912,Chocolate
+2912,Milk
+2913,Chocolate
+2914,Apples
+2914,Bread
+2914,Cereal
+2914,Milk
+2914,Yogurt
+2915,Apples
+2915,Bananas
+2915,Eggs
+2915,Parmesan
+2916,Bananas
+2916,Cereal
+2916,Milk
+2917,Cereal
+2917,Pasta
+2917,Sparkling water
+2918,Milk
+2918,Yogurt
+2919,Bread
+2920,Milk
+2920,Tortilla chips
+2921,Bread
+2921,Cereal
+2922,Apples
+2922,Tea
+2923,Apples
+2923,Bananas
+2923,Bread
+2924,Apples
+2924,Bread
+2924,Chocolate
+2924,Yogurt
+2925,Apples
+2925,Pasta sauce
+2926,Cereal
+2926,Coffee
+2926,Milk
+2926,Sparkling water
+2927,Apples
+2927,Bread
+2927,Sparkling water
+2928,Chocolate
+2928,Eggs
+2928,Milk
+2929,Coffee
+2929,Eggs
+2930,Apples
+2930,Tea
+2931,Bananas
+2931,Bread
+2931,Eggs
+2931,Milk
+2931,Parmesan
+2931,Sparkling water
+2932,Cereal
+2932,Milk
+2932,Parmesan
+2932,Pasta
+2932,Pasta sauce
+2932,Salsa
+2932,Sparkling water
+2932,Tortilla chips
+2933,Bread
+2933,Yogurt
+2934,Bananas
+2934,Cereal
+2934,Chocolate
+2934,Milk
+2935,Chocolate
+2935,Coffee
+2935,Eggs
+2936,Bread
+2936,Coffee
+2936,Milk
+2936,Pasta sauce
+2936,Salsa
+2936,Tortilla chips
+2937,Cereal
+2937,Salsa
+2937,Tortilla chips
+2938,Coffee
+2939,Cereal
+2939,Milk
+2940,Bread
+2940,Eggs
+2940,Milk
+2940,Pasta sauce
+2941,Bananas
+2941,Eggs
+2941,Pasta
+2941,Sparkling water
+2942,Cereal
+2942,Coffee
+2942,Milk
+2942,Pasta sauce
+2942,Salsa
+2942,Tortilla chips
+2943,Bananas
+2943,Pasta
+2943,Salsa
+2943,Sparkling water
+2943,Tortilla chips
+2944,Bananas
+2944,Bread
+2944,Cereal
+2944,Milk
+2945,Cereal
+2945,Coffee
+2945,Eggs
+2945,Milk
+2946,Cereal
+2946,Eggs
+2946,Milk
+2946,Sparkling water
+2947,Apples
+2947,Bread
+2947,Milk
+2947,Yogurt
+2948,Bananas
+2948,Milk
+2948,Parmesan
+2948,Pasta
+2948,Pasta sauce
+2948,Yogurt
+2949,Eggs
+2949,Pasta sauce
+2949,Salsa
+2949,Tortilla chips
+2950,Salsa
+2950,Tortilla chips
+2950,Yogurt
+2951,Pasta sauce
+2951,Salsa
+2951,Tortilla chips
+2952,Bread
+2952,Milk
+2952,Pasta
+2952,Pasta sauce
+2952,Yogurt
+2953,Bread
+2953,Cereal
+2953,Milk
+2953,Tea
+2953,Yogurt
+2954,Pasta sauce
+2955,Bananas
+2955,Milk
+2955,Salsa
+2955,Tortilla chips
+2956,Bananas
+2956,Bread
+2956,Chocolate
+2956,Eggs
+2957,Bread
+2957,Cereal
+2957,Milk
+2957,Tea
+2958,Apples
+2958,Coffee
+2958,Milk
+2959,Apples
+2959,Coffee
+2960,Bread
+2961,Bread
+2961,Eggs
+2961,Milk
+2961,Salsa
+2961,Tortilla chips
+2962,Coffee
+2962,Milk
+2962,Tea
+2963,Bread
+2963,Chocolate
+2963,Milk
+2964,Bananas
+2964,Cereal
+2964,Milk
+2964,Salsa
+2964,Tortilla chips
+2965,Bread
+2965,Parmesan
+2965,Pasta
+2965,Pasta sauce
+2965,Tea
+2966,Apples
+2966,Bananas
+2966,Pasta
+2966,Sparkling water
+2967,Cereal
+2967,Coffee
+2967,Milk
+2967,Pasta
+2968,Bread
+2968,Cereal
+2968,Chocolate
+2968,Milk
+2969,Cereal
+2969,Chocolate
+2969,Parmesan
+2970,Bread
+2970,Salsa
+2970,Tortilla chips
+2971,Apples
+2971,Bread
+2972,Milk
+2972,Sparkling water
+2973,Eggs
+2973,Milk
+2974,Bananas
+2974,Bread
+2974,Chocolate
+2974,Eggs
+2975,Bananas
+2975,Cereal
+2975,Milk
+2976,Cereal
+2976,Salsa
+2976,Tortilla chips
+2977,Chocolate
+2977,Tortilla chips
+2978,Milk
+2978,Parmesan
+2978,Pasta
+2978,Pasta sauce
+2978,Sparkling water
+2978,Yogurt
+2979,Eggs
+2979,Pasta
+2979,Pasta sauce
+2979,Yogurt
+2980,Apples
+2980,Bread
+2981,Bananas
+2981,Milk
+2982,Apples
+2982,Bread
+2982,Eggs
+2982,Milk
+2983,Bread
+2983,Milk
+2983,Pasta
+2983,Tea
+2984,Bananas
+2984,Bread
+2984,Pasta
+2984,Pasta sauce
+2985,Bananas
+2985,Bread
+2985,Eggs
+2985,Milk
+2985,Salsa
+2985,Yogurt
+2986,Bananas
+2986,Bread
+2986,Cereal
+2986,Eggs
+2986,Parmesan
+2986,Pasta
+2986,Pasta sauce
+2986,Salsa
+2986,Tortilla chips
+2986,Yogurt
+2987,Cereal
+2987,Eggs
+2987,Milk
+2988,Coffee
+2988,Milk
+2989,Bread
+2989,Eggs
+2989,Pasta sauce
+2990,Cereal
+2990,Sparkling water
+2991,Bread
+2991,Chocolate
+2991,Eggs
+2991,Parmesan
+2991,Pasta
+2991,Pasta sauce
+2992,Apples
+2992,Bread
+2993,Bananas
+2993,Eggs
+2993,Milk
+2994,Bread
+2994,Cereal
+2994,Eggs
+2994,Milk
+2994,Pasta sauce
+2994,Tea
+2995,Bread
+2995,Parmesan
+2995,Pasta
+2995,Pasta sauce
+2995,Tea
+2996,Apples
+2996,Milk
+2997,Bread
+2997,Chocolate
+2997,Milk
+2997,Parmesan
+2997,Pasta
+2997,Pasta sauce
+2997,Salsa
+2997,Tortilla chips
+2998,Apples
+2998,Pasta
+2998,Sparkling water
+2999,Coffee
+2999,Milk
+2999,Pasta
+2999,Salsa
+2999,Tortilla chips
+2999,Yogurt
+3000,Bread
+3000,Tea
+3000,Tortilla chips
+3000,Yogurt
